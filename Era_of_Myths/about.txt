@@ -1,0 +1,117 @@
+ - About the EOM -
+The Era of Myths was first released June 5th, 2006.  The original version contained 3 factions: the Shifters, Werewolves, and Undead; the Elementals were added the following day.  The Werewolves were later renamed the Warg (11-15-06), and the Shifters were later renamed the Therians  (1-22-07), and the Undead were later removed.  The Vampires and Celestial factions were both added on July 26th, 2006.  The Devlings were added January 22nd, 2007.  An experiment with a third attack range and additional damage types was implemented on November 15th, 2006.  Those changes were completely reverted November 30th, 2007 after mainline Holy damage was reworked into Arcane.  On that same date the Windsong faction was added. No factions have been added since.
+
+
+version Epsilon 5 released April 8th, 2009
+
+
+ - Credits -
+
+ERA MAINTAINER:
+--JW
+
+CO-MAINTAINER:
+--Espreon
+--Velensk
+
+SPECIAL THANKS:
+--Jester
+--Velensk
+--Espreon
+--Eternal
+--Mythological
+--jb
+--Lunar2
+--Melon
+
+CAMPAIGN WRITERS:
+--Velensk
+
+PLAYTESTERS:
+--JW
+--Velensk
+--Weeksy
+--DDR
+--Aethaeryn
+--RAT400
+--reloc
+--everyone who has enjoyed playing the era and who has given feedback
+
+ABERRATIONS:
+Original ideas:
+--JW
+Further Ideas:
+--Cuyo
+--EP
+--others
+
+CELESTIALS:
+Original idea:
+--JW
+Further Ideas:
+--Cuyo
+--others
+Art:
+--Eternal
+--Ryorin
+--Neoriceisgood
+--others
+
+DEVLINGS:
+Original idea & art:
+--dreampilot
+Portraits:
+--EVILEST
+
+ELEMENTALS:
+Original Idea & art:
+--fmunoz (??)
+
+THERIANS:
+Original Idea:
+--JW
+Art:
+--Melon
+--Eternal
+--Neoriceisgood
+--JW
+--Neoskel
+--others
+
+UNDEAD:
+Additional art:
+--Pic
+
+VAMPIRES:
+Original Idea:
+--Jester
+Art:
+--Melon
+--Jester
+--Eternal
+--EVILEST (portraits)
+
+WARGS:
+Original Idea:
+--Shadowblitz
+Modification Original Idea:
+--Logan
+Further Ideas:
+--Doc Paterson
+--Jester
+--The Raven
+--JW
+Art:
+--Gargoyle Pillager
+--Inquisidor_Gado
+--Jester
+--Neoriceisgood
+--jb
+--Melon
+--JW
+
+WINDSONG
+Original idea, art:
+--megane
+New descriptions:
+--henkutsu
