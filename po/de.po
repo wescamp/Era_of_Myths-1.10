@@ -1,135 +1,146 @@
+# Drakefriend, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: PACKAGE VERSION\n"
+"Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-07-16 06:08-0400\n"
-"PO-Revision-Date: 2011-07-16 06:08-0400\n"
-"Last-Translator: Automatically generated\n"
+"POT-Creation-Date: 2011-07-16 06:25-0400\n"
+"PO-Revision-Date: 2011-07-11 21:44+0200\n"
+"Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Virtaal 0.6.1\n"
 
 #. [era]: id=era_EOM_{ERA_OF_MYTHS_VERSION}
-#: EOM_eras.cfg:5
+#: Era_of_Myths/EOM_eras.cfg:5
 msgid "Era of Myths"
-msgstr ""
+msgstr "Zeit der Mythen"
 
 #. [era]: id=era_EOM_core_{ERA_OF_MYTHS_VERSION}
-#: EOM_eras.cfg:20
+#: Era_of_Myths/EOM_eras.cfg:20
 msgid "Core Era of Myths"
-msgstr ""
+msgstr "Kernmythen"
 
 #. [era]: id=era_EOM_power_{ERA_OF_MYTHS_VERSION}
-#: EOM_eras.cfg:32
+#: Era_of_Myths/EOM_eras.cfg:32
 msgid "Empowered Myths"
-msgstr ""
+msgstr "Mythisches Zeitalter"
 
 #. [era]: id=era_EOM_power_aoh_{ERA_OF_MYTHS_VERSION}
-#: EOM_eras.cfg:47
+#: Era_of_Myths/EOM_eras.cfg:47
 msgid "Empowered Heroes"
-msgstr ""
+msgstr "Heroisches Zeitalter"
 
 #. [era]: id=era_EOM_recruit_{ERA_OF_MYTHS_VERSION}
-#: EOM_eras.cfg:68
+#: Era_of_Myths/EOM_eras.cfg:68
 msgid "Myth RPG"
-msgstr ""
+msgstr "Rollenspiel-Mythen"
 
 #. [era]: id=era_default_and_EOM_{ERA_OF_MYTHS_VERSION}
-#: EOM_eras.cfg:83
+#: Era_of_Myths/EOM_eras.cfg:83
 msgid "Default + EoM"
-msgstr ""
+msgstr "Standard und Mythen"
 
 #. [multiplayer_side]: id=EOM_celestials, type=EOM_Claimant
 #. [multiplayer_side]: id=RECRUIT_celestials, type=EOM_Crusader
 #. [multiplayer_side]: id=POWER_celestials, type=EOM_Herald
-#: factions/celestials-EOM.cfg:5 factions/celestials-RECRUIT.cfg:5
-#: factions/celestials-POWER.cfg:5
+#: Era_of_Myths/factions/celestials-EOM.cfg:5
+#: Era_of_Myths/factions/celestials-RECRUIT.cfg:5
+#: Era_of_Myths/factions/celestials-POWER.cfg:5
 msgid "Celestials"
-msgstr ""
+msgstr "Himmlische Heerscharen"
 
 #. [multiplayer_side]: id=EOM_devlings, type=EOM_Blasphemists
 #. [multiplayer_side]: id=POWER_devlings, type=EOM_Offenders
 #. [multiplayer_side]: id=RECRUIT_devlings, type=EOM_Devling Spikers
-#: factions/devlings-EOM.cfg:5 factions/devlings-POWER.cfg:5
-#: factions/devlings-RECRUIT.cfg:5
+#: Era_of_Myths/factions/devlings-EOM.cfg:5
+#: Era_of_Myths/factions/devlings-POWER.cfg:5
+#: Era_of_Myths/factions/devlings-RECRUIT.cfg:5
 msgid "Devlings"
-msgstr ""
+msgstr "Teufelchen"
 
 #. [multiplayer_side]: id=EOM_elementals, type=EOM_Rock_Golem
 #. [multiplayer_side]: id=POWER_elementals, type=EOM_Fire_Ghost
 #. [multiplayer_side]: id=RECRUIT_elementals, type=EOM_Water
-#: factions/elementals-EOM.cfg:5 factions/elementals-POWER.cfg:5
-#: factions/elementals-RECRUIT.cfg:5
+#: Era_of_Myths/factions/elementals-EOM.cfg:5
+#: Era_of_Myths/factions/elementals-POWER.cfg:5
+#: Era_of_Myths/factions/elementals-RECRUIT.cfg:5
 msgid "Elementals"
-msgstr ""
+msgstr "Elementargeister"
 
 #. [multiplayer_side]: id=POWER_therians, type=EOM_Panther
 #. [multiplayer_side]: id=EOM_therians, type=EOM_Aura_Monk
 #. [multiplayer_side]: id=RECRUIT_therians, type=EOM_Leopard_Therian
-#: factions/therians-POWER.cfg:5 factions/therians-EOM.cfg:5
-#: factions/therians-RECRUIT.cfg:5
+#: Era_of_Myths/factions/therians-POWER.cfg:5
+#: Era_of_Myths/factions/therians-EOM.cfg:5
+#: Era_of_Myths/factions/therians-RECRUIT.cfg:5
 msgid "Therian"
-msgstr ""
+msgstr "Therianer"
 
 #. [multiplayer_side]: id=RECRUIT_vampires, type=EOM_Blood_Apprentice
 #. [multiplayer_side]: id=EOM_vampires, type=EOM_Noble
 #. [multiplayer_side]: id=POWER_vampires, type=EOM_Sire
-#: factions/vampires-RECRUIT.cfg:5 factions/vampires-EOM.cfg:5
-#: factions/vampires-POWER.cfg:5
+#: Era_of_Myths/factions/vampires-RECRUIT.cfg:5
+#: Era_of_Myths/factions/vampires-EOM.cfg:5
+#: Era_of_Myths/factions/vampires-POWER.cfg:5
 msgid "Vampires"
-msgstr ""
+msgstr "Vampire"
 
 #. [multiplayer_side]: id=RECRUIT_werewolves, type=EOM_Warrior_Wolf
 #. [multiplayer_side]: id=POWER_wargs, type=EOM_Moon_Blade
 #. [multiplayer_side]: id=EOM_wargs, type=EOM_Warrior_Warg
-#: factions/wargs-RECRUIT.cfg:5 factions/wargs-POWER.cfg:5
-#: factions/wargs-EOM.cfg:5
+#: Era_of_Myths/factions/wargs-RECRUIT.cfg:5
+#: Era_of_Myths/factions/wargs-POWER.cfg:5
+#: Era_of_Myths/factions/wargs-EOM.cfg:5
 msgid "The Warg"
-msgstr ""
+msgstr "Die Warg"
 
 #. [multiplayer_side]: id=Windsong, type=EOM_Weaver
 #. [multiplayer_side]: id=EOM_windsong, type=EOM_Prophetess
 #. [multiplayer_side]: id=EOM_windsong, type=EOM_Ascendant
-#: factions/windsong-RECRUIT.cfg:5 factions/windsong-EOM.cfg:5
-#: factions/windsong-POWER.cfg:5
+#: Era_of_Myths/factions/windsong-RECRUIT.cfg:5
+#: Era_of_Myths/factions/windsong-EOM.cfg:5
+#: Era_of_Myths/factions/windsong-POWER.cfg:5
 msgid "Windsong"
-msgstr ""
+msgstr "Windflüsterinnen"
 
 #. [heals]: id=healing
-#: macros/abilities.cfg:11
+#: Era_of_Myths/macros/abilities.cfg:11
 msgid "medic"
-msgstr ""
+msgstr "Entgiftung"
 
 #. [heals]: id=healing
-#: macros/abilities.cfg:13
+#: Era_of_Myths/macros/abilities.cfg:13
 msgid ""
 "Medic:\n"
 "Allows the unit to prevent poison from taking effect on adjacent units as "
 "long as they are nearby.  The poison is not cured."
 msgstr ""
+"Die Einheit kann benachbarte Einheiten vor Giftschäden bewahren, das Gift "
+"aber nicht heilen"
 
 #. [heals]: id=medicplus
-#: macros/abilities.cfg:26
+#: Era_of_Myths/macros/abilities.cfg:26
 msgid "medic+"
-msgstr ""
+msgstr "Gegengift"
 
 #. [heals]: id=medicplus
-#: macros/abilities.cfg:28
+#: Era_of_Myths/macros/abilities.cfg:28
 msgid ""
 "Medic+:\n"
 "Allows the unit to remove poison from adjacent units."
-msgstr ""
+msgstr "Diese Einheit kann Vergiftungen benachbarter Einheiten neutralisieren."
 
 #. [heals]: id=medic2plus
-#: macros/abilities.cfg:42
+#: Era_of_Myths/macros/abilities.cfg:42
 msgid "medic++"
-msgstr ""
+msgstr "Sanitäter"
 
 #. [heals]: id=medic2plus
-#: macros/abilities.cfg:46
+#: Era_of_Myths/macros/abilities.cfg:46
 msgid ""
 "Medic++:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
@@ -139,110 +150,114 @@ msgid ""
 msgstr ""
 
 #. [regenerate]: id=selfmed
-#: macros/abilities.cfg:59
+#: Era_of_Myths/macros/abilities.cfg:59
 msgid "self-med"
-msgstr ""
+msgstr "Selbstentgiftung"
 
 #. [regenerate]: id=selfmed
-#: macros/abilities.cfg:61
+#: Era_of_Myths/macros/abilities.cfg:61
 msgid ""
 "Self-med:\n"
 "The unit will slow the effects of poison on itself."
-msgstr ""
+msgstr "Diese Einheit ist resistent gegen Vergiftungen."
 
 #. [regenerate]: id=selfmedplus
-#: macros/abilities.cfg:71
+#: Era_of_Myths/macros/abilities.cfg:71
 msgid "self-med+"
-msgstr ""
+msgstr "Antidot"
 
 #. [regenerate]: id=selfmedplus
-#: macros/abilities.cfg:73
+#: Era_of_Myths/macros/abilities.cfg:73
 msgid ""
 "Self-med+:\n"
 "The unit will cure the effects of poison on itself."
-msgstr ""
+msgstr "Die Einheit kann eigene Vergiftungen neutralisieren,"
 
 #. [resistance]: id=dauntless
-#: macros/abilities.cfg:83
+#: Era_of_Myths/macros/abilities.cfg:83
 msgid "dauntless"
-msgstr ""
+msgstr "Unerschrocken"
 
 #. [resistance]: id=dauntless
-#: macros/abilities.cfg:85
+#: Era_of_Myths/macros/abilities.cfg:85
 msgid ""
 "Dauntless:\n"
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
 "Weaknesses are not affected."
 msgstr ""
+"Greift diese Einheit an, verdoppeln sich ihre Resistenzen auf bis zu 50%, "
+"dies gilt nicht für Schwächen."
 
 #. [heals]: id=healing
-#: macros/abilities.cfg:101
+#: Era_of_Myths/macros/abilities.cfg:101
 msgid "heal+3"
-msgstr ""
+msgstr "Heilung +3"
 
 #. [heals]: id=healing
-#: macros/abilities.cfg:103
+#: Era_of_Myths/macros/abilities.cfg:103
 msgid ""
 "Heal+3:\n"
 "This unit will heal allies by 3 hp at the start of it's turn. Will slow "
 "poison."
 msgstr ""
+"Diese Einheit heilt zu Beginn einer Runde Verbündete um 3 Lebenspunkte, Gift "
+"fügt keinen Schaden zu."
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:121
+#: Era_of_Myths/macros/abilities.cfg:121
 msgid "foresthome"
-msgstr ""
+msgstr "Waldgeist"
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:123
+#: Era_of_Myths/macros/abilities.cfg:123
 msgid ""
 "Foresthome:\n"
 "This unit will regenerate 3 hp when in forest."
-msgstr ""
+msgstr "Diese Einheit regeneriert  in Wäldern 3 Lebenspunkte."
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:137
+#: Era_of_Myths/macros/abilities.cfg:137
 msgid "waterhome"
-msgstr ""
+msgstr "Wassergeist"
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:139
+#: Era_of_Myths/macros/abilities.cfg:139
 msgid ""
 "Waterhome:\n"
 "This unit will regenerate 3 hp when in deep or shallow water."
-msgstr ""
+msgstr "Diese Einheit regeneriert im Wasser 3 Lebenspunkte."
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:153
+#: Era_of_Myths/macros/abilities.cfg:153
 msgid "deserthome"
-msgstr ""
+msgstr "Wüstengeist"
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:155
+#: Era_of_Myths/macros/abilities.cfg:155
 msgid ""
 "Deserthome:\n"
 "This unit will regenerate 3 hp when in desert or sand."
-msgstr ""
+msgstr "Diese Einheit regeneriert in auf Sand 3 Lebenspunkte"
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:169
+#: Era_of_Myths/macros/abilities.cfg:169
 msgid "mountainhome"
-msgstr ""
+msgstr "Berggeist"
 
 #. [regenerate]: id=healing
-#: macros/abilities.cfg:171
+#: Era_of_Myths/macros/abilities.cfg:171
 msgid ""
 "Mountainhome:\n"
 "This unit will regenerate 3 hp when on mountains."
-msgstr ""
+msgstr "Diese Einheit regeneriert auf Bergen 3 Lebenspunkte"
 
 #. [leadership]: id=leadership
-#: macros/abilities.cfg:181
+#: Era_of_Myths/macros/abilities.cfg:181
 msgid "inspire"
-msgstr ""
+msgstr "Inspiration"
 
 #. [leadership]: id=leadership
-#: macros/abilities.cfg:185
+#: Era_of_Myths/macros/abilities.cfg:185
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
@@ -251,39 +266,47 @@ msgid ""
 "Adjacent friendly level 1 units will do 10% more damage in battle. Does not "
 "work on Celestial messengers."
 msgstr ""
+"Benachbarte Verbündete der Stufe 1 verursachen 10% mehr Schaden. Dies gilt "
+"nicht für andere Boten."
 
 #. [advancement]: id=monster
-#: macros/amla.cfg:9
+#: Era_of_Myths/macros/amla.cfg:9
 msgid "Max HP bonus +5, +1 damage to all attacks, max XP +25%"
 msgstr ""
+"Fünf zusätzliche Lebenspunkte, ein zusätzlicher Schaden für alle Angriffe, "
+"25%mehr benötigte Erfahrung"
 
 #. [chance_to_hit]: id=ferocious
 #. [trait]: id=ferocious2
-#: macros/ferocious.cfg:7 macros/ferocious.cfg:20
+#: Era_of_Myths/macros/ferocious.cfg:7 Era_of_Myths/macros/ferocious.cfg:20
 msgid "ferocious"
-msgstr ""
+msgstr "Ungestüm"
 
 #. [chance_to_hit]: id=ferocious
-#: macros/ferocious.cfg:9
+#: Era_of_Myths/macros/ferocious.cfg:9
 msgid ""
 "Ferocious:\n"
 "This unit battles with such vigor that it always has at least a 60% chance "
 "to hit."
 msgstr ""
+"Diese Einheit greift so energisch an, dass sie mindestens in 60 Prozent der "
+"Fälleeinen Treffer landet. "
 
 #. [trait]: id=ferocious2
-#: macros/ferocious.cfg:21
+#: Era_of_Myths/macros/ferocious.cfg:21
 msgid "female^ferocious"
-msgstr ""
+msgstr "Ungestüm"
 
 #. [trait]: id=ferocious2
-#: macros/ferocious.cfg:22
+#: Era_of_Myths/macros/ferocious.cfg:22
 msgid ""
 "This unit battles with such vigor that it always has at least a 60% chance "
 "to hit."
 msgstr ""
+"Diese Einheit greift so energisch an, dass sie mindestens in 60 Prozent der "
+"Fälle einen Treffer landet. "
 
-#: macros/names.cfg:4
+#: Era_of_Myths/macros/names.cfg:4
 msgid ""
 "Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,"
 "Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,"
@@ -296,8 +319,18 @@ msgid ""
 "Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
 "Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
 msgstr ""
+"Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,"
+"Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,"
+"Carden,Cian,Corbin,Damalis,Damian,Danton,Daray,Delano,Donn,Dunkan,Eamen,"
+"Gustaff,Heath,Heathcliff,Ingrum,Jareth,Kaevan,Karayan,Kern,Kieran,Lucine,"
+"Marlin,Nelo,Parris,Raven,Rune,Savan,Sumnor,Tainn,Tariq,Tristram,Vega,Wynn,"
+"Lestat,Louis,Armand,Amadeo,Santiago,Marius,Magnus,David,Enkil,Mael,Santino,"
+"Vittorio,Thorne,Avicus,Felix,Laurent,Daniel,Khayman,Tarquin,Quinn,Vladimir,"
+"Vlad,Ansel,Anwar,Arden,Ashe,Ashford,Ashlin,Bairde,Barnabas,Bentley,Brishen,"
+"Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
+"Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
 
-#: macros/names.cfg:5
+#: Era_of_Myths/macros/names.cfg:5
 msgid ""
 "Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,"
 "Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,"
@@ -314,8 +347,22 @@ msgid ""
 "Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
 "Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
 msgstr ""
+"Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,"
+"Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,"
+"Chandra,Damarys,Denisha,Devin,Erela,Fala,Fanya,Hazelle,Isadora,Iva,Javan,"
+"Jenessa,Jora,Jordyn,Jovana,Kamalia,Kalyca,Kavindra,Kestrel,Kynthia,Laqueta,"
+"Layla,Leandra,Leigh,Livana,Naida,Neesha,Nevada,Oleta,Parkyr,Philomina,"
+"Pyralis,Rayne,Risa,Rosalia,Salena,Seda,Shahar,Shea,Silva,Silvana,Tabitha,"
+"Tacita,Tara,Tatiana,Tayce,Vala,Valonia,Vesta,Vidonia,Waneta,Wyntir,Yepa,"
+"Yolanda,Yoninah,Zyta,Adara,Adena,Adrianne,Alarice,Alvita,Amara,Ambika,"
+"Antonia,Araceli,Balandria,Basha,Beryl,Bryn,Callia,Caryssa,Cassandra,"
+"Casondrah,Chatha,Ciara,Cynara,Cytheria,Dabria,Darcei,Deandra,Deirdre,Delores,"
+"Desdomna,Devi,Drucilla,Duvessa,Fantine,Fuscienne,Gabi,Gallia,Hanna,Hedda,"
+"Jerica,Jetta,Joby,Kacila,Kala,Kallie,Keelia,Killian,Kory,Lilith,Lucretia,"
+"Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
+"Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
 
-#: macros/names.cfg:9
+#: Era_of_Myths/macros/names.cfg:9
 msgid ""
 "Ana,Arala,Ala,Asare,Ashara,Athesa,Ama,Averana,Atharuna,Amoshe,Ahurena,Alera,"
 "Ave,Arila,Ai,Atha,Ashe,Aru,Amasela,Aoshe,Amelara,Alura,Eva,Elena,Esure,Ena,"
@@ -337,78 +384,111 @@ msgid ""
 "Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,Heshia,Hia,Holaria,Hasha,Hena,"
 "Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 msgstr ""
+"Ana,Arala,Ala,Asare,Ashara,Athesa,Ama,Averana,Atharuna,Amoshe,Ahurena,Alera,"
+"Ave,Arila,Ai,Atha,Ashe,Aru,Amasela,Aoshe,Amelara,Alura,Eva,Elena,Esure,Ena,"
+"Ethe,Eme,Eira,Ela,Efara,Evina,Eshe,Ethara,Esaora,Eumane,Ehuva,Ere,Emi,Eshi,"
+"Enemura,Sela,Sara,Sula,Salura,Sana,Semisha,Soshire,Suvana,Sife,Saletha,"
+"Sitheri,Surei,Somile,Sahama,Salarema,Sea,Severa,Suthe,Sithame,Ola,Omana,"
+"Osheura,Olena,Onethe,Ovenatha,Fira,Fesha,Fena,Felai,Foma,Furava,Fusatha,Fala,"
+"Famia,Fesea,Fenoma,Fihama,Fama,Fia,Famori,Irena,Ima,Ishama,Iolara,Imaha,"
+"Inithe,Imana,Isora,Ilameshe,Ila,Ishe,Ithoe,Ivie,Imia,Iralura,Isanare,Ihama,"
+"Iri,Ithania,Isavora,Ila,Mana,Mia,Mara,Mura,Masohe,Mushena,Malesa,Minaru,"
+"Minare,Monia,Mesere,Mulasha,Mathe,Minashema,Mesa,Mirana,Mifa,Mivareshana,Une,"
+"Uara,Ushala,Uhima,Uthe,Unaluthe,Thesa,Thema,Thirala,Thoshe,Thofara,Thami,"
+"Thise,Therama,Thila,Thama,Therasa,Thurana,Thalia,Therana,Thomena,Thosa,Thene,"
+"Thime,Thamele,Theshia,Nai,Nama,Norale,Nethala,Nisha,Nemene,Nefe,Navaru,Nula,"
+"Nusina,Naria,Nosua,Naomi,Nahasa,Nila,Nuralena,Nema,Lisa,Lara,Loe,Lasama,"
+"Lemeshe,Lathia,Leshara,Laisa,Line,Lenesa,Loma,Lura,Lesamia,Lehara,Lana,Lashe,"
+"Larena,Lotha,Limia,Lania,Larie,Lafana,Lerava,Love,Rama,Runa,Rashe,Ria,Rovena,"
+"Riva,Rufa,Rithia,Raina,Rava,Rashama,Rei,Rosha,Vena,Via,Velara,Veruna,Visha,"
+"Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,Heshia,Hia,Holaria,Hasha,Hena,"
+"Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 
-#: macros/special-notes.cfg:6
+#: Era_of_Myths/macros/special-notes.cfg:6
 msgid ""
 " The ranged attacks of this unit deal massive damage, but always have a low "
 "chance of hitting an opponent."
 msgstr ""
+"Der Fernangriff dieser Einheit verursacht großen Schaden, trifft aber nur "
+"selten."
 
-#: macros/special-notes.cfg:10
+#: Era_of_Myths/macros/special-notes.cfg:10
 msgid ""
 " This unit will heal allies by 3 HP at the beginning of its turns. In "
 "addition, this ability will inhibit the effects of poison."
 msgstr ""
+"Diese Einheit heilt zu Beginn einer Runde Verbündete um 3 Lebenspunkte, Gift "
+"fügt keinen Schaden zu"
 
-#: macros/special-notes.cfg:13
+#: Era_of_Myths/macros/special-notes.cfg:13
 msgid ""
 "The ability of this unit to inspire its allies enables adjacent units of the "
 "same side to deal more damage in combat, though this only applies to units "
 "of lower level."
 msgstr ""
+"Die Einheit bringt Verbündete dazu, mehr Schaden zu verursachen, das gilt "
+"aber nur für Einheiten niedrigerer Stufen."
 
-#: macros/special-notes.cfg:16
+#: Era_of_Myths/macros/special-notes.cfg:16
 msgid ""
 " Whenever this unit is in a forested area, it will regenerate 3 HP per turn."
 msgstr ""
+"Wann immer sich diese Einheit in einem Waldgebiet aufhält, regeneriert sie 3 "
+"Lebenspunkte pro Runde."
 
-#: macros/special-notes.cfg:19
+#: Era_of_Myths/macros/special-notes.cfg:19
 msgid ""
 " Whenever this unit is in a mountainous area, it will regenerate 3 HP per "
 "turn."
 msgstr ""
+"Wann immer sich diese Einheit sich in einem felsigen Gebiet aufhält, "
+"regeneriert sie 3 Lebenspunkte pro Runde"
 
-#: macros/special-notes.cfg:22
+#: Era_of_Myths/macros/special-notes.cfg:22
 msgid ""
 " Whenever this unit is in desert-like area, it will regenerate 3 HP per turn."
 msgstr ""
+"Wann immer sich diese Einheit in einem Wüstengebiet aufhält, regeneriert sie "
+"3 Lebenspunkte pro Runde."
 
-#: macros/special-notes.cfg:25
+#: Era_of_Myths/macros/special-notes.cfg:25
 msgid ""
 " Whenever this unit is in an aquatic area, it will regenerate 3 HP per turn."
 msgstr ""
+"Wann immer sich diese Einheit in einem Feuchtgebiet aufhält, regeneriert sie "
+"3 Lebenspunkte pro Runde."
 
-#: macros/special-notes.cfg:28
+#: Era_of_Myths/macros/special-notes.cfg:28
 msgid ""
 " Whenever this unit attacks with its counter attack defensively, it will "
 "always have at least 60% chance to hit."
 msgstr ""
 
-#: macros/special-notes.cfg:31
+#: Era_of_Myths/macros/special-notes.cfg:31
 msgid ""
 " The steadiness of this unit reduces damage from some attacks, but only "
 "while attacking."
 msgstr ""
 
 #. [chance_to_hit]: id=massivestrike
-#: macros/specials.cfg:9
+#: Era_of_Myths/macros/specials.cfg:9
 msgid "massive strike"
 msgstr ""
 
 #. [chance_to_hit]: id=massivestrike
-#: macros/specials.cfg:11
+#: Era_of_Myths/macros/specials.cfg:11
 msgid ""
 "Massive strike:\n"
 "This attack always has a 20% chance to hit."
 msgstr ""
 
 #. [damage]: id=udbane
-#: macros/specials.cfg:21
+#: Era_of_Myths/macros/specials.cfg:21
 msgid "unholybane"
 msgstr ""
 
 #. [damage]: id=udbane
-#: macros/specials.cfg:27
+#: Era_of_Myths/macros/specials.cfg:27
 msgid ""
 "Unholybane:\n"
 "This attack cuts at the tie between an abomination and its corrupted source "
@@ -420,29 +500,31 @@ msgid ""
 msgstr ""
 
 #. [chance_to_hit]: id=counter
-#: macros/specials.cfg:56 macros/specials.cfg:59
+#: Era_of_Myths/macros/specials.cfg:56 Era_of_Myths/macros/specials.cfg:59
 msgid "counter"
-msgstr ""
+msgstr "Gegenschlag"
 
 #. [chance_to_hit]: id=counter
-#: macros/specials.cfg:58 macros/specials.cfg:61
+#: Era_of_Myths/macros/specials.cfg:58 Era_of_Myths/macros/specials.cfg:61
 msgid ""
 "Counter:\n"
 "When used defensively, this attack always has at least a 60% chance to hit."
 msgstr ""
+"Wenn dieser Angriff defensiv gebrauct wird, brträgt die Trefferquote "
+"mindestens 60%."
 
 #. [trait]: id=vampire
-#: macros/traits.cfg:9
+#: Era_of_Myths/macros/traits.cfg:9
 msgid "vampire"
-msgstr ""
+msgstr "Vampir"
 
 #. [trait]: id=vampire
-#: macros/traits.cfg:10
+#: Era_of_Myths/macros/traits.cfg:10
 msgid "female^vampire"
-msgstr ""
+msgstr "Vampirin"
 
 #. [trait]: id=vampire
-#: macros/traits.cfg:11
+#: Era_of_Myths/macros/traits.cfg:11
 msgid ""
 "Vampires cannot be victims of drain or plague, but are still susceptible to "
 "poison attacks. Unfortunately the code cannot separate these three "
@@ -451,157 +533,161 @@ msgstr ""
 
 #. [trait]: id=ruby
 #. [trait]: id=ruby2
-#: macros/traits.cfg:19 macros/traits.cfg:35
+#: Era_of_Myths/macros/traits.cfg:19 Era_of_Myths/macros/traits.cfg:35
 msgid "ruby"
-msgstr ""
+msgstr "Rubin"
 
 #. [trait]: id=ruby
 #. [trait]: id=ruby2
-#: macros/traits.cfg:20 macros/traits.cfg:36
+#: Era_of_Myths/macros/traits.cfg:20 Era_of_Myths/macros/traits.cfg:36
 msgid "female^ruby"
-msgstr ""
+msgstr "Rubin"
 
 #. [trait]: id=diamond
-#: macros/traits.cfg:52
+#: Era_of_Myths/macros/traits.cfg:52
 msgid "diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. [trait]: id=diamond
-#: macros/traits.cfg:53
+#: Era_of_Myths/macros/traits.cfg:53
 msgid "female^diamond"
-msgstr ""
+msgstr "Diamant"
 
 #. [trait]: id=sapphire
-#: macros/traits.cfg:68
+#: Era_of_Myths/macros/traits.cfg:68
 msgid "sapphire"
-msgstr ""
+msgstr "Saphir"
 
 #. [trait]: id=sapphire
-#: macros/traits.cfg:69
+#: Era_of_Myths/macros/traits.cfg:69
 msgid "female^sapphire"
-msgstr ""
+msgstr "Saphir"
 
 #. [trait]: id=emerald
-#: macros/traits.cfg:80
+#: Era_of_Myths/macros/traits.cfg:80
 msgid "emerald"
-msgstr ""
+msgstr "Smaragd"
 
 #. [trait]: id=emerald
-#: macros/traits.cfg:81
+#: Era_of_Myths/macros/traits.cfg:81
 msgid "female^emerald"
-msgstr ""
+msgstr "Smaragd"
 
 #. [trait]: id=incorporeal, description={STR_NONLIVING_DESCRIPTION}
-#: macros/traits.cfg:98
+#: Era_of_Myths/macros/traits.cfg:98
 msgid "incorporeal"
-msgstr ""
+msgstr "körperlos"
 
 #. [trait]: id=incorporeal, description={STR_NONLIVING_DESCRIPTION}
-#: macros/traits.cfg:99
+#: Era_of_Myths/macros/traits.cfg:99
 msgid "female^incorporeal"
-msgstr ""
+msgstr "körperlos"
 
 #. [trait]: id=beefy
-#: macros/traits.cfg:114
+#: Era_of_Myths/macros/traits.cfg:114
 msgid "beefy"
-msgstr ""
+msgstr "zäh"
 
 #. [trait]: id=beefy
-#: macros/traits.cfg:115
+#: Era_of_Myths/macros/traits.cfg:115
 msgid "female^beefy"
-msgstr ""
+msgstr "zäh"
 
 #. [trait]: id=beefy
-#: macros/traits.cfg:116
+#: Era_of_Myths/macros/traits.cfg:116
 msgid ""
 "These Devlings are bigger than other Devlings and can withstand more "
 "punishment."
-msgstr ""
+msgstr "Diese Teufelchen sind größer und halten mehr aus als die Anderen."
 
 #. [trait]: id=brainy
-#: macros/traits.cfg:133
+#: Era_of_Myths/macros/traits.cfg:133
 msgid "brainy"
-msgstr ""
+msgstr "klug"
 
 #. [trait]: id=brainy
-#: macros/traits.cfg:134
+#: Era_of_Myths/macros/traits.cfg:134
 msgid "female^brainy"
-msgstr ""
+msgstr "klug"
 
 #. [trait]: id=brainy
-#: macros/traits.cfg:135
+#: Era_of_Myths/macros/traits.cfg:135
 msgid "Brainy Devlings level faster than their brethren."
-msgstr ""
+msgstr "Kluge Teufelchen lernen schneller als die Anderen."
 
 #. [trait]: id=brawny
-#: macros/traits.cfg:151
+#: Era_of_Myths/macros/traits.cfg:151
 msgid "brawny"
-msgstr ""
+msgstr "stark"
 
 #. [trait]: id=brawny
-#: macros/traits.cfg:152
+#: Era_of_Myths/macros/traits.cfg:152
 msgid "female^brawny"
-msgstr ""
+msgstr "stark"
 
 #. [trait]: id=brawny
-#: macros/traits.cfg:153
+#: Era_of_Myths/macros/traits.cfg:153
 msgid "Brawny Devlings hit harder, but are dumber than other Devlings."
-msgstr ""
+msgstr "Starke Teufelchen schlagen härter zu und sind dümmer als die Anderen."
 
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
-#: macros/traits.cfg:172
+#: Era_of_Myths/macros/traits.cfg:172
+#, fuzzy
 msgid "elemental"
-msgstr ""
+msgstr "Elementargeister"
 
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
-#: macros/traits.cfg:173
+#: Era_of_Myths/macros/traits.cfg:173
+#, fuzzy
 msgid "female^elemental"
-msgstr ""
+msgstr "Elementargeist"
 
 #. [trait]: id=obedient, description={STR_ZERO_UPKEEP}
-#: macros/traits.cfg:186 macros/traits.cfg:206
+#: Era_of_Myths/macros/traits.cfg:186 Era_of_Myths/macros/traits.cfg:206
 msgid "obedient"
-msgstr ""
+msgstr "gehorsam"
 
 #. [trait]: id=obedient, description={STR_ZERO_UPKEEP}
-#: macros/traits.cfg:187 macros/traits.cfg:207
+#: Era_of_Myths/macros/traits.cfg:187 Era_of_Myths/macros/traits.cfg:207
 msgid "female^obedient"
-msgstr ""
+msgstr "gehorsam"
 
 #. [trait]: id=attuned
-#: macros/traits.cfg:231
+#: Era_of_Myths/macros/traits.cfg:231
 msgid "attuned"
-msgstr ""
+msgstr "harmonisch"
 
 #. [trait]: id=attuned
-#: macros/traits.cfg:232
+#: Era_of_Myths/macros/traits.cfg:232
 msgid "female^attuned"
-msgstr ""
+msgstr "harmonisch"
 
 #. [trait]: id=attuned
-#: macros/traits.cfg:233
+#: Era_of_Myths/macros/traits.cfg:233
 msgid ""
 "Shifters who are attuned to their auras gain a +2 bonus to their aura "
 "attacks."
 msgstr ""
+"Therianer ,die sich mit ihrer Aura in Harmonie befinden, fügen  mit dieser 2 "
+"Punkte mehr Schaden an"
 
 #. [race]: id=celestial
-#: units/celestials.cfg:7
+#: Era_of_Myths/units/celestials.cfg:7
 msgid "race^Celestial"
-msgstr ""
+msgstr "Himmlischer"
 
 #. [race]: id=celestial
-#: units/celestials.cfg:8
+#: Era_of_Myths/units/celestials.cfg:8
 msgid "race+female^Celestial"
-msgstr ""
+msgstr "Himmlische"
 
 #. [race]: id=celestial
-#: units/celestials.cfg:9
+#: Era_of_Myths/units/celestials.cfg:9
 msgid "race^Celestials"
-msgstr ""
+msgstr "Himmlische Herrscharen"
 
 #. [race]: id=celestial
-#: units/celestials.cfg:13
+#: Era_of_Myths/units/celestials.cfg:13
 msgid ""
 "The Celestials have vestigial wings that for most of them do not mature. "
 "Celestials believe that light and darkness each have power, and they choose "
@@ -612,78 +698,98 @@ msgid ""
 "nations than the other factions giving the celestials great military "
 "strength."
 msgstr ""
+"Die Himmlischen Heerscharen sind eine Kultur, die an die Macht vonLicht und "
+"Finsternis glauben und für das Licht kämpfenSie bilden eine militaristische "
+"Gesellschaft mit straffer Organisation, was ihnen Stärke und Einheit bringt, "
+"die sich in ihrem Kampfstil niederschlägt.Die Ordnung und vereinheitlichte "
+"Zielsetzung der himmlischen Gesellschaft führt dazu, dass sie eher große "
+"Reiche formen als andere Völker, weshalb die Heerscharen über große "
+"militärische Schlagkraft verfügen.Die Himmlischen haben Flügel, die aber "
+"meist rudimentär bleiben."
 
 #. [unit_type]: id=EOM_Crusader, race=celestial
-#: units/celestials/a1_Crusader.cfg:5
+#: Era_of_Myths/units/celestials/a1_Crusader.cfg:5
 msgid "Crusader"
-msgstr ""
+msgstr "Glaubenskrieger"
 
 #. [unit_type]: id=EOM_Crusader, race=celestial
-#: units/celestials/a1_Crusader.cfg:18
+#: Era_of_Myths/units/celestials/a1_Crusader.cfg:18
 msgid ""
 "Crusaders undergo rigorous martial training as well as rudimentary medicinal "
 "training to help their injured allies on the field of battle. Crusaders' "
 "swords are infused with the arcane energy of the Light Spirits - a tradition "
 "that started during the Great Crusade against the vampires."
 msgstr ""
+"Glaubensritter absolvieren eine harte Kriegsausbildung sowie grundlegende "
+"Heilverfahren, um ihre verwundeten Verbündeten im Feld zu versorgen.Die "
+"Schwerter der Glaubenskrieger werden mit der arkanen Energieder Lichtwesen "
+"gesegnet- eine Tradition, die im Großen Heiligen Krieg gegen die Vampire "
+"zurückgeht. "
 
 #. [attack]: type=arcane
-#: units/celestials/a2_Quester.cfg:38 units/celestials/a2_Divine_Knight.cfg:32
-#: units/celestials/a3_Divine_Champion.cfg:33
-#: units/celestials/a1_Crusader.cfg:32
+#: Era_of_Myths/units/celestials/a2_Quester.cfg:38
+#: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:32
+#: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:33
+#: Era_of_Myths/units/celestials/a1_Crusader.cfg:32
 msgid "blessed sword"
-msgstr ""
+msgstr "Gesegnetes Schwert"
 
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
-#: units/celestials/a2_Divine_Knight.cfg:5
+#: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:5
 msgid "Divine Knight"
-msgstr ""
+msgstr "Glaubensritter"
 
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
-#: units/celestials/a2_Divine_Knight.cfg:18
+#: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:18
 msgid ""
 "A crusader who survives many fierce battles is granted the honor of "
 "knighthood. At this time the knight receives a ceremonial mace he must carry "
 "at all times."
 msgstr ""
+"Ein kampferprobter Glaubenskrieger wird mit der Ehre derRitterschaft "
+"belohnt. Zu diesem Zeitpunkt erhält er einen Zeremonien-Streitkolben, den er "
+"immer tragen muss."
 
 #. [attack]: type=impact
-#: units/celestials/a2_Divine_Knight.cfg:50
+#: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:50
 msgid "heavy mace"
-msgstr ""
+msgstr "Schwerer Streitkolben"
 
 #. [unit_type]: id=EOM_Protector, race=celestial
-#: units/celestials/a2_Protector.cfg:5
+#: Era_of_Myths/units/celestials/a2_Protector.cfg:5
 msgid "Protector"
-msgstr ""
+msgstr "Verteidiger"
 
 #. [unit_type]: id=EOM_Protector, race=celestial
-#: units/celestials/a2_Protector.cfg:18
+#: Era_of_Myths/units/celestials/a2_Protector.cfg:18
 msgid ""
 "Protector's swords have been magically enchanted with the power of Fire by "
 "Celestial Wizards. Protectors also carry a large shield which they use to "
 "bash and Slow their opponents."
 msgstr ""
+"Die Schwerter der Verteidiger wurden von von den himmlischen Zauberern "
+"magisch in Flammen gesetzt. Ihre Besitzer tragen auch einen großen Schild, "
+"um ihre Gegner zu stoßen und zu verlangsamen"
 
 #. [attack]: type=fire
-#: units/celestials/a3_Holy_Sentinel.cfg:33
-#: units/celestials/a2_Protector.cfg:32
+#: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:33
+#: Era_of_Myths/units/celestials/a2_Protector.cfg:32
 msgid "enchanted sword"
-msgstr ""
+msgstr "Verzaubertes Schwert"
 
 #. [attack]: type=impact
-#: units/celestials/a3_Holy_Sentinel.cfg:42
-#: units/celestials/a2_Protector.cfg:41
+#: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:42
+#: Era_of_Myths/units/celestials/a2_Protector.cfg:41
 msgid "shield bash"
-msgstr ""
+msgstr "Schildstoß"
 
 #. [unit_type]: id=EOM_Quester, race=celestial
-#: units/celestials/a2_Quester.cfg:5
+#: Era_of_Myths/units/celestials/a2_Quester.cfg:5
 msgid "Quester"
-msgstr ""
+msgstr "Sucher"
 
 #. [unit_type]: id=EOM_Quester, race=celestial
-#: units/celestials/a2_Quester.cfg:20
+#: Era_of_Myths/units/celestials/a2_Quester.cfg:20
 msgid ""
 "Most Celestials don't ride horses, or wander alone, but some crusaders feel "
 "the call to work abroad on their own. These celestials follow the 'quest' to "
@@ -693,200 +799,252 @@ msgid ""
 "individual thing, Questers have no problems grouping up with other people if "
 "it helps them accomplish their task."
 msgstr ""
+"Die meisten Himmelswesen reiten nicht, noch wandern sie alleine, doch manche "
+"Glaubenskrieger fühlen ein Verlangen, in der Welt dort draußen alleine zu "
+"wirken. Sie folgen einer 'Queste',eine Suche, das Licht durch Einzelarbeit "
+"in die Welt zu verbreiten. Da sie wissen, dass sie lange Reisen vor sich "
+"haben, lernen sie zu reiten und wählen die Lanze für verheerende "
+"Sturmangriffe. Obgleich die Queste eigentlich eine individuelle "
+"Angelegenheit sein soll, haben die Sucher keine Probleme, mit Anderen "
+"zusammenzuarbeiten solange es ihrer Aufgabe dienlich ist."
 
 #. [unit_type]: id=EOM_Divine_Champion, race=celestial
-#: units/celestials/a3_Divine_Champion.cfg:5
+#: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:5
 msgid "Divine Champion"
-msgstr ""
+msgstr "Glaubensrecke"
 
 #. [unit_type]: id=EOM_Divine_Champion, race=celestial
-#: units/celestials/a3_Divine_Champion.cfg:19
+#: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:19
 msgid ""
 "For a Knight to be recognized as a Champion he must first commit at least "
 "two Great Deeds and have shown his form to be exceptional to other Knights "
 "on the battle field. Champions are reguarded as highly as Messengers, if not "
 "perhaps even higher."
 msgstr ""
+"Um als Recke anerkannt zu werden muss ein Ritter erst zumindest zwei Große "
+"Taten vollbracht und seine Überlegenheit den anderen Rittern im Kampfe "
+"gezeigt haben.Recken werden so hoch geschätzt wie Boten, wenn nicht gar "
+"höher."
 
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
-#: units/celestials/a3_Holy_Sentinel.cfg:5
+#: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:5
 msgid "Holy Sentinel"
-msgstr ""
+msgstr "Heilige Wache"
 
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
-#: units/celestials/a3_Holy_Sentinel.cfg:19
+#: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:19
 msgid ""
 "These crusaders hold the line with flaming sword, and great sheild. They are "
 "famous for their ability to bash their way forward and then hold the ground "
 "they just earned."
 msgstr ""
+"Diese Glaubenskrieger halten die Linien mit ihren lodernden Schwertern und "
+"riesigen Schilden. Sie sind für ihre Fähigkeit, sich ihren Weg zu bahnen und "
+"den gerade eroberten Boden zu halten,"
 
 #. [unit_type]: id=EOM_Legionnaire, race=celestial
-#: units/celestials/b1_Legionnaire.cfg:5
+#: Era_of_Myths/units/celestials/b1_Legionnaire.cfg:5
 msgid "Legionnaire"
-msgstr ""
+msgstr "Legionär"
 
 #. [unit_type]: id=EOM_Legionnaire, race=celestial
-#: units/celestials/b1_Legionnaire.cfg:19
+#: Era_of_Myths/units/celestials/b1_Legionnaire.cfg:19
 msgid ""
 "Legionnaires are staunch defenders of the Celestial homelands. With "
 "extensive studies in the arts of defensive combat, Legionnaires have good "
 "physical resistancies."
 msgstr ""
+"Die Legionäre sind die treuen Verteidiger der Heimat der Himmlischen "
+"Heerscharen. Durch intensive Übung in defensiver Kampfkunst  sind sie sehr "
+"robust."
 
 #. [unit_type]: id=EOM_Keeper, race=celestial
-#: units/celestials/b2_Keeper.cfg:5
+#: Era_of_Myths/units/celestials/b2_Keeper.cfg:5
 msgid "Keeper"
-msgstr ""
+msgstr "Beschützer"
 
 #. [unit_type]: id=EOM_Keeper, race=celestial
-#: units/celestials/b2_Keeper.cfg:18
+#: Era_of_Myths/units/celestials/b2_Keeper.cfg:18
 msgid ""
 "Keepers are staunch defenders of the Celestial homelands. With stout hearts, "
 "and hardened skin they will hold till death or relief comes."
 msgstr ""
+"Beschützer sind die treuen Verteidiger der Heimat der Himmelswesen. Mit "
+"tapferen Herzen und gehärteter Haut werden sie die Stellung halten bis "
+"Verstärkung eintrifft oder bis in den Tod."
 
 #. [unit_type]: id=EOM_Sentinel, race=celestial
-#: units/celestials/b3_Sentinel.cfg:5
+#: Era_of_Myths/units/celestials/b3_Sentinel.cfg:5
 msgid "Sentinel"
-msgstr ""
+msgstr "Hüter"
 
 #. [unit_type]: id=EOM_Sentinel, race=celestial
-#: units/celestials/b3_Sentinel.cfg:19
+#: Era_of_Myths/units/celestials/b3_Sentinel.cfg:19
 msgid ""
 "The great guardians of important celestials are called Sentinels, for their "
 "silent, but imposing presence, and their complete immunity to boredom."
 msgstr ""
+"Die großen Gardisten wichtiger Himmelswesen werden Hüter genannt. Sie "
+"zeichnen sich aus durch ihre stille,aber einschüchternde Aura und ihrer "
+"vollständigen Immunität gegen Langweile."
 
 #. [unit_type]: id=EOM_Light_Spirit, race=celestial
-#: units/celestials/c1_Light_Spirit.cfg:5
+#: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:5
 msgid "Light Spirit"
-msgstr ""
+msgstr "Lichtgestalt"
 
 #. [unit_type]: id=EOM_Light_Spirit, race=celestial
-#: units/celestials/c1_Light_Spirit.cfg:24
+#: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:24
 msgid ""
 "Light Spirits are a breed of faeries who possess an aura of arcane energy "
 "that infuses their entire body with a radiant light. They share their energy "
 "with the Celestials in return for protection, and to some extent worship."
 msgstr ""
+"Lichtgestalten sind eine Abart der Feen die eine Aura aus arkaner Energie "
+"besitzen, die ihren ganzen Körper durchfließt und sie erstrahlen lässt. Sie "
+"teilen ihre Energie mit den Himmlischen Heerscharen gegen Schutz und eine "
+"gewisse Verehrung."
 
 #. [attack]: type=arcane
-#: units/celestials/c2_Lantern_Archon.cfg:75
-#: units/celestials/c3_Master_of_Light.cfg:77
-#: units/celestials/c1_Light_Spirit.cfg:76
+#: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:75
+#: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:77
+#: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:76
 msgid "shock of light"
-msgstr ""
+msgstr "Lichtblitz"
 
 #. [unit_type]: id=EOM_Lantern_Archon, race=celestial
-#: units/celestials/c2_Lantern_Archon.cfg:5
+#: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:5
 msgid "Lantern Archon"
-msgstr ""
+msgstr "Lichtgeist"
 
 #. [unit_type]: id=EOM_Lantern_Archon, race=celestial
-#: units/celestials/c2_Lantern_Archon.cfg:23
+#: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:23
 msgid ""
 "Lantern Archons are a breed of faeries who possess an aura of arcane energy "
 "that infuses their entire body with a radiant light. Lantern Archons defend "
 "themselves with powerful shocks of arcane energy at a distance; up close "
 "they are quite defenseless."
 msgstr ""
+"Lichtgeister sind eine Abart der Feen die eine Aura aus arkaner Energie "
+"besitzen, die ihren ganzen Körper durchfließt und sie erstrahlen lässt.Sie "
+"verteidigen sich aus der Ferne mit mächtigen Lichtblitzen; im Nahkampf sind "
+"sie aber schutzlos."
 
 #. [unit_type]: id=EOM_Master_of_Light, race=celestial
-#: units/celestials/c3_Master_of_Light.cfg:5
+#: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:5
 msgid "Master of Light"
-msgstr ""
+msgstr "Lichtmeister"
 
 #. [unit_type]: id=EOM_Master_of_Light, race=celestial
-#: units/celestials/c3_Master_of_Light.cfg:25
+#: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:25
 msgid ""
 "A faerie who exercises her output of arcane energy may master using it as a "
 "weapon to such a degree that they are named Masters of Light."
 msgstr ""
+"Eine Fee, die ihren Ausstoß an arkaner Energie übt, mag deren Benutzung in "
+"einem solchen Maß meistern, dass sie Lichtmeister genannt werden"
 
 #. [unit_type]: id=EOM_Messenger, race=celestial
-#: units/celestials/d1_Messenger.cfg:5
+#: Era_of_Myths/units/celestials/d1_Messenger.cfg:5
 msgid "Messenger"
-msgstr ""
+msgstr "Bote"
 
 #. [unit_type]: id=EOM_Messenger, race=celestial
-#: units/celestials/d1_Messenger.cfg:19
+#: Era_of_Myths/units/celestials/d1_Messenger.cfg:19
 msgid ""
 "Messengers are chosen as Celestial leaders for the simple and traditional "
 "reason that their wings grow in adolescence rather than fall off or remain "
 "vestigial. Unlike other Celestials, Messengers can fly over the battlefield "
 "and give orders, granting a bonus to surrounding troops."
 msgstr ""
+"Die Boten wurden zu Anführer der Himmlischen Heerscharen ernannt aus dem "
+"einfachen und traditionellen Grund, dass sich ihre Flügel voll ausbilden "
+"anstatt rudimentär zu verbleiben oder sich zurückzubilden. Anders als die "
+"anderen Himmelswesen können die Boten über das Schlachtfeld fliegen und "
+"Befehle geben, was die umgebenden Truppen stärkt."
 
 #. [female]
-#: units/celestials/d1_Messenger.cfg:64
+#: Era_of_Myths/units/celestials/d1_Messenger.cfg:64
 msgid "female^Messenger"
-msgstr ""
+msgstr "Botin"
 
 #. [unit_type]: id=EOM_Claimant, race=celestial
-#: units/celestials/d2_Claimant.cfg:5
+#: Era_of_Myths/units/celestials/d2_Claimant.cfg:5
 msgid "Claimant"
-msgstr ""
+msgstr "Sprecher"
 
 #. [unit_type]: id=EOM_Claimant, race=celestial
-#: units/celestials/d2_Claimant.cfg:19
+#: Era_of_Myths/units/celestials/d2_Claimant.cfg:19
 msgid ""
 "All winged Celestials were once named Claimants. They were called this by "
 "their bretheren in the beginning days of Celestial society as they claimed "
 "to be the natural leaders of the Celestial people. Claimants now exclusively "
 "write Celestial law, which Messengers then spread to the people."
 msgstr ""
+"Einst nannte man alle geflügelten Himmlischen Sprecher, denn diese "
+"beanspruchten in der Anfangszeit der Heerscharen, die geborenen Anführer zu "
+"sein. Nun schreiben einzig die Sprecher die himmlischen Gesetze, und die "
+"Boten verkünden sie dann dem Volk."
 
 #. [female]
-#: units/celestials/d2_Claimant.cfg:65
+#: Era_of_Myths/units/celestials/d2_Claimant.cfg:65
 msgid "female^Claimant"
-msgstr ""
+msgstr "Sprecherin"
 
 #. [unit_type]: id=EOM_Herald, race=celestial
-#: units/celestials/d3_Herald.cfg:5
+#: Era_of_Myths/units/celestials/d3_Herald.cfg:5
 msgid "Herald"
-msgstr ""
+msgstr "Herold"
 
 #. [unit_type]: id=EOM_Herald, race=celestial
-#: units/celestials/d3_Herald.cfg:19
+#: Era_of_Myths/units/celestials/d3_Herald.cfg:19
 msgid ""
 "Heralds are the highest ranking officers, skilled with sword, and words they "
 "inspire their troops to victory. They proclaim a message of hope to their "
 "fellows, and a message of death to their foes."
 msgstr ""
+"Herolde sind die hochrangigsten Offiziere der Himmlischen Heerscharen, "
+"Meister des Schwertes und der Worte. Sie verkünden ihren Folgern die "
+"Botschaft der Hoffnung, die Botschaft des Todes ihren Feinden."
 
 #. [female]
 #. [unit_type]: id=EOM_Windsong_Herald, race=windsong
-#: units/celestials/d3_Herald.cfg:65 units/windsong/c3_Herald.cfg:5
+#: Era_of_Myths/units/celestials/d3_Herald.cfg:65
+#: Era_of_Myths/units/windsong/c3_Herald.cfg:5
 msgid "female^Herald"
-msgstr ""
+msgstr "Heroldin"
 
 #. [unit_type]: id=EOM_Seraph, race=celestial
-#: units/celestials/d4_Seraphin.cfg:5
+#: Era_of_Myths/units/celestials/d4_Seraphin.cfg:5
 msgid "Seraph"
-msgstr ""
+msgstr "Seraph"
 
 #. [unit_type]: id=EOM_Seraph, race=celestial
-#: units/celestials/d4_Seraphin.cfg:20
+#: Era_of_Myths/units/celestials/d4_Seraphin.cfg:20
 msgid ""
 "Exalted is the title given to the mightiest of winged celestials. They are "
 "honored to the point where they are no longer considered officers in the "
 "army, but rather the manifestation of glory. Few  exist that fight with "
 "greater strength, or with greater ability to inspire and lead."
 msgstr ""
+"Erwählt sind jene, die den Titel der höchsten Geflügelten der Himmlischen "
+"Heerschare tragen. Sie werden so sehr gepriesen, dass sie nicht mehr als "
+"bloße Offiziere der Heerscharen gelten, denn als Verkörperung des Ruhmes. "
+"Wenige sind, die da kämpfen mit größerer Stärke, oder die da führen mit "
+"größerer Überzeugungskraft."
 
 #. [female]
-#: units/celestials/d4_Seraphin.cfg:66
+#: Era_of_Myths/units/celestials/d4_Seraphin.cfg:66
 msgid "female^Seraph"
-msgstr ""
+msgstr "Seraph"
 
 #. [unit_type]: id=EOM_Wizard, race=celestial
-#: units/celestials/e1_Wizard.cfg:5
+#: Era_of_Myths/units/celestials/e1_Wizard.cfg:5
 msgid "Acolyte"
-msgstr ""
+msgstr "Akolyth"
 
 #. [unit_type]: id=EOM_Wizard, race=celestial
-#: units/celestials/e1_Wizard.cfg:18
+#: Era_of_Myths/units/celestials/e1_Wizard.cfg:18
 msgid ""
 "Celestials who lose their vestigial wings in adolescence are not allowed to "
 "fight in the military. As a result, they must undertake other endeavors. The "
@@ -896,83 +1054,107 @@ msgid ""
 "their bretheren in battle. The Celestial Heralds have allowed them this "
 "honor."
 msgstr ""
+"Verliert ein Himmlischer seine rudimentären Flügel während der Pubertät, ist "
+"er vom Militärdienst ausgeschlossen. Er muss sich folglich anderen "
+"Betätigungsfeldern zuwenden. Eines dieser Betätigungsfelder ist die "
+"Zauberei. Einige Zauberer, ursprünglich für das ewige Licht in den "
+"Himmlischen Städten mit Heiliger Energie zu beleuchten, wenden Magie auf "
+"kriegerischere Weise an, um ihre Kammeraden in der Schlacht zu unterstützen. "
+"Die Himmlischen Herolde erlauben ihnen diese Ehre."
 
 #. [attack]: type=fire
-#: units/celestials/e1_Wizard.cfg:38
+#: Era_of_Myths/units/celestials/e1_Wizard.cfg:38
 msgid "flare"
-msgstr ""
+msgstr "Flamme"
 
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
-#: units/celestials/e2_Great_Wizard.cfg:5
+#: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:5
 msgid "Great Wizard"
-msgstr ""
+msgstr "Zauberer"
 
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
-#: units/celestials/e2_Great_Wizard.cfg:18
+#: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:18
 msgid ""
 "The wizards of the celestials have always harnessed the suns power for their "
 "magic. Those who fight with the military for a while become adept at pulling "
 "the suns power into rapid magical blasts."
 msgstr ""
+"Die himmlischen Zauberer haben schon immer die Kraft der Sonne für ihre "
+"Magie genutzt. Jene, die einige Zeit mit der Armee kämpfen, werden Meister "
+"darin, Sonnenenergie in zahlreiche magische Geschosse zu verwandeln."
 
 #. [attack]: type=fire
-#: units/celestials/e2_Mystic.cfg:38 units/celestials/e3_Sage.cfg:39
-#: units/celestials/e3_Prophet.cfg:39 units/celestials/e2_Great_Wizard.cfg:38
+#: Era_of_Myths/units/celestials/e2_Mystic.cfg:38
+#: Era_of_Myths/units/celestials/e3_Sage.cfg:39
+#: Era_of_Myths/units/celestials/e3_Prophet.cfg:39
+#: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:38
 msgid "shock"
-msgstr ""
+msgstr "Strahlungsblitz"
 
 #. [unit_type]: id=EOM_Mystic, race=celestial
-#: units/celestials/e2_Mystic.cfg:5
+#: Era_of_Myths/units/celestials/e2_Mystic.cfg:5
 msgid "Mystic"
-msgstr ""
+msgstr "Mystiker"
 
 #. [unit_type]: id=EOM_Mystic, race=celestial
-#: units/celestials/e2_Mystic.cfg:18
+#: Era_of_Myths/units/celestials/e2_Mystic.cfg:18
 msgid ""
 "Many celestial wizards focus on the study of spirits rather than raw sun "
 "magic. These are known as mystics. Their skills in this area allow them to "
 "aid the army in new ways."
 msgstr ""
+"Viele himmlische Zauberer konzentrieren sich mehr auf das Studium von "
+"Geistwesen als auf bloße Sonnenmagie. Man nennt sie Mystiker und ihre "
+"Fertigkeiten ermöglichen ihnen, der Armee auf völlig neue Weise zu helfen."
 
 #. [attack]: type=arcane
-#: units/celestials/e2_Mystic.cfg:50 units/celestials/e3_Prophet.cfg:51
+#: Era_of_Myths/units/celestials/e2_Mystic.cfg:50
+#: Era_of_Myths/units/celestials/e3_Prophet.cfg:51
 msgid "celestial glaive"
-msgstr ""
+msgstr "Himmelslanze"
 
 #. [unit_type]: id=EOM_Prophet, race=celestial
-#: units/celestials/e3_Prophet.cfg:5
+#: Era_of_Myths/units/celestials/e3_Prophet.cfg:5
 msgid "Prophet"
-msgstr ""
+msgstr "Prophet"
 
 #. [unit_type]: id=EOM_Prophet, race=celestial
-#: units/celestials/e3_Prophet.cfg:19
+#: Era_of_Myths/units/celestials/e3_Prophet.cfg:19
 msgid ""
 "Mystics who become skilled enough in their arts develop the strange ability "
 "to foretell events. No one is certain how they do this or when any of the "
 "things they say will happen, records have shone prophecies thousands of "
 "years old coming true. These wizards are also deadly warriors in combat."
 msgstr ""
+"Sehr erfahrene Mystiker entwickeln die rätselhafte Fähigkeit, Ereignisse "
+"vorherzusagen. Niemand weiß, wie sie dies tun oder wann ihre Orakelsprüche "
+"sich erfül-len werden, doch es ist verbürgt, dass sich Jahrtausemde alte "
+"Prophezeiungen bewahrheitet haben."
 
 #. [unit_type]: id=EOM_Sage, race=celestial
-#: units/celestials/e3_Sage.cfg:5
+#: Era_of_Myths/units/celestials/e3_Sage.cfg:5
 msgid "Sage"
-msgstr ""
+msgstr "Weiser"
 
 #. [unit_type]: id=EOM_Sage, race=celestial
-#: units/celestials/e3_Sage.cfg:19
+#: Era_of_Myths/units/celestials/e3_Sage.cfg:19
 msgid ""
 "The celestials believe the power of a wizard is not measured by his skill "
 "with magic, but by his wisdom of it's use. A wizard who has achieved both "
 "power and wisdom is known as a sage."
 msgstr ""
+"Die Himmlischen Heerscharen glauben, dass die Macht eines Zauberers nicht "
+"durch seinemagischen Fähigkeiten bestimmt werden, sondern durch deren weise "
+"Nutzung. EinZauberer, der Macht wie Weisheit erlangt hat, wird als Weiser "
+"bezeichnet."
 
 #. [unit_type]: id=EOM_Zealot, race=celestial
-#: units/celestials/f1_Zealot.cfg:5
+#: Era_of_Myths/units/celestials/f1_Zealot.cfg:5
 msgid "Zealot"
-msgstr ""
+msgstr "Fanatiker"
 
 #. [unit_type]: id=EOM_Zealot, race=celestial
-#: units/celestials/f1_Zealot.cfg:18
+#: Era_of_Myths/units/celestials/f1_Zealot.cfg:18
 msgid ""
 "The celestial society tends to breed people who would fearlessly battle with "
 "no regard for their own life or family. More in fact than they can support "
@@ -980,26 +1162,33 @@ msgid ""
 "zealots will almost always follow, and the armies although not accepting "
 "these into their ranks, do not deny them the chance to fight."
 msgstr ""
+"Die himmlische Gesellschaft tendiert eher dazu, furchtlose Krieger heraus-"
+"zubringen, die ohne Rücksicht auf ihr Leben oder ihre Familie kämpfen, sogar "
+"mehr als sie als stehendes Heer versorgen kann. Dennoch, wenn Armeen "
+"aufbrechen, wird ihnen fast immer eine Menge Fanatiker folgen, und obgleich "
+"ihnen kein Rang zugestanden wird, verweigert man ihnen nicht den Kampf."
 
 #. [attack]: type=blade
-#: units/celestials/f2_Militant.cfg:29 units/celestials/f3_Sicarius.cfg:32
-#: units/celestials/f1_Zealot.cfg:29
+#: Era_of_Myths/units/celestials/f2_Militant.cfg:29
+#: Era_of_Myths/units/celestials/f3_Sicarius.cfg:32
+#: Era_of_Myths/units/celestials/f1_Zealot.cfg:29
 msgid "chakram slice"
-msgstr ""
+msgstr "Chakram"
 
 #. [attack]: type=blade
-#: units/celestials/f2_Militant.cfg:38 units/celestials/f3_Sicarius.cfg:41
-#: units/celestials/f1_Zealot.cfg:38
+#: Era_of_Myths/units/celestials/f2_Militant.cfg:38
+#: Era_of_Myths/units/celestials/f3_Sicarius.cfg:41
+#: Era_of_Myths/units/celestials/f1_Zealot.cfg:38
 msgid "chakram throw"
-msgstr ""
+msgstr "Chakram"
 
 #. [unit_type]: id=EOM_Militant, race=celestial
-#: units/celestials/f2_Militant.cfg:5
+#: Era_of_Myths/units/celestials/f2_Militant.cfg:5
 msgid "Militant"
-msgstr ""
+msgstr "Militarist"
 
 #. [unit_type]: id=EOM_Militant, race=celestial
-#: units/celestials/f2_Militant.cfg:18
+#: Era_of_Myths/units/celestials/f2_Militant.cfg:18
 msgid ""
 "The celestials have always had a very militant, and totalitarian mindset. "
 "They believe that the battle with evil should be fought until it is over. As "
@@ -1007,37 +1196,45 @@ msgid ""
 "for the army at a minutes notice. Some of them even practice in case such a "
 "chance comes up."
 msgstr ""
+"Die Himmelswesen waren schon immer sehr militaristisch und totalitär "
+"eingestellt. Sie glauben, das Böse müsste bekämpft werden, bis es vernichtet "
+"ist. Aus diesem Grund gibt es immer genug Zivilisten, die sich der Armee "
+"anschließen und für sie kämpfen wollen. Einige von ihnen üben sogar für den, "
+"Fall, dass sich diese Gelegenheit bietet."
 
 #. [unit_type]: id=EOM_Sicarius, race=celestial
-#: units/celestials/f3_Sicarius.cfg:7
+#: Era_of_Myths/units/celestials/f3_Sicarius.cfg:7
 msgid "Sicarius"
-msgstr ""
+msgstr "Sicarius"
 
 #. [unit_type]: id=EOM_Sicarius, race=celestial
-#: units/celestials/f3_Sicarius.cfg:21
+#: Era_of_Myths/units/celestials/f3_Sicarius.cfg:21
 msgid ""
 "Civilian warriors who have proven their worth time and time again, are "
 "granted an honorary rank known as Sicarius. It is quite an quite an honor in "
 "Celestial society."
 msgstr ""
+"Bürgerwehren, die sich immer wieder als würdig erwiesen haben, wird der "
+"Ehrentitel des Sicarius verliehen. Dieser gilt als große Ehre unter "
+"denHimmlischen Heerscharen."
 
 #. [race]: id=devling
-#: units/devlings.cfg:7
+#: Era_of_Myths/units/devlings.cfg:7
 msgid "race^Devling"
-msgstr ""
+msgstr "Teufelchen"
 
 #. [race]: id=devling
-#: units/devlings.cfg:8
+#: Era_of_Myths/units/devlings.cfg:8
 msgid "race+female^Devling"
-msgstr ""
+msgstr "Teufelchen"
 
 #. [race]: id=devling
-#: units/devlings.cfg:9
+#: Era_of_Myths/units/devlings.cfg:9
 msgid "race^Devlings"
-msgstr ""
+msgstr "Teufelchen"
 
 #. [race]: id=devling
-#: units/devlings.cfg:17
+#: Era_of_Myths/units/devlings.cfg:17
 msgid ""
 "Devlings are small red creatures that live for nothing more than to torment "
 "others. They always live and travel in rather large extended families, and "
@@ -1047,137 +1244,162 @@ msgid ""
 "However their chaotic ways tend to stop them from forming a large enough "
 "host to be a serious threat to any well defended territory."
 msgstr ""
+"Teufelchen sind kleine rote Kreaturen, die für nichts anderes als das "
+"Foltern von Anderen leben. Sie leben und reisen stets in sehr großen Sippen, "
+"und durch ihre große Fortpflanzungsrate werden sie immer in großen Mengen "
+"auftreten. Sie sind Beherrscher des Chaosm und obgleich sie schwach und "
+"zerbrechlich sind, haben sie großen Schaden angerichtet. Trotzdem verhindert "
+"ihre chaotische Art, dass sich Schwärme formieren, die groß genug wären, ein "
+"gut verteidigtes Land wirklich zu gefährden."
 
 #. [unit_type]: id=EOM_Flappers, race=devling
-#: units/devlings/a1_Flappers.cfg:5
+#: Era_of_Myths/units/devlings/a1_Flappers.cfg:5
 msgid "Flappers"
-msgstr ""
+msgstr "Flatterer"
 
 #. [unit_type]: id=EOM_Flappers, race=devling
-#: units/devlings/a1_Flappers.cfg:23
+#: Era_of_Myths/units/devlings/a1_Flappers.cfg:23
 msgid ""
 "Some devlings are of a slightly different breed, and grow wings, and can "
 "spit fire."
 msgstr ""
+"Manche Teufelchen sind etwas anders, sie haben Flügel und spucken Feuer."
 
 #. [attack]: type=blade
-#: units/devlings/a3_Attackers.cfg:26 units/devlings/a2_Flyers.cfg:25
-#: units/devlings/a1_Flappers.cfg:29
+#: Era_of_Myths/units/devlings/a3_Attackers.cfg:26
+#: Era_of_Myths/units/devlings/a2_Flyers.cfg:25
+#: Era_of_Myths/units/devlings/a1_Flappers.cfg:29
 msgid "mini-glaive"
-msgstr ""
+msgstr "Minigleve"
 
 #. [attack]: type=fire
-#: units/devlings/a3_Attackers.cfg:35 units/devlings/a2_Flyers.cfg:34
-#: units/devlings/a1_Flappers.cfg:38
+#: Era_of_Myths/units/devlings/a3_Attackers.cfg:35
+#: Era_of_Myths/units/devlings/a2_Flyers.cfg:34
+#: Era_of_Myths/units/devlings/a1_Flappers.cfg:38
 msgid "breath"
-msgstr ""
+msgstr "Atem"
 
 #. [unit_type]: id=EOM_Flyers, race=devling
-#: units/devlings/a2_Flyers.cfg:5
+#: Era_of_Myths/units/devlings/a2_Flyers.cfg:5
 msgid "Flyers"
-msgstr ""
+msgstr "Flieger"
 
 #. [unit_type]: id=EOM_Flyers, race=devling
-#: units/devlings/a2_Flyers.cfg:19
+#: Era_of_Myths/units/devlings/a2_Flyers.cfg:19
 msgid "Devlings are dangerous without wings, and even more dangerous with."
-msgstr ""
+msgstr "Teufelchen sind mit Flügeln noch gefährlicher als ohne."
 
 #. [unit_type]: id=EOM_Attackers, race=devling
-#: units/devlings/a3_Attackers.cfg:5
+#: Era_of_Myths/units/devlings/a3_Attackers.cfg:5
 msgid "Attackers"
-msgstr ""
+msgstr "Angreifer"
 
 #. [unit_type]: id=EOM_Attackers, race=devling
-#: units/devlings/a3_Attackers.cfg:20
+#: Era_of_Myths/units/devlings/a3_Attackers.cfg:20
 msgid ""
 "With uncanny speed, heated breath, and sharp weapons, even the smallest of "
 "enemies is a threat."
 msgstr ""
+"Mit unheimlicher Geschwindigkeit heißem Atem und scharfen Waffen ist selbst "
+"der kleinste Gegner eine Bedrohung."
 
 #. [unit_type]: id=EOM_Nailers, race=devling
-#: units/devlings/b1_Nailers.cfg:5
+#: Era_of_Myths/units/devlings/b1_Nailers.cfg:5
 msgid "Nailers"
-msgstr ""
+msgstr "Stecher"
 
 #. [unit_type]: id=EOM_Nailers, race=devling
-#: units/devlings/b1_Nailers.cfg:27
+#: Era_of_Myths/units/devlings/b1_Nailers.cfg:27
 msgid ""
 "All craftsmen know that if they leave their tools lying about they will get "
 "lost, though few know why. Though small devlings have a knack for doing lots "
 "of damage with simple tools."
 msgstr ""
+"Alle Handwerker wissen, dass liegengelassene Werkzeuge verschwinden, obwohl "
+"die meisten nicht wissen warum. Weil Teufelchen eine Vorliebe dafür haben, "
+"mit einfachen Werkzeugen großen Schaden zu verursachen"
 
 #. [attack]: type=pierce
-#: units/devlings/b1_Nailers.cfg:51
+#: Era_of_Myths/units/devlings/b1_Nailers.cfg:51
 msgid "nail 'em"
-msgstr ""
+msgstr "Stecht sie!"
 
 #. [attack]: type=impact
-#: units/devlings/b3_Staplers.cfg:55 units/devlings/b2_Spikers.cfg:54
-#: units/devlings/b1_Nailers.cfg:60
+#: Era_of_Myths/units/devlings/b3_Staplers.cfg:55
+#: Era_of_Myths/units/devlings/b2_Spikers.cfg:54
+#: Era_of_Myths/units/devlings/b1_Nailers.cfg:60
 msgid "club 'em"
-msgstr ""
+msgstr "Haut sie!"
 
 #. [unit_type]: id=EOM_Spikers, race=devling
-#: units/devlings/b2_Spikers.cfg:5
+#: Era_of_Myths/units/devlings/b2_Spikers.cfg:5
 msgid "Spikers"
-msgstr ""
+msgstr "Aufspießer"
 
 #. [unit_type]: id=EOM_Spikers, race=devling
-#: units/devlings/b2_Spikers.cfg:21
+#: Era_of_Myths/units/devlings/b2_Spikers.cfg:21
 msgid ""
 "Devlings are small knaves. They often use tricks to distract their enemies "
 "before taking a swing. They may be small but certainly not harmless carrying "
 "around a large club or hammer."
 msgstr ""
+"Teufelchen sind kleine Viecher. Sie benutzen oft Tricks, um ihre Feinde "
+"abzulenken bevor sie zuschlagen. Sie mögen klein sein, doch mit einem großen "
+"Knüppel oder Hammer sind sie sicherlich nicht harmlos."
 
 #. [attack]: type=pierce
-#: units/devlings/b2_Spikers.cfg:45
+#: Era_of_Myths/units/devlings/b2_Spikers.cfg:45
 msgid "spiker 'em"
-msgstr ""
+msgstr "Spießt sie auf!"
 
 #. [unit_type]: id=EOM_Staplers, race=devling
-#: units/devlings/b3_Staplers.cfg:5
+#: Era_of_Myths/units/devlings/b3_Staplers.cfg:5
 msgid "Staplers"
-msgstr ""
+msgstr "Bohrer"
 
 #. [unit_type]: id=EOM_Staplers, race=devling
-#: units/devlings/b3_Staplers.cfg:22
+#: Era_of_Myths/units/devlings/b3_Staplers.cfg:22
 msgid ""
 "There are few happier things, than a small sadistic creature, with a great "
 "big hammer."
 msgstr ""
+"Kaum etwas ist glücklicher als eine kleine sadistische Kreatur mit einem "
+"großen, schweren Hammer."
 
 #. [attack]: type=pierce
-#: units/devlings/b3_Staplers.cfg:46
+#: Era_of_Myths/units/devlings/b3_Staplers.cfg:46
 msgid "staple 'em"
-msgstr ""
+msgstr "Durchbohrt sie!"
 
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
-#: units/devlings/c1_Overgrown.cfg:5
+#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:5
 msgid "Overgrown Devling"
-msgstr ""
+msgstr "Übergroßes Teufelchen."
 
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
-#: units/devlings/c1_Overgrown.cfg:19
+#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:19
 msgid ""
 "Some devlings grow to be almost as tall as a dwarf. These devlings are solid "
 "fighters, and provide a bit of toughness to the devling arsenal."
 msgstr ""
+"Manche Teufelchen werden fast so groß wie ein Zwerg. Diese Teufelchen sind "
+"robuste Kämpfer und verleihen dem Arsenal der Teufelchen ein bischen "
+"Zähigkeit"
 
 #. [attack]: type=impact
-#: units/devlings/c1_Overgrown.cfg:25 units/devlings/c3_Hero.cfg:26
-#: units/devlings/c2_Warrior.cfg:25
+#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:25
+#: Era_of_Myths/units/devlings/c3_Hero.cfg:26
+#: Era_of_Myths/units/devlings/c2_Warrior.cfg:25
 msgid "bash"
-msgstr ""
+msgstr "Hieb"
 
 #. [unit_type]: id=EOM_Devling_Soldier, race=devling
-#: units/devlings/c2_Soldier.cfg:5
+#: Era_of_Myths/units/devlings/c2_Soldier.cfg:5
 msgid "Soldier"
-msgstr ""
+msgstr "Soldat"
 
 #. [unit_type]: id=EOM_Devling_Soldier, race=devling
-#: units/devlings/c2_Soldier.cfg:19
+#: Era_of_Myths/units/devlings/c2_Soldier.cfg:19
 msgid ""
 "Much of devling philosophy is quite simple. Life is about hurting other "
 "people as much as possible. Overgrown devlings may not be as bright as their "
@@ -1185,362 +1407,436 @@ msgid ""
 "they pick up a pointy stick. Though, they might never figure out that they "
 "are supposed to be stabbing with it rather than slicing..."
 msgstr ""
+"Ein Großteil der Teufelchen-Philosophie ist ziemlich einfach: Das Leben ist "
+"dazu da, andere so viel wie möglich zu verletzen. Übergroße Teufelchen sind "
+"vielleicht nicht so schlau wie  ihre kleineren Artgenossen, aber nachdem sie "
+"eine Weile kommen sie zu dem Schluss, dass sie andere schlimmer verwunden "
+"können, wenn sie einen spitzen Stock nehmen. Sie werden allerdings wohl nie "
+"zu dem Schluss kommen, dass sie damit stechen sollten statt zu reißen..."
 
 #. [unit_type]: id=EOM_Devling_Warrior, race=devling
-#: units/devlings/c2_Warrior.cfg:5
+#: Era_of_Myths/units/devlings/c2_Warrior.cfg:5
 msgid "Warrior"
-msgstr ""
+msgstr "Krieger"
 
 #. [unit_type]: id=EOM_Devling_Warrior, race=devling
-#: units/devlings/c2_Warrior.cfg:19
+#: Era_of_Myths/units/devlings/c2_Warrior.cfg:19
 msgid ""
 "Much of devling philosophy is quite simple. Life is about hurting other "
 "people as much as possible. Overgrown devlings may not be as bright as their "
 "smaller kin, but after awhile they figure out they can hurt others more if "
 "they pick up a club."
 msgstr ""
+"Ein Großteil der Teufelchen-Philosophie ist ziemlich einfach: Das Leben ist "
+"dazu da,andere so viel wie möglich zu verletzen. Übergroße Teufelchen sind "
+"vielleicht nicht so so schlau wie ihre kleineren Artgenossen, aber nachdem "
+"sie eine Weile kommen sie zu dem Schluss, dass sie andere schlimmer "
+"verwunden können, wenn sie eine Keule nehmen."
 
 #. [unit_type]: id=EOM_Devling_Chief, race=devling
-#: units/devlings/c3_Chief.cfg:5
+#: Era_of_Myths/units/devlings/c3_Chief.cfg:5
 msgid "Chief"
-msgstr ""
+msgstr "Chef"
 
 #. [unit_type]: id=EOM_Devling_Chief, race=devling
-#: units/devlings/c3_Chief.cfg:20
+#: Era_of_Myths/units/devlings/c3_Chief.cfg:20
 msgid ""
 "The Devling Chiefs may look burly compared to their lesser kin but are "
 "fierce warriors. Upon their bodies are hung trophies from their latest "
 "battles. However they still have not figured out that spears are supposed to "
 "be stabbing weapons, but more than make up for that with brute muscle."
 msgstr ""
+"Die Chefs der Teufelchen mögen gedrungen scheinen, wenn man sie mit ihren "
+"Artgenossen vergleicht, doch sie sind wilde Kämpfer.An ihren Körper hängen "
+"sie Trophäen aus ihren letzten Kämpfen. Trotzdem haben sie immer noch nicht "
+"kapiert, dass Speere Stoßwaffen sind, aber das machen sie mit schierer "
+"Gewalt mehr als wett."
 
 #. [unit_type]: id=EOM_Devling_Hero, race=devling
-#: units/devlings/c3_Hero.cfg:5
+#: Era_of_Myths/units/devlings/c3_Hero.cfg:5
 msgid "Hero"
-msgstr ""
+msgstr "Held"
 
 #. [unit_type]: id=EOM_Devling_Hero, race=devling
-#: units/devlings/c3_Hero.cfg:20
+#: Era_of_Myths/units/devlings/c3_Hero.cfg:20
 msgid ""
 "Eventually a deviling can become proficient enough to be revered by his "
 "kindred as a hero. Unfortunately devlings tend to forget any hero who dies, "
 "so he won't have a legacy, but while he lives he'll have a sort of ironic "
 "glory."
 msgstr ""
+"Zum Schluss kann ein Teufelchen fähig genug werden, von seinen Artgenossen "
+"als Held bezeichnet zu werden. Unglücklicherweise neigen Teufelchen dazu, "
+"jeden Helden, der stirbt, zu vergessen, also wird er kein Vermächtnis haben, "
+"aber solange er lebt, wird er eine Art ironischen Ruhm innehalten."
 
 #. [unit_type]: id=EOM_Sneak, race=devling
-#: units/devlings/d0_Sneak.cfg:5
+#: Era_of_Myths/units/devlings/d0_Sneak.cfg:5
 msgid "Sneak"
-msgstr ""
+msgstr "Schleicher"
 
 #. [unit_type]: id=EOM_Sneak, race=devling
-#: units/devlings/d0_Sneak.cfg:26
+#: Era_of_Myths/units/devlings/d0_Sneak.cfg:26
 msgid ""
 "Devilings small size allows them to swiftly slip around enemies, and stick "
 "sharp objects into vulnerable places."
 msgstr ""
+"Die kleine Statur der Teufelchen erlaubt ihnen, schnell um Feinde "
+"herumzuschleichen und scharfe Objekte in verwundbare Stellen zu stoßen."
 
 #. [unit_type]: id=EOM_Lurker, race=devling
-#: units/devlings/d1_Lurker.cfg:5
+#: Era_of_Myths/units/devlings/d1_Lurker.cfg:5
 msgid "Lurker"
-msgstr ""
+msgstr "Lauerer"
 
 #. [unit_type]: id=EOM_Lurker, race=devling
-#: units/devlings/d1_Lurker.cfg:21
+#: Era_of_Myths/units/devlings/d1_Lurker.cfg:21
 msgid ""
 "Devilings who practice sticking knives into peoples backs long enough get "
 "even better at it."
 msgstr ""
+"Teufelchen, die lang genug üben, Messer in Rücken zu stoßen, werden noch "
+"besser darin."
 
 #. [unit_type]: id=EOM_Cursers, race=devling
-#: units/devlings/e1_Cursers.cfg:5
+#: Era_of_Myths/units/devlings/e1_Cursers.cfg:5
 msgid "Cursers"
-msgstr ""
+msgstr "Spotter"
 
 #. [unit_type]: id=EOM_Cursers, race=devling
-#: units/devlings/e1_Cursers.cfg:26
+#: Era_of_Myths/units/devlings/e1_Cursers.cfg:26
 msgid ""
 "Devlings may be small creatures, but they have big mouths. Filthy ones too. "
 "The verbal component to deviling magic tends to be quite profane."
 msgstr ""
+"Teufelchen mögen klein sein, aber sie haben eine große Klappe. Und einen "
+"schmutzigen WOrtschatz. Ihre Zaubersprüche sind oft ziemlich derb."
 
 #. [attack]: type=impact
-#: units/devlings/e1_Cursers.cfg:32 units/devlings/e3_Offenders.cfg:26
-#: units/devlings/e4_Abusers.cfg:27 units/devlings/e2_Blasphemists.cfg:26
+#: Era_of_Myths/units/devlings/e1_Cursers.cfg:32
+#: Era_of_Myths/units/devlings/e3_Offenders.cfg:26
+#: Era_of_Myths/units/devlings/e4_Abusers.cfg:27
+#: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:26
 msgid "kick"
-msgstr ""
+msgstr "Tritt"
 
 #. [unit_type]: id=EOM_Blasphemists, race=devling
-#: units/devlings/e2_Blasphemists.cfg:5
+#: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:5
 msgid "Blasphemists"
-msgstr ""
+msgstr "Lästerer"
 
 #. [unit_type]: id=EOM_Blasphemists, race=devling
-#: units/devlings/e2_Blasphemists.cfg:20
+#: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:20
 msgid ""
 "Devilings have a way of saying taunting peoples beliefs to undermine their "
 "internal security. Devilings also have magic that grips the heart like a "
 "claw. Devilings like to combine the two."
 msgstr ""
+"Teufelchen wissen, wie sie durch Spott die innere Sicherheit der Leute "
+"untergraben können. Teufelchen haben auch Magie, die das Herz wie ein Dorn "
+"sticht. Teufelchen lieben es, die beiden zusammenzutun."
 
 #. [unit_type]: id=EOM_Offenders, race=devling
-#: units/devlings/e3_Offenders.cfg:5
+#: Era_of_Myths/units/devlings/e3_Offenders.cfg:5
 msgid "Offenders"
-msgstr ""
+msgstr "Beleidiger"
 
 #. [unit_type]: id=EOM_Offenders, race=devling
-#: units/devlings/e3_Offenders.cfg:20
+#: Era_of_Myths/units/devlings/e3_Offenders.cfg:20
 msgid ""
 "If you have any pride in your heart, then devilings will find a way to "
 "offend it. In theory if you have absolutely no pride they can't hurt you "
 "that way. Unfortunately that won't save you from their magics."
 msgstr ""
+"Wer auch nur etwas Stolz besitzt, den werden die Teufelchen irgendwie "
+"beleidigen. Theoretisch würden sie den, der gar keinen Stolz kennt, so nicht "
+"verletzen können. Das würde ihn aber nicht vor ihrer Zauberei bewahren."
 
 #. [unit_type]: id=EOM_Abusers, race=devling
-#: units/devlings/e4_Abusers.cfg:5
+#: Era_of_Myths/units/devlings/e4_Abusers.cfg:5
 msgid "Abusers"
-msgstr ""
+msgstr "Schänder"
 
 #. [unit_type]: id=EOM_Abusers, race=devling
-#: units/devlings/e4_Abusers.cfg:21
+#: Era_of_Myths/units/devlings/e4_Abusers.cfg:21
 msgid ""
 "Words can harm a person, and devilings have a knack for finding the right "
 "words to harm someone with. Enough of this harm can abuse a person in a way "
 "you could not with any physical weapon."
 msgstr ""
+"Wörter können verletzend sein, und Teufelchen haben ein Talent, die "
+"richtigen Worte zu finden, um jemanden zu verletzen. Genug davon können "
+"schlimmeren Schaden anrichten, als es irgendeine lwibliche Waffe vermag."
 
 #. [race]: id=elemental
-#: units/elementals.cfg:7
+#: Era_of_Myths/units/elementals.cfg:7
 msgid "race^Elemental"
-msgstr ""
+msgstr "Elementargeist"
 
 #. [race]: id=elemental
-#: units/elementals.cfg:8
+#: Era_of_Myths/units/elementals.cfg:8
 msgid "race+female^Elemental"
-msgstr ""
+msgstr "Elementargeist"
 
 #. [race]: id=elemental
-#: units/elementals.cfg:9
+#: Era_of_Myths/units/elementals.cfg:9
 msgid "race^Elementals"
-msgstr ""
+msgstr "Elementargeister"
 
 #. [race]: id=elemental
-#: units/elementals.cfg:18
+#: Era_of_Myths/units/elementals.cfg:18
 msgid ""
 "The Elementals are the guardians of the World, spirits of the elements that "
 "incarnate themselves to fight. They are reclusive, but can be quite fierce "
 "and brutal, for as it is said, there is nothing more ruthless than nature."
 msgstr ""
+"Die Elementargeister sind die Wächter der Welt, Geister der Elemente, die "
+"sich für der Kampf manifestieren. Sie sind zurückgezogen, doch können sie "
+"wild und grausam sein, denn bekanntlich ist nichts erbamungsloser als die "
+"Natur"
 
 #. [unit_type]: id=EOM_Fire, race=elemental
-#: units/elementals/a1_Fire_Elemental.cfg:5
+#: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:5
 msgid "Fire Elemental"
-msgstr ""
+msgstr "Feuergeist"
 
 #. [unit_type]: id=EOM_Fire, race=elemental
-#: units/elementals/a1_Fire_Elemental.cfg:25
+#: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:25
 msgid ""
 "Fire spirits tend to inhabit rocks to give them form to fight in. This form "
 "gives them decent power, and toughness."
 msgstr ""
+"Feuergeister wohnen oft Felsen inne, um im Kampf eine Gestalt anzunehmen. "
+"Diese Gestalt macht sie recht stark und robust."
 
 #. [attack]: type=fire
-#: units/elementals/a1_Fire_Elemental.cfg:34
-#: units/elementals/a3_Lava_Beast.cfg:34 units/elementals/a3_Fire_Ghost.cfg:36
-#: units/elementals/a2_Living_Furnace.cfg:33
+#: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:34
+#: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:34
+#: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:36
+#: Era_of_Myths/units/elementals/a2_Living_Furnace.cfg:33
 msgid "fire claws"
-msgstr ""
+msgstr "Feuerkrallen"
 
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
-#: units/elementals/a2_Fire_Wisp.cfg:5
+#: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:5
 msgid "Fire Wisp"
-msgstr ""
+msgstr "Brandgeister"
 
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
-#: units/elementals/a2_Fire_Wisp.cfg:25 units/elementals/a3_Fire_Ghost.cfg:27
+#: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:25
+#: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:27
 msgid ""
 "Fire Wisps are spirits of smoke and flame. Summoned by powerful mages. When "
 "not being ordered around they like to frolic in pools of lava and take great "
 "delight in burning anything they can reach."
 msgstr ""
+"Brandgeister sind Geister der Flammen und des Rauches.Ihre bevorzugten "
+"Freizeitbeschäftigungen sind in Lava zu baden und alles Erreichbare zu "
+"verbrennen "
 
 #. [attack]: type=fire
-#: units/elementals/a2_Fire_Wisp.cfg:34
+#: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:34
 msgid "fire bash"
-msgstr ""
+msgstr "Feuerstoß"
 
 #. [unit_type]: id=EOM_Living_Furnace, race=elemental, description=
-#: units/elementals/a2_Living_Furnace.cfg:5
+#: Era_of_Myths/units/elementals/a2_Living_Furnace.cfg:5
 msgid "Living Furnace"
-msgstr ""
+msgstr "Lebender Schmelzofen"
 
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
-#: units/elementals/a3_Fire_Ghost.cfg:5
+#: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:5
 msgid "Fire Ghost"
-msgstr ""
+msgstr "Brunstgeist"
 
 #. [unit_type]: id=EOM_Lava_Beast, race=elemental
-#: units/elementals/a3_Lava_Beast.cfg:5
+#: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:5
 msgid "Lava Beast"
-msgstr ""
+msgstr "Lavabestie"
 
 #. [unit_type]: id=EOM_Lava_Beast, race=elemental
-#: units/elementals/a3_Lava_Beast.cfg:25
+#: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:25
 msgid ""
 "Eventualy these spirits will grow strong enough to melt the rock about them."
-msgstr ""
+msgstr "Lavabestien sind so heiß, dass sie ihre Heimatfelsen schmelzen."
 
 #. [unit_type]: id=EOM_Air, race=elemental
-#: units/elementals/b0_Air_Elemental.cfg:5
+#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:5
 msgid "Air Elemental"
-msgstr ""
+msgstr "Luftgeist"
 
 #. [unit_type]: id=EOM_Air, race=elemental
-#: units/elementals/b0_Air_Elemental.cfg:26
+#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:26
 msgid ""
 "Wind spirits take the form of a purple cloud. It fights with the ice winds "
 "of the north that can draw the living heat from your skin, and gales of wind "
 "that slice through armor. However the magical form of the elemental is "
 "fragile, and has no defense at close range."
 msgstr ""
+"Luftgeister nehmen die Gestalt einer purpurnen Wolke an. Sie kämpfen mit "
+"eisigenmit eisigen Nordwinden, die einen erfrieren lassen, und Sturmböen, "
+"die Rüstungendurchbrechen. Sie sind allerdings sehr fragil und können sich "
+"nicht im Nahkampfverteidigen"
 
 #. [attack]: type=impact
-#: units/elementals/b0_Air_Elemental.cfg:45
+#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:45
 msgid "Galeforce"
-msgstr ""
+msgstr "Sturmböe"
 
 #. [unit_type]: id=EOM_Razorbird, race=elemental
-#: units/elementals/b1_Razorbird.cfg:5
+#: Era_of_Myths/units/elementals/b1_Razorbird.cfg:5
 msgid "Razorbird"
-msgstr ""
+msgstr "Klingenvogel"
 
 #. [unit_type]: id=EOM_Razorbird, race=elemental
-#: units/elementals/b1_Razorbird.cfg:27
+#: Era_of_Myths/units/elementals/b1_Razorbird.cfg:27
 msgid ""
 "Lightning is not an element, however some wind spirits can take a form where "
 "they can control it. The body they need to develop from a younger form, "
 "known as the Razorbird. Given the time and power, it will grow into a "
 "Thunderbird."
 msgstr ""
+"Blitze sind kein Element, trotzdem können manche Windgeister eine Gestalt "
+"annehmen,in der sie diese kontrollieren können. Sie müssen dafür die Form "
+"des sogenannten Klingen-vogels annehmen. Mit genug Zeit und Kraft werden sie "
+"zu Donnervögeln heranreifen."
 
 #. [attack]: type=pierce
-#: units/elementals/b2_Thunderbird.cfg:36 units/elementals/b1_Razorbird.cfg:36
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:36
+#: Era_of_Myths/units/elementals/b1_Razorbird.cfg:36
 msgid "beak"
-msgstr ""
+msgstr "Schnabel"
 
 #. [attack]: type=fire
-#: units/elementals/b2_Thunderbird.cfg:48 units/elementals/b1_Razorbird.cfg:49
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:48
+#: Era_of_Myths/units/elementals/b1_Razorbird.cfg:49
 msgid "thunderbolt"
-msgstr ""
+msgstr "Donnerkeil"
 
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
-#: units/elementals/b1_Wind_Spirit.cfg:5
+#: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:5
 msgid "Wind Spirit"
-msgstr ""
+msgstr "Windgeist"
 
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
-#: units/elementals/b1_Wind_Spirit.cfg:26
+#: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:26
 msgid ""
 "As winds spirits stay in their physical form, they grow stronger, as does "
 "their power over winds. The advanced ability to control or herd winds allows "
 "the elemental to attack with more force. In addition they are now strong "
 "enough to hold a dagger."
 msgstr ""
+"Wenn Luftgeister körperlich verbleiben, werden sie stärker und mächtiger.Die "
+"erhöhten Fähigkeiten, Luft zu manipulieren, erlauben ihnen stärkereBöen. Sie "
+"sind zudem nun physisch genug, um einen Dolch zu halten."
 
 #. [attack]: type=impact
-#: units/elementals/b1_Wind_Spirit.cfg:41
+#: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:41
 msgid "galeforce"
-msgstr ""
+msgstr "Sturmböe"
 
 #. [unit_type]: id=EOM_Thunderbird, race=elemental
-#: units/elementals/b2_Thunderbird.cfg:5
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:5
 msgid "Thunderbird"
-msgstr ""
+msgstr "Donnervogel"
 
 #. [unit_type]: id=EOM_Thunderbird, race=elemental
-#: units/elementals/b2_Thunderbird.cfg:27
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:27
 msgid "The Thunderbird has matured it's lightning bolt into a powerful force."
-msgstr ""
+msgstr "Der Donnervogel hat seine Donnerkeile zu hoher Macht gesteigert."
 
 #. [unit_type]: id=EOM_Zephyr, race=elemental
-#: units/elementals/b2_Zephyr.cfg:5
+#: Era_of_Myths/units/elementals/b2_Zephyr.cfg:5
 msgid "Zephyr"
-msgstr ""
+msgstr "Zephir"
 
 #. [unit_type]: id=EOM_Zephyr, race=elemental
-#: units/elementals/b2_Zephyr.cfg:27
+#: Era_of_Myths/units/elementals/b2_Zephyr.cfg:27
 msgid ""
 "A wind spirit who stays in form long enough gains great mastery over winds. "
 "This grants him Strength to his attacks, and toughness to his form."
 msgstr ""
+"Ein Windgeist, der seine Gestalt lang genug beibehält, erhält große Macht "
+"über die Winde.Dadurch werden seine Angriffe starker und seine Gestalt "
+"robuster."
 
 #. [attack]: type=blade
-#: units/elementals/b3_Djinn.cfg:34 units/elementals/b2_Zephyr.cfg:32
+#: Era_of_Myths/units/elementals/b3_Djinn.cfg:34
+#: Era_of_Myths/units/elementals/b2_Zephyr.cfg:32
 msgid "scimitar"
-msgstr ""
+msgstr "Säbel"
 
 #. [attack]: type=impact
-#: units/elementals/b3_Djinn.cfg:44 units/elementals/b2_Zephyr.cfg:42
+#: Era_of_Myths/units/elementals/b3_Djinn.cfg:44
+#: Era_of_Myths/units/elementals/b2_Zephyr.cfg:42
 msgid "tornado"
-msgstr ""
+msgstr "Windhose"
 
 #. [unit_type]: id=EOM_Djinn, race=elemental
-#: units/elementals/b3_Djinn.cfg:7
+#: Era_of_Myths/units/elementals/b3_Djinn.cfg:7
 msgid "Djinn"
-msgstr ""
+msgstr "Dschinn"
 
 #. [unit_type]: id=EOM_Djinn, race=elemental
-#: units/elementals/b3_Djinn.cfg:29
+#: Era_of_Myths/units/elementals/b3_Djinn.cfg:29
 msgid ""
 "Djinns are mighty wind spirits who can decimate armies with their powerful "
 "winds. They wield glistening scimitars at close distances."
 msgstr ""
+"Dschinn sind mächtige Luftgeister, die Armeen mit ihren Stürmen dezimieren."
+"können. Im Nahkampf benutzen sie gleißende Säbel."
 
 #. [unit_type]: id=EOM_Earth, race=elemental
-#: units/elementals/c1_Earth_Elemental.cfg:5
+#: Era_of_Myths/units/elementals/c1_Earth_Elemental.cfg:5
 msgid "Earth Elemental"
-msgstr ""
+msgstr "Erdgeist"
 
 #. [unit_type]: id=EOM_Earth, race=elemental
-#: units/elementals/c1_Earth_Elemental.cfg:24
+#: Era_of_Myths/units/elementals/c1_Earth_Elemental.cfg:24
 msgid ""
 "Earth spirts take the form of moving rocks. In combat the contribute great "
 "durability, and mediocre attacks."
 msgstr ""
+"Erdgeister nehmen die Gestalt bewegter Felsen an. Sie sind sehr solide."
 
 #. [unit_type]: id=EOM_Rock_Golem, race=elemental
-#: units/elementals/c2_Rock_Golem.cfg:5
+#: Era_of_Myths/units/elementals/c2_Rock_Golem.cfg:5
 msgid "Rock Golem"
-msgstr ""
+msgstr "Felsgolem"
 
 #. [unit_type]: id=EOM_Rock_Golem, race=elemental
-#: units/elementals/c2_Rock_Golem.cfg:24
+#: Era_of_Myths/units/elementals/c2_Rock_Golem.cfg:24
 msgid ""
 "Rock Golems are the bodies of Earth spirits that have grown strong enough to "
 "animate their hulking bodies. These creatures are incredibly tough, but weak "
 "for their size."
 msgstr ""
+"Felsgolems sind Erdgeister, die so mächtig wurden, dass sie ihre riesigen "
+"Körperzum Leben erweckten. Sie sind unglaublich robust, doch relativ schwach."
 
 #. [unit_type]: id=EOM_Stone_Titan, race=elemental
-#: units/elementals/c3_Stone_Titan.cfg:5
+#: Era_of_Myths/units/elementals/c3_Stone_Titan.cfg:5
 msgid "Stone Titan"
-msgstr ""
+msgstr "Bergriese"
 
 #. [unit_type]: id=EOM_Stone_Titan, race=elemental
-#: units/elementals/c3_Stone_Titan.cfg:25
+#: Era_of_Myths/units/elementals/c3_Stone_Titan.cfg:25
 msgid ""
 "Earth Spirits of immense power can animate immense bodies. Although not "
 "fast, the shear mass of the monster can cause quite a bit of damage."
 msgstr ""
+"Extrem mächtige Erdgeister können extrem mächtige Körper beleben.Sie sind "
+"zwar nicht schnell, doch kann ihre schiere Masse des Monstersziemlich viel "
+"Schaden verursachen."
 
 #. [unit_type]: id=EOM_Water, race=elemental
-#: units/elementals/d1_Water_Elemental.cfg:5
+#: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:5
 msgid "Water Elemental"
-msgstr ""
+msgstr "Wassergeist"
 
 #. [unit_type]: id=EOM_Water, race=elemental
-#: units/elementals/d1_Water_Elemental.cfg:24
+#: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:24
 msgid ""
 "Water spirits bodies are merely a mass of water. In water it is hard to "
 "distinguish them from the water. This and their ability to restore their "
@@ -1548,149 +1844,173 @@ msgid ""
 "takes all the spirits power just to keep itself moving, and flowing, without "
 "worrying about defending itself."
 msgstr ""
+"Die Geatalt der Wassergeister ist nicht mehr als ein Klumpen Wasser. Es ist "
+"schwie-rig, sie im Wasser zu erkennen. Zusammen mit ihrer Fähigkeit, sich im "
+"Wasser zu er-neuern, macht sie im Wasser sehr stark. An Land aber muss der "
+"Geist all seine Energiedarauf verwenden, sich selbst in Form zu halten, und "
+"hat keine Zeit, sich um seine Ver-teidigungzu kümmern."
 
 #. [attack]: type=impact
-#: units/elementals/d2_Undine.cfg:34
-#: units/elementals/d1_Water_Elemental.cfg:34
-#: units/elementals/d3_Tempest_Spirit.cfg:35
+#: Era_of_Myths/units/elementals/d2_Undine.cfg:34
+#: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:34
+#: Era_of_Myths/units/elementals/d3_Tempest_Spirit.cfg:35
 msgid "water punch"
-msgstr ""
+msgstr "Wasserschlag"
 
 #. [unit_type]: id=EOM_Ice_Crab, race=elemental
-#: units/elementals/d2_Ice_Crab.cfg:5
+#: Era_of_Myths/units/elementals/d2_Ice_Crab.cfg:5
 msgid "Ice Crab"
-msgstr ""
+msgstr "Eiskrabbe"
 
 #. [unit_type]: id=EOM_Ice_Crab, race=elemental
-#: units/elementals/d2_Ice_Crab.cfg:24
+#: Era_of_Myths/units/elementals/d2_Ice_Crab.cfg:24
 msgid ""
 "Some water spirits decide to generate a aura of cold, to freeze their form, "
 "and give them a solid body. Crabs are the favored for, because their form is "
 "practical for both land, and sea travel, and can fight with spearlike "
 "icicles."
 msgstr ""
+"Manche Wassergeister entscheiden sich, eine Aura der Kälte zu er-schaffen, "
+"um ihre Gestalt einzufrieren und ihnen einen festen Körperzu verleihen. "
+"Krabben sind berühmt, weil ihre Gestalt für Land wie Wassergeeignet ist und "
+"sie Eiszapfen als Speere benutzen können."
 
 #. [attack]: type=pierce
-#: units/elementals/d3_Ice_Shell.cfg:49 units/elementals/d2_Ice_Crab.cfg:48
+#: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:49
+#: Era_of_Myths/units/elementals/d2_Ice_Crab.cfg:48
 msgid "icicle"
-msgstr ""
+msgstr "Eiszapfen"
 
 #. [attack]: type=cold
-#: units/elementals/d3_Ice_Shell.cfg:59 units/elementals/d2_Ice_Crab.cfg:58
+#: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:59
+#: Era_of_Myths/units/elementals/d2_Ice_Crab.cfg:58
 msgid "cold aura"
-msgstr ""
+msgstr "Aura der Kälte"
 
 #. [unit_type]: id=EOM_Undine, race=elemental
-#: units/elementals/d2_Undine.cfg:5
+#: Era_of_Myths/units/elementals/d2_Undine.cfg:5
 msgid "Undine"
-msgstr ""
+msgstr "Undine"
 
 #. [unit_type]: id=EOM_Undine, race=elemental
-#: units/elementals/d2_Undine.cfg:24
+#: Era_of_Myths/units/elementals/d2_Undine.cfg:24
 msgid "."
 msgstr ""
 
 #. [unit_type]: id=EOM_Ice_Shell, race=elemental
-#: units/elementals/d3_Ice_Shell.cfg:5
+#: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:5
 msgid "Ice Shell"
-msgstr ""
+msgstr "Eishummer"
 
 #. [unit_type]: id=EOM_Ice_Shell, race=elemental
-#: units/elementals/d3_Ice_Shell.cfg:25
+#: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:25
 msgid ""
 "The more powerful the water spirit gets, the more powerfull it's aura of "
 "cold, and the stronger an icey body it can make."
 msgstr ""
+"Je mächtiger eine Eiskrabbe, desto mächtiger die Aura der Kälteund desto "
+"stärker ihr Eiskörper"
 
 #. [unit_type]: id=EOM_Tempest_Spirit, race=elemental
-#: units/elementals/d3_Tempest_Spirit.cfg:5
+#: Era_of_Myths/units/elementals/d3_Tempest_Spirit.cfg:5
 msgid "Tempest Spirit"
-msgstr ""
+msgstr "Sturmbraut"
 
 #. [unit_type]: id=EOM_Tempest_Spirit, race=elemental
-#: units/elementals/d3_Tempest_Spirit.cfg:26
+#: Era_of_Myths/units/elementals/d3_Tempest_Spirit.cfg:26
 msgid ""
 "The will of the storm merges with a water spirt to form a potent elemental."
 msgstr ""
+"Sturm und Wasser verbinden sich zu einem beeindruckenden Elementargeist."
 
 #. [unit_type]: id=EOM_Unicorn, race=elemental
-#: units/elementals/e1_Unicorn.cfg:5
+#: Era_of_Myths/units/elementals/e1_Unicorn.cfg:5
 msgid "Unicorn"
-msgstr ""
+msgstr "Einhorn"
 
 #. [unit_type]: id=EOM_Unicorn, race=elemental
-#: units/elementals/e1_Unicorn.cfg:27
+#: Era_of_Myths/units/elementals/e1_Unicorn.cfg:27
 msgid ""
 "These small white horses bear proudly a horn in the middle of their "
 "forehead. Composed by light and life forces, they are so full of them that "
 "its mere presence heals allied units around them."
 msgstr ""
+"Diese kleinen Schimmel tragen stolz ein Horn mitten auf der Stirn. Sie "
+"bestehenaus Licht und Leben und sind so voll der beiden, dass ihre bloße "
+"AnwesenheitVerwundete heilen kann."
 
 #. [attack]: type=pierce
-#: units/elementals/e2_Silver_Unicorn.cfg:41
-#: units/elementals/e1_Unicorn.cfg:40
+#: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:41
+#: Era_of_Myths/units/elementals/e1_Unicorn.cfg:40
 msgid "horn"
-msgstr ""
+msgstr "Horn"
 
 #. [unit_type]: id=EOM_Silver_Unicorn, race=elemental
-#: units/elementals/e2_Silver_Unicorn.cfg:5
+#: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:5
 msgid "Silver Unicorn"
-msgstr ""
+msgstr "Silbernes Einhorn"
 
 #. [unit_type]: id=EOM_Silver_Unicorn, race=elemental
-#: units/elementals/e2_Silver_Unicorn.cfg:28
+#: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:28
 msgid ""
 "Gleaming with light, these horses bear a magic silvery horn in the middle of "
 "their foreheads which can shot rays of pure ligth. Composed by light and "
 "life forces, they are so full of them that its mere presence heals allied "
 "units around them."
 msgstr ""
+"Diese gleißenden Einhörner tragen ein magisches Silberhorn auf ihrer Stirn "
+"das Strahlenreinen Lichts verschießen können."
 
 #. [unit_type]: id=EOM_Vine_Beast, race=elemental
-#: units/elementals/f1_Vine_Beast.cfg:5
+#: Era_of_Myths/units/elementals/f1_Vine_Beast.cfg:5
 msgid "Vine Beast"
-msgstr ""
+msgstr "Rankenbestie"
 
 #. [unit_type]: id=EOM_Vine_Beast, race=elemental
-#: units/elementals/f1_Vine_Beast.cfg:23
+#: Era_of_Myths/units/elementals/f1_Vine_Beast.cfg:23
 msgid ""
 "The vine beasts are diffrent from most elementals. They are not an "
 "incarnation of an elemental spirit, but rather a beast formed from wood, and "
 "given life by magic."
 msgstr ""
+"Rankenbiester sind anders als die meisten anderen Elementargeister. Sie sind "
+"nicht Ver-körperung eines Elementes, sondern vielmehr eine magische Bestie "
+"aus Holz."
 
 #. [unit_type]: id=EOM_Vine_Tiger, race=elemental
-#: units/elementals/f2_Vine_Tiger.cfg:5
+#: Era_of_Myths/units/elementals/f2_Vine_Tiger.cfg:5
 msgid "Vine Tiger"
-msgstr ""
+msgstr "Rankentiger"
 
 #. [unit_type]: id=EOM_Vine_Tiger, race=elemental
-#: units/elementals/f2_Vine_Tiger.cfg:25
+#: Era_of_Myths/units/elementals/f2_Vine_Tiger.cfg:25
 msgid ""
 "The vine beasts grow in size as they live, and the larger forms are called "
 "tigers after a beast that they resemble."
 msgstr ""
+"Ihr Leben lang wachsen Rankenbiester, und die größeren werden Tiger genannt, "
+"dennsie gleichen diesen."
 
 #. [race]: id=therian
 #. [race]: id=therian2
-#: units/therians.cfg:7 units/therians.cfg:19
+#: Era_of_Myths/units/therians.cfg:7 Era_of_Myths/units/therians.cfg:19
 msgid "race^Therian Human"
-msgstr ""
+msgstr "Therianer"
 
 #. [race]: id=therian
 #. [race]: id=therian2
-#: units/therians.cfg:8 units/therians.cfg:20
+#: Era_of_Myths/units/therians.cfg:8 Era_of_Myths/units/therians.cfg:20
 msgid "race+female^Therian Human"
-msgstr ""
+msgstr "Therianerin"
 
 #. [race]: id=therian
 #. [race]: id=therian2
-#: units/therians.cfg:9 units/therians.cfg:21
+#: Era_of_Myths/units/therians.cfg:9 Era_of_Myths/units/therians.cfg:21
 msgid "race^Therian Humans"
-msgstr ""
+msgstr "Therianer"
 
 #. [race]: id=therian
-#: units/therians.cfg:14
+#: Era_of_Myths/units/therians.cfg:14
 msgid ""
 "The Therians are a spiritual people, who are generally not very aggressive, "
 "but believe in self-sufficiency, and self-defense. They pride themselves in "
@@ -1698,9 +2018,16 @@ msgid ""
 "also of the spiritual arts, and the magics of their jungle homes. Therians "
 "are one of the few human factions strong enough to resist the other races."
 msgstr ""
+"Die Therianer sind ein spirituelles Volk, das normalerweise nicht sehr "
+"aggressiv ist, aberan Selbstversorgung und Selbstverteidigung glauben. Sie "
+"brüsten sich mit der Meisterrung vieler Künste, vor allem der Verwandlung, "
+"aber auch der Geistes- und der Dschungelmagie. Die Therianer sind eine der "
+"wenigen Menschengruppen, die stark genug ist, anderen Spezies Widerstand zu "
+"leisten. Sie leben gewöhnlich in Frieden mit den Himmlischen Heerscharen und "
+"hegen eine seltsame Freundschaft mit den Warg."
 
 #. [race]: id=therian2
-#: units/therians.cfg:25
+#: Era_of_Myths/units/therians.cfg:25
 msgid ""
 "The Therians are a spiritual people, who are generally not very aggressive, "
 "but believe in self-sufficiency, and self-defense. They pride themselves in "
@@ -1710,19 +2037,27 @@ msgid ""
 "They are commonly peaceful with the celestials, and share a strange "
 "friendship with the warg."
 msgstr ""
+"Die Therianer sind ein spirituelles Volk, das normalerweise nicht sehr "
+"aggressiv ist, aberan Selbstversorgung und Selbstverteidigung glauben. Sie "
+"brüsten sich mit der Meister-rung vieler Künste, vor allem der Verwandlung, "
+"aber auch der Geistes- und der Dschun-gelmagie. Die Therianer sind eine der "
+"wenigen Menschengruppen, die stark genug ist, an-deren Spezies Widerstand zu "
+"leisten. Sie leben gewöhnlich in Frieden mit den Himmlischen Heerscharen und "
+"hegen eine seltsame Freundschaft mit den Warg."
 
 #. [unit_type]: id=EOM_Falcon, race=therian
-#: units/therians/a1_Falcon.cfg:5
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:5
 msgid "Falcon Therian"
-msgstr ""
+msgstr "Falkentherianer"
 
 #. [unit_type]: id=EOM_Peregrine_Falcon, race=therian
 #. [unit_type]: id=EOM_Prairie_Falcon, race=therian
 #. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #. [unit_type]: id=EOM_Falcon, race=therian
-#: units/therians/a3_Peregrine_Falcon.cfg:21
-#: units/therians/a2_Prairie_Falcon.cfg:20 units/therians/a3_Gyrfalcon.cfg:21
-#: units/therians/a1_Falcon.cfg:20
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:21
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:20
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:21
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:20
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -1734,46 +2069,64 @@ msgid ""
 "Falcon Therian can travel great distances when in their shifted form, though "
 "are not the strongest in combat."
 msgstr ""
+"Die Therianer sind bekannt für ihre Spiritualität. Auch haben sie durch ihre "
+"Nachbarn, die Wargs, einen tiefen Respekt der Natur gegenüber gelernt. Viele "
+"Therianer identifizieren sich mit Tieren. Sie können durch ihre innere "
+"Geisteskraft sich in das gewählte Tier verwandeln\n"
+"\n"
+"Therianer, die Anmut, Flinkheit und Würde schätzen, identifizieren sich mit "
+"dem Falken.In verwandelter Gestalt können sie weite Strecken zurücklegen, "
+"sind aber keien sonderlich guten Kämpfer."
 
 #. [attack]: type=impact
-#: units/therians/c3_King_Cobra.cfg:55
-#: units/therians/a3_Peregrine_Falcon.cfg:37 units/therians/b2_Wildcat.cfg:50
-#: units/therians/c1_Serpent.cfg:40 units/therians/c2_Sea_Snake.cfg:42
-#: units/therians/b3_Panther.cfg:54 units/therians/a2_Prairie_Falcon.cfg:36
-#: units/therians/a3_Gyrfalcon.cfg:37 units/therians/c2_Cobra.cfg:53
-#: units/therians/b1_Cat.cfg:41 units/therians/a1_Falcon.cfg:36
-#: units/therians/c2_Sandskipper.cfg:58 units/therians/b3_Tiger.cfg:56
-#: units/therians/c3_Spitting_Cobra.cfg:67 units/wargs/a3_Wolfling.cfg:45
-#: units/wargs/a2_Changeling.cfg:44 units/wargs/a1_Shapeshifter.cfg:44
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:55
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:37
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:50
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:40
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:42
+#: Era_of_Myths/units/therians/b3_Panther.cfg:54
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:36
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:37
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:53
+#: Era_of_Myths/units/therians/b1_Cat.cfg:41
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:36
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:58
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:56
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:67
+#: Era_of_Myths/units/wargs/a3_Wolfling.cfg:45
+#: Era_of_Myths/units/wargs/a2_Changeling.cfg:44
+#: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:44
 msgid "aura wave"
-msgstr ""
+msgstr "Aurawelle"
 
 #. [unit_type]: id=EOM_Prairie_Falcon, race=therian
-#: units/therians/a2_Prairie_Falcon.cfg:5
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:5
 msgid "Falcon"
-msgstr ""
+msgstr "Falke"
 
 #. [unit_type]: id=EOM_Gyrfalcon, race=therian
-#: units/therians/a3_Gyrfalcon.cfg:5
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:5
 msgid "Gyrfalcon"
-msgstr ""
+msgstr "Gerfalke"
 
 #. [unit_type]: id=EOM_Peregrine_Falcon, race=therian
-#: units/therians/a3_Peregrine_Falcon.cfg:5
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:5
 msgid "Peregrine Falcon"
-msgstr ""
+msgstr "Wanderfalke"
 
 #. [unit_type]: id=EOM_Cat, race=therian
-#: units/therians/b1_Cat.cfg:5
+#: Era_of_Myths/units/therians/b1_Cat.cfg:5
 msgid "Cat Therian"
-msgstr ""
+msgstr "Katzentherianer"
 
 #. [unit_type]: id=EOM_Wildcat, race=therian
 #. [unit_type]: id=EOM_Panther, race=therian
 #. [unit_type]: id=EOM_Cat, race=therian
 #. [unit_type]: id=EOM_Tiger, race=therian
-#: units/therians/b2_Wildcat.cfg:20 units/therians/b3_Panther.cfg:21
-#: units/therians/b1_Cat.cfg:20 units/therians/b3_Tiger.cfg:22
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:20
+#: Era_of_Myths/units/therians/b3_Panther.cfg:21
+#: Era_of_Myths/units/therians/b1_Cat.cfg:20
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:22
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -1786,26 +2139,35 @@ msgid ""
 "claws, or sometimes even jaws, to shred their enemies and protect their "
 "people."
 msgstr ""
+"Die Therianer sind bekannt für ihre Spiritualität. Auch haben sie durch ihre "
+"Nachbarn, die Wargs, einen tiefen Respekt der Natur gegenüber gelernt. Viele "
+"Therianer identifizieren sich mit Tieren. Sie können durch ihre innere "
+"Geisteskraft sich in das gewählte Tier verwandeln\n"
+"\n"
+"Therianer, die Stärke, Kraft und Intensität schätzen, identifizieren sich "
+"mit der Wildkatze. In verwandelter Gestalt sind sie brutale Kämpfer, "
+"zerfleischen sie ihre Gegner mit Klauen, teils mit Zähnen gar, um ihr Volk "
+"zu schützen."
 
 #. [unit_type]: id=EOM_Wildcat, race=therian
-#: units/therians/b2_Wildcat.cfg:5
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:5
 msgid "Wildcat Therian"
-msgstr ""
+msgstr "Wildkatzentherianer"
 
 #. [unit_type]: id=EOM_Panther, race=therian
-#: units/therians/b3_Panther.cfg:5
+#: Era_of_Myths/units/therians/b3_Panther.cfg:5
 msgid "Therian Black Cat"
-msgstr ""
+msgstr "Schwarzkatzentherianer"
 
 #. [unit_type]: id=EOM_Tiger, race=therian
-#: units/therians/b3_Tiger.cfg:5
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:5
 msgid "Leopard Therian"
-msgstr ""
+msgstr "Leopardentherianer"
 
 #. [unit_type]: id=EOM_Serpent, race=therian
-#: units/therians/c1_Serpent.cfg:5
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:5
 msgid "Serpent Therian"
-msgstr ""
+msgstr "Schlangentherianer"
 
 #. [unit_type]: id=EOM_King_Cobra, race=therian
 #. [unit_type]: id=EOM_Serpent, race=therian
@@ -1813,10 +2175,12 @@ msgstr ""
 #. [unit_type]: id=EOM_Cobra, race=therian
 #. [unit_type]: id=EOM_Sandskipper, race=therian
 #. [unit_type]: id=EOM_Spitting_Cobra, race=therian
-#: units/therians/c3_King_Cobra.cfg:21 units/therians/c1_Serpent.cfg:20
-#: units/therians/c2_Sea_Snake.cfg:21 units/therians/c2_Cobra.cfg:20
-#: units/therians/c2_Sandskipper.cfg:21
-#: units/therians/c3_Spitting_Cobra.cfg:22
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:21
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:20
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:21
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:20
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:21
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:22
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -1828,44 +2192,52 @@ msgid ""
 "the serpent.  These Therian have the capability to create a powerful venom "
 "when in their attuned form."
 msgstr ""
+"Die Therianer sind bekannt für ihre Spiritualität. Auch haben sie durch ihre "
+"Nachbarn, die Wargs, einen tiefen Respekt der Natur gegenüber gelernt. Viele "
+"Therianer identifizieren sich mit Tieren. Sie können durch ihre innere "
+"Geisteskraft sich in das gewählte Tier verwandeln\n"
+"\n"
+"Therianer, die Geschmeidigkeit, Subtilität und Flexibilität schätzen, "
+"identifizieren sich mit der Schlange.In verwandelter Gestalt stellen sie ein "
+"sehr starkes Gift her."
 
 #. [unit_type]: id=EOM_Cobra, race=therian
-#: units/therians/c2_Cobra.cfg:5
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:5
 msgid "Cobra"
-msgstr ""
+msgstr "Kobratherianer"
 
 #. [unit_type]: id=EOM_Sandskipper, race=therian
-#: units/therians/c2_Sandskipper.cfg:5
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:5
 msgid "Sandskipper"
-msgstr ""
+msgstr "Wüstentherianer"
 
 #. [unit_type]: id=EOM_Sea_Snake, race=therian
-#: units/therians/c2_Sea_Snake.cfg:5
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:5
 msgid "Sea Snake"
-msgstr ""
+msgstr "Seeschlangentherianer"
 
 #. [unit_type]: id=EOM_King_Cobra, race=therian
-#: units/therians/c3_King_Cobra.cfg:5
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:5
 msgid "King Cobra"
-msgstr ""
+msgstr "Königskobratherianer"
 
 #. [unit_type]: id=EOM_Spitting_Cobra, race=therian
-#: units/therians/c3_Spitting_Cobra.cfg:5
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:5
 msgid "Spitting Cobra"
-msgstr ""
+msgstr "Speikobratherianer"
 
 #. [attack]: type=pierce
-#: units/therians/c3_Spitting_Cobra.cfg:55
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:55
 msgid "spit"
-msgstr ""
+msgstr "Speien"
 
 #. [unit_type]: id=EOM_Therian_Hunter, race=human
-#: units/therians/d1_Hunter.cfg:5
+#: Era_of_Myths/units/therians/d1_Hunter.cfg:5
 msgid "Hunter"
-msgstr ""
+msgstr "Jäger"
 
 #. [unit_type]: id=EOM_Therian_Hunter, race=human
-#: units/therians/d1_Hunter.cfg:21
+#: Era_of_Myths/units/therians/d1_Hunter.cfg:21
 msgid ""
 "The hunters of Theria travel with minimal armor, carrying only their bow, "
 "arrows, and a skinning knife at all times. While they are trained for "
@@ -1873,20 +2245,24 @@ msgid ""
 "trained for armed combat. While their skills may be somewhat lacking, the "
 "hunters of Theria have learned to overcome all fear."
 msgstr ""
+"Die Jäger Therias sind nur mit Pfeil, Bogen und einem Jagdmesser bewaffnet, "
+"Eigentlich töten sie eher wilde Tiere als Kriegsgegner. Sie lernen aber, "
+"sich allen ihren Ängsten zu stellen,"
 
 #. [attack]: type=blade
-#: units/therians/d2_Tracker.cfg:25 units/therians/d1_Hunter.cfg:25
-#: units/therians/d3_Ranger.cfg:26
+#: Era_of_Myths/units/therians/d2_Tracker.cfg:25
+#: Era_of_Myths/units/therians/d1_Hunter.cfg:25
+#: Era_of_Myths/units/therians/d3_Ranger.cfg:26
 msgid "skinning knife"
-msgstr ""
+msgstr "Jagdmesser"
 
 #. [unit_type]: id=EOM_Therian_Tracker, race=human
-#: units/therians/d2_Tracker.cfg:5
+#: Era_of_Myths/units/therians/d2_Tracker.cfg:5
 msgid "Tracker"
-msgstr ""
+msgstr "Spurenleser"
 
 #. [unit_type]: id=EOM_Therian_Tracker, race=human
-#: units/therians/d2_Tracker.cfg:21
+#: Era_of_Myths/units/therians/d2_Tracker.cfg:21
 msgid ""
 "The hunters of Theria travel with minimal armor, carrying only their bow, "
 "arrows, and a skinning knife at all times. While they are trained for "
@@ -1895,28 +2271,36 @@ msgid ""
 "hunters of Theria have learned to overcome all fear. Trackers are even more "
 "adept at hunting their prey."
 msgstr ""
+"Die Jäger Therias sind nur mit Pfeil, Bogen und einem Jagdmesser bewaffnet,"
+"Eigentlich töten sie eher wilde Tiere als Kriegsgegner. Sie lernen aber, "
+"sich allenihren Ängsten zu stellen. Spurenleser sind noch besser darin, ihre "
+"Beute zurStrecke zu bringen."
 
 #. [unit_type]: id=EOM_Therian_Ranger, race=human
-#: units/therians/d3_Ranger.cfg:5
+#: Era_of_Myths/units/therians/d3_Ranger.cfg:5
 msgid "Ranger"
-msgstr ""
+msgstr "Forstmeister"
 
 #. [unit_type]: id=EOM_Therian_Ranger, race=human
-#: units/therians/d3_Ranger.cfg:22
+#: Era_of_Myths/units/therians/d3_Ranger.cfg:22
 msgid ""
 "Therian Rangers have trained to hunt with only a knife in case of an "
 "emergency. In addition, they have also honed their senses and reflexes to a "
 "point where they cannot be caught off guard."
 msgstr ""
+"Die Forstmeister Therias sind geübt dadrin, im Notfall auch nur mit einem "
+"Messer zu kämpfen, Zudem sind ihre Sinne und Reflexe so geschult, dass sie "
+"sich von nichts überraschen lassen."
 
 #. [unit_type]: id=EOM_Therian_Guard, race=therian
-#: units/therians/e1_Guard.cfg:5
+#: Era_of_Myths/units/therians/e1_Guard.cfg:5
 msgid "Therian Guard"
-msgstr ""
+msgstr "Therianischer Abwehrer"
 
 #. [unit_type]: id=EOM_Therian_Guard, race=therian
 #. [unit_type]: id=EOM_Therian_Defender, race=therian
-#: units/therians/e1_Guard.cfg:23 units/therians/e2_Defender.cfg:24
+#: Era_of_Myths/units/therians/e1_Guard.cfg:23
+#: Era_of_Myths/units/therians/e2_Defender.cfg:24
 msgid ""
 "Therian are peaceful and spiritual by nature, but must protect themselves "
 "nonetheless. With little ore at their disposal, the Therian make due with "
@@ -1925,27 +2309,32 @@ msgid ""
 "not afraid to throw them in battle like a javelin. Each guard carries extra "
 "spears on his back for this purpose."
 msgstr ""
+"Die Therianer sind friedlich und spirituell veranlagt, trotzdem müssen sie "
+"sich verteidigen. Da ihnen nur wenig Erz zur Verfügung steht, aber sehr viel "
+"Holz, tragen Wachen viele Speere und scheuen nicht, sie zu werfen."
 
 #. [attack]: type=pierce
-#: units/therians/e1_Guard.cfg:39 units/therians/e2_Defender.cfg:40
+#: Era_of_Myths/units/therians/e1_Guard.cfg:39
+#: Era_of_Myths/units/therians/e2_Defender.cfg:40
 msgid "spear throw"
-msgstr ""
+msgstr "Wurfspieß"
 
 #. [unit_type]: id=EOM_Therian_Defender, race=therian
-#: units/therians/e2_Defender.cfg:5
+#: Era_of_Myths/units/therians/e2_Defender.cfg:5
 msgid "Therian Defender"
-msgstr ""
+msgstr "Therianischer Verteidiger"
 
 #. [unit_type]: id=EOM_Therian_Monk, race=therian2
-#: units/therians/f1_Monk.cfg:5
+#: Era_of_Myths/units/therians/f1_Monk.cfg:5
 msgid "Monk"
-msgstr ""
+msgstr "Mönch"
 
 #. [unit_type]: id=EOM_Therian_Monk, race=therian2
 #. [unit_type]: id=EOM_Aura_Monk, race=therian2
 #. [unit_type]: id=EOM_Aura_Master, race=therian2
-#: units/therians/f1_Monk.cfg:27 units/therians/f2_Aura_Monk.cfg:25
-#: units/therians/f3_Aura_Master.cfg:25
+#: Era_of_Myths/units/therians/f1_Monk.cfg:27
+#: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:25
+#: Era_of_Myths/units/therians/f3_Aura_Master.cfg:25
 msgid ""
 "The Therian are peaceful and spiritual by nature, but must protect "
 "themselves nonetheless. Therian monks would prefer to avoid bloodshed if "
@@ -1954,141 +2343,166 @@ msgid ""
 "power. Monks can harness their aura in a particularly powerful and effective "
 "fashion capable of use in battle."
 msgstr ""
+"Die Therianer sind froedlich und spirituell eranlagt, trotzdem müssen sie "
+"sich verteidigen. So sehr die Mönche auch Blutvergießen vermeiden würden, "
+"werden sie, wenn nötig, bis zum bitteren Ende kämpfen, um ihr Volk zu "
+"verteidigen. Mönche richten ihren Geist nach innen, was ihnen unglaubliche "
+"Geisteskraft verleiht. Mönche können ihre Aura als besonders mächtige und "
+"effective Waffe einsetzen."
 
 #. [attack]: type=impact
-#: units/therians/f1_Monk.cfg:38 units/therians/f2_Aura_Monk.cfg:36
-#: units/therians/f3_Aura_Master.cfg:36
+#: Era_of_Myths/units/therians/f1_Monk.cfg:38
+#: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:36
+#: Era_of_Myths/units/therians/f3_Aura_Master.cfg:36
 msgid "fists"
-msgstr ""
+msgstr "Fäuste"
 
 #. [attack]: type=arcane
-#: units/therians/f1_Monk.cfg:47 units/therians/f2_Aura_Monk.cfg:45
-#: units/therians/f3_Aura_Master.cfg:45
+#: Era_of_Myths/units/therians/f1_Monk.cfg:47
+#: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:45
+#: Era_of_Myths/units/therians/f3_Aura_Master.cfg:45
 msgid "spiritual aura"
-msgstr ""
+msgstr "Geistliche Aura"
 
 #. [unit_type]: id=EOM_Aura_Monk, race=therian2
-#: units/therians/f2_Aura_Monk.cfg:5
+#: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:5
 msgid "Aura Monk"
-msgstr ""
+msgstr "Auramönch"
 
 #. [unit_type]: id=EOM_Aura_Master, race=therian2
-#: units/therians/f3_Aura_Master.cfg:5
+#: Era_of_Myths/units/therians/f3_Aura_Master.cfg:5
 msgid "Aura Master"
-msgstr ""
+msgstr "Aurameister"
 
 #. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
-#: units/therians/x1_Apprentice.cfg:5
+#: Era_of_Myths/units/therians/x1_Apprentice.cfg:5
 msgid "Apprentice"
-msgstr ""
+msgstr "Zauberlehrling"
 
 #. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
-#: units/therians/x1_Apprentice.cfg:18
+#: Era_of_Myths/units/therians/x1_Apprentice.cfg:18
 msgid ""
 "Therians are a peaceable people who enjoy quite study and contemplation. As "
 "such there are many with magical talent about them. Their more varied "
 "studies allow them to master both fire and ice, but not as well as people "
 "who learn one or the other."
 msgstr ""
+"Die Therianer sind ein friedliches Volk, das stilles Studieren undgenießt. "
+"Deshalb gibt es viele magisch Talentierte unter ihnen. Ihre umfangreicheren "
+"Studien erlauben ihnen, Feuer und Eis zu meistern, doch nicht so gut wie "
+"Spezialisten."
 
 #. [attack]: type=fire
-#: units/therians/x3_Priest.cfg:43 units/therians/x3_Master.cfg:40
-#: units/therians/x1_Apprentice.cfg:39 units/therians/x2_Mage.cfg:39
-#: units/therians/x2_Shaman.cfg:42
+#: Era_of_Myths/units/therians/x3_Priest.cfg:43
+#: Era_of_Myths/units/therians/x3_Master.cfg:40
+#: Era_of_Myths/units/therians/x1_Apprentice.cfg:39
+#: Era_of_Myths/units/therians/x2_Mage.cfg:39
+#: Era_of_Myths/units/therians/x2_Shaman.cfg:42
 msgid "burn"
-msgstr ""
+msgstr "Brand"
 
 #. [attack]: type=cold
-#: units/therians/x3_Priest.cfg:55 units/therians/x3_Master.cfg:52
-#: units/therians/x1_Apprentice.cfg:51 units/therians/x2_Mage.cfg:51
-#: units/therians/x2_Shaman.cfg:54
+#: Era_of_Myths/units/therians/x3_Priest.cfg:55
+#: Era_of_Myths/units/therians/x3_Master.cfg:52
+#: Era_of_Myths/units/therians/x1_Apprentice.cfg:51
+#: Era_of_Myths/units/therians/x2_Mage.cfg:51
+#: Era_of_Myths/units/therians/x2_Shaman.cfg:54
 msgid "freeze"
-msgstr ""
+msgstr "Frost"
 
 #. [unit_type]: id=EOM_Therian_Mage, race=therian2
-#: units/therians/x2_Mage.cfg:5
+#: Era_of_Myths/units/therians/x2_Mage.cfg:5
 msgid "Mage"
-msgstr ""
+msgstr "Magier"
 
 #. [unit_type]: id=EOM_Therian_Mage, race=therian2
-#: units/therians/x2_Mage.cfg:18
+#: Era_of_Myths/units/therians/x2_Mage.cfg:18
 msgid ""
 "Therians who decide to do battle magics tend to have a pretty even match of "
 "mastery between methods."
 msgstr ""
+"Therianer, die sich für Kampfmagie entscheiden, beherrschen meist ihre "
+"Methoden gleichmäßig gut."
 
 #. [unit_type]: id=EOM_Therian_Shaman, race=therian2
-#: units/therians/x2_Shaman.cfg:5
+#: Era_of_Myths/units/therians/x2_Shaman.cfg:5
 msgid "Shaman"
-msgstr ""
+msgstr "Schamane"
 
 #. [unit_type]: id=EOM_Therian_Shaman, race=therian2
-#: units/therians/x2_Shaman.cfg:18
+#: Era_of_Myths/units/therians/x2_Shaman.cfg:18
 msgid ""
 "The more spirital apprentices become shamans and spend much time learning "
 "how to heal. Their training with offensive magics lags behind, and advances "
 "in diffrent ways."
 msgstr ""
+"Die spirituelleren Zauberlehrlinge werden Schamanen und verbringen ihre Zeit "
+"mitHeilung. Sie sind weniger erfahren mit Angriffszaubern und verbessern sie "
+"anders."
 
 #. [unit_type]: id=EOM_Therian_Master, race=therian2
-#: units/therians/x3_Master.cfg:5
+#: Era_of_Myths/units/therians/x3_Master.cfg:5
 msgid "Master"
-msgstr ""
+msgstr "Meister"
 
 #. [unit_type]: id=EOM_Therian_Master, race=therian2
-#: units/therians/x3_Master.cfg:19
+#: Era_of_Myths/units/therians/x3_Master.cfg:19
 msgid "A master magician is a force to be reckoned with."
-msgstr ""
+msgstr "Ein Meister der Magie ist eine ernstzunehmende Macht."
 
 #. [unit_type]: id=EOM_Therian_Priest, race=therian2
-#: units/therians/x3_Priest.cfg:5
+#: Era_of_Myths/units/therians/x3_Priest.cfg:5
 msgid "Priest"
-msgstr ""
+msgstr "Priester"
 
 #. [unit_type]: id=EOM_Therian_Priest, race=therian2
-#: units/therians/x3_Priest.cfg:19
+#: Era_of_Myths/units/therians/x3_Priest.cfg:19
 msgid ""
 "Therian Priests are shamans who have become very skilled in the many skills "
 "they have learned."
 msgstr ""
+"Therianische Priester sind Schamanen, die sehr geschickt mit ihren vielen "
+"Künsten sind."
 
 #. [race]: id=gargoyle
-#: units/vampires.cfg:5
+#: Era_of_Myths/units/vampires.cfg:5
 msgid "race^Gargoyle"
-msgstr ""
+msgstr "Gargoyle"
 
 #. [race]: id=gargoyle
-#: units/vampires.cfg:6
+#: Era_of_Myths/units/vampires.cfg:6
 msgid "race+female^Gargoyle"
-msgstr ""
+msgstr "Gargoyle"
 
 #. [race]: id=gargoyle
-#: units/vampires.cfg:7
+#: Era_of_Myths/units/vampires.cfg:7
 msgid "race^Gargoyles"
-msgstr ""
+msgstr "Gargoyles"
 
 #. [race]: id=gargoyle
-#: units/vampires.cfg:13
+#: Era_of_Myths/units/vampires.cfg:13
 msgid "Vampires can animate stone with blood magics, the result is gargoyles."
 msgstr ""
+"Vampire können Steine durch Blutmagie beleben, was die sogenannten Gargoyles "
+"erschafft."
 
 #. [race]: id=vampire
-#: units/vampires.cfg:20
+#: Era_of_Myths/units/vampires.cfg:20
 msgid "race^Vampire"
-msgstr ""
+msgstr "Vampir"
 
 #. [race]: id=vampire
-#: units/vampires.cfg:21
+#: Era_of_Myths/units/vampires.cfg:21
 msgid "race+female^Vampire"
-msgstr ""
+msgstr "Vampirin"
 
 #. [race]: id=vampire
-#: units/vampires.cfg:22
+#: Era_of_Myths/units/vampires.cfg:22
 msgid "race^Vampires"
-msgstr ""
+msgstr "Vampire"
 
 #. [race]: id=vampire
-#: units/vampires.cfg:33
+#: Era_of_Myths/units/vampires.cfg:33
 msgid ""
 "Vampires means 'tainted blood' in the therian language, and indeed vampires "
 "are not in and of themselves a race, but rather what happens when blood is "
@@ -2104,14 +2518,28 @@ msgid ""
 "vampire lord so that they can get more blood. Vampires are obsessed with "
 "blood, it is their currency, and most of their magics involve it."
 msgstr ""
+"Vampir ist therianisch für \"Blutvergießen\", und tatsächlich sind Vampire "
+"eigentlich keine Rasse im eigentlichen Sinne, sondern das, was durch "
+"Blutvergießen erzeugt wird. Vampire sehen aus wie vor ihrer Verwandlung, "
+"haben aber bleiche Haut, weiße Haare, rote Augen und überlange Eckzähne. "
+"Vampire können Menschen auf eine Weise kontrollieren, die kaum verstanden "
+"wird, weshalb sie ohne Probleme die Herrschaft über die Menschen an sich "
+"reißen und diese dann als Leibeigene behandeln können. Blut ist für Vampire "
+"lebenswichtig und deshalb melken sie ihre Leibeigenen, wie es ihnen passt. "
+"Die Vampire leben in einem Feudalsystem, mit den Menschen als Leibeigene und "
+"den Vampire als die Adligen. Viele von ihnen zeichnen sich nicht besonders "
+"durch Charakter oder Charisma aus und verlassen sich deshalb darauf, dass "
+"der Vampirherr die Menschen zu unterdrücken, während sie versuchen, seine "
+"Gunst zu erlangen, um mehr Blut abzukriegen, Vampire sind vom Blut besessen, "
+"es ist ihre Währung und spielt bei dem größten Teil ihrer Magie eine Rolle."
 
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
-#: units/vampires/a1_Blood_Apprentice.cfg:5
+#: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:5
 msgid "Blood Apprentice"
-msgstr ""
+msgstr "Blutkundiger"
 
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
-#: units/vampires/a1_Blood_Apprentice.cfg:18
+#: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:18
 msgid ""
 "Vampires have always had an obsession with blood and control. As such their "
 "magic has always revolved around blood and souls. These vampires attack "
@@ -2120,65 +2548,80 @@ msgid ""
 "If the vampire is attacking a non-living creature it can use its blood "
 "boiling magic as a field of fiery aura to damage it."
 msgstr ""
+"Vampire gierten immer schon nach Blut und Kontrolle. Deshalb geht es in "
+"ihrer Magie immer um Blut und Seelen. Diese Vampire greifen an, indem sie "
+"das Blut ihrer Gegner entzünden oder ihre Auren stören, um ihre Seelen "
+"anzugreifen,Wenn sie einen nicht lebendigen Gegner angreifen, können sie "
+"ihre Blutbrand-Magie auch auf ihre Aura anwenden."
 
 #. [attack]: type=fire
-#: units/vampires/a1_Blood_Apprentice.cfg:37 units/vampires/a3_Sangel.cfg:38
-#: units/vampires/a2_Flesh_Artisan.cfg:61
-#: units/vampires/a2_Blood_Manipulator.cfg:37
+#: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:37
+#: Era_of_Myths/units/vampires/a3_Sangel.cfg:38
+#: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:61
+#: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:37
 msgid "blood boil"
-msgstr ""
+msgstr "Blutbrand"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
-#: units/vampires/a2_Blood_Manipulator.cfg:5
+#: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:5
 msgid "Blood Manipulator"
-msgstr ""
+msgstr "Blutmanipulator"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
-#: units/vampires/a2_Blood_Manipulator.cfg:18
+#: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:18
 msgid ""
 "It is horrifying what an skilled manipulator of blood can do to you.. He can "
 "cause your every vein to burn. He can strip you of food, or cause you to "
 "vomit, or burn through your brain. Horrifying as as that is what he can do "
 "to your spirit is worse."
 msgstr ""
+"Es ist erschreckend, was ein geübter Blutmanipulator einem antun kann. "
+"Erkann jede deiner Adern verbrennen. Er kann dich jeder Nahrung berauben,"
+"dich zum Erbrechen bringen,oder dein Gehirn durchschmorren, So "
+"erschreckenddas ist, so ist das, was er deiner Seele antun kann, schlimmer."
 
 #. [unit_type]: id=EOM_Flesh_Artisan, race=vampire
-#: units/vampires/a2_Flesh_Artisan.cfg:5
+#: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:5
 msgid "Flesh Artisan"
-msgstr ""
+msgstr "Meister des Fleisches"
 
 #. [unit_type]: id=EOM_Flesh_Artisan, race=vampire
-#: units/vampires/a2_Flesh_Artisan.cfg:20
+#: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:20
 msgid ""
 "Some vampires who take up blood magic prefer to work on themeseleves rather "
 "than their enemies. They turn themselves into monsters, and can fight well "
 "both in melee and at a distance."
 msgstr ""
+"Manche Vampire, die Blutmagie erlernen, wenden diese lieber auf sich selbst "
+"an als auf ihre Feinde. Sie verwandeln sich in Ungeheuer, die gut im Nah- "
+"wie im Fernkampf sind."
 
 #. [unit_type]: id=EOM_Sangel, race=vampire
-#: units/vampires/a3_Sangel.cfg:5
+#: Era_of_Myths/units/vampires/a3_Sangel.cfg:5
 msgid "Sangel"
-msgstr ""
+msgstr "Haemurg"
 
 #. [unit_type]: id=EOM_Sangel, race=vampire
-#: units/vampires/a3_Sangel.cfg:19
+#: Era_of_Myths/units/vampires/a3_Sangel.cfg:19
 msgid ""
 "Any vampier who has earned the title Sangel can do things with your blood "
 "and soul too horrible to contemplate."
 msgstr ""
+"Jeder Vampir, dem den Titel Hexenmeister verliehen wurde, kann Blut und "
+"Seeleunaussprechlich schreckliche Dinge antun."
 
 #. [attack]: type=arcane
-#: units/vampires/a3_Sangel.cfg:50
+#: Era_of_Myths/units/vampires/a3_Sangel.cfg:50
 msgid "wipe"
-msgstr ""
+msgstr "Peitsche"
 
 #. [unit_type]: id=EOM_Bloodborn, race=vampire
-#: units/vampires/b0_Bloodborn.cfg:7
+#: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:7
 msgid "Bloodborn"
-msgstr ""
+msgstr "Blutgeborener"
 
 #. [unit_type]: id=EOM_Bloodborn, race=vampire
-#: units/vampires/b0_Bloodborn.cfg:28
+#: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:28
 msgid ""
 "Vampires do not bear many natural children. Most vampires are spawned by a "
 "bite from another vampire. The curses and strengths of vampires are spread "
@@ -2188,19 +2631,27 @@ msgid ""
 "will grow used to it, and learn how to use the strength it provides them, "
 "but until then they are much as oversized children."
 msgstr ""
+"Vampire pflanzen sich kaum auf normalen Wege fort. Die meisten Vampire "
+"entstehen durch den Biss eines anderen Vampires. Die Stärken und Flüche des "
+"Vampirismus werden weitergegeben, wenn der Vampir seinem Opfer das Blut "
+"aussaugt und es durch Magie ersetzt. Junge Vampire sind deshalb schwach und "
+"haben nicht genug Willensstärke,sich den befehlen dessen zu verweigern, der "
+"sie gebissen hat. Irgendwann werden sie sich an den Vampirismus gewöhnt "
+"haben und seine Stärken zunutzen lernen, aber bis dahin sind sie mehr "
+"übergroße Kinder."
 
 #. [female]
-#: units/vampires/b0_Bloodborn.cfg:78
+#: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:78
 msgid "female^Bloodborn"
-msgstr ""
+msgstr "Blutgeborene"
 
 #. [unit_type]: id=EOM_Malborn, race=vampire
-#: units/vampires/b1_Malborn.cfg:5
+#: Era_of_Myths/units/vampires/b1_Malborn.cfg:5
 msgid "Malborn"
-msgstr ""
+msgstr "Fehlgeborener"
 
 #. [unit_type]: id=EOM_Malborn, race=vampire
-#: units/vampires/b1_Malborn.cfg:22
+#: Era_of_Myths/units/vampires/b1_Malborn.cfg:22
 msgid ""
 "Some people are simply to weak to handle the blood, and it leaves them a "
 "mindless mess. This gives the vampire lord complete control over what is "
@@ -2208,19 +2659,25 @@ msgid ""
 "arm these creatures with poisoned daggers. Unlike his other servents, these "
 "ones cannot rebel."
 msgstr ""
+"Manche sind schlicht zu schwach, das Blut zu bewältigen, und nichts als ein "
+"seelenloses Durcheinander verbleibt. Dadurch hat der Vampirherr freie Hand, "
+"mit dem, was von ihnen übrig ist. Dieser Kontrolle wegen sind Vampirherren "
+"oft gewillt, diesen Kreaturen vergiftete Dolche in die Hände zu drücken. "
+"Anders als ihre anderen Diener können diese nicht rebellieren."
 
 #. [female]
-#: units/vampires/b1_Malborn.cfg:75
+#: Era_of_Myths/units/vampires/b1_Malborn.cfg:75
 msgid "female^Malborn"
-msgstr ""
+msgstr "Fehlgeborene"
 
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
-#: units/vampires/c1_Fledgeling.cfg:5
+#: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:5
 msgid "Fledgeling"
-msgstr ""
+msgstr "Jungspund"
 
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
-#: units/vampires/c1_Fledgeling.cfg:22
+#: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:22
+#, fuzzy
 msgid ""
 "Most vampires are weak ones in service of the lords and more powerful ones, "
 "hoping and waiting that they will rise into a position of power for "
@@ -2228,19 +2685,23 @@ msgid ""
 "no more humans or bloodborn, these vampires are the next most expendable "
 "thing a vampire lord has."
 msgstr ""
+"Die meisten Vampire sind schwache Diener der mächtigen, die hoffen, selbst "
+"ineine Machtposition aufzusteigen. Bis dahin dienen sie ihrem Herren gegen "
+"BlutNach Menschen und Blutgeborenen sind sie das Entbehrlichste, was einem "
+"Vampirfrsten zur Verfgung steht"
 
 #. [female]
-#: units/vampires/c1_Fledgeling.cfg:86
+#: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:86
 msgid "female^Fledgeling"
-msgstr ""
+msgstr "Jungspund"
 
 #. [unit_type]: id=EOM_Duelist, race=vampire
-#: units/vampires/c2_Duelist.cfg:5
+#: Era_of_Myths/units/vampires/c2_Duelist.cfg:5
 msgid "Duelist"
-msgstr ""
+msgstr "Duellant"
 
 #. [unit_type]: id=EOM_Duelist, race=vampire
-#: units/vampires/c2_Duelist.cfg:20
+#: Era_of_Myths/units/vampires/c2_Duelist.cfg:20
 msgid ""
 "Vampires have always had a somewhat upper-class manner. This transfers over "
 "to their style of fighting too. The vampires without the family or "
@@ -2250,14 +2711,20 @@ msgid ""
 "armor, but focus on rapid pinpoint fencing which they carry out with inhuman "
 "accuracy."
 msgstr ""
+"Die Vampire haben sich schon immer als eine Art Oberschicht gesehen. Das "
+"übertragen sie auch auf ihren Kampfstil. Vampire, denen Abstammung "
+"oderAutorität zur Herrschaft fehlen, machen sich einem Herren als Wachen "
+"undAttentäter dienstbar, sodass ihre Blutversorgung gesichert ist, und "
+"werden Duellanten genannt. Sie tragen keine Rüstungen, sondern konzentrieren "
+"sichauf rasantes und unheimlich genaues Fechten."
 
 #. [unit_type]: id=EOM_Noble, race=vampire
-#: units/vampires/c2_Noble.cfg:5
+#: Era_of_Myths/units/vampires/c2_Noble.cfg:5
 msgid "Noble"
-msgstr ""
+msgstr "Adliger"
 
 #. [unit_type]: id=EOM_Noble, race=vampire
-#: units/vampires/c2_Noble.cfg:20
+#: Era_of_Myths/units/vampires/c2_Noble.cfg:20
 msgid ""
 "The vampires with family or leadership make themselves lord over whatever "
 "land they can hold. They use charm, terror, and ruthlessness to uphold their "
@@ -2268,51 +2735,69 @@ msgid ""
 "circumstances, because that tends to lead to rebellion, but rather force the "
 "surfs to provide animals for their weekly blood."
 msgstr ""
+"Die Vampire mit Abstammung oder Autorität ernennen sich selbst zum Herren "
+"über jedes verfügbare Land. Sie benutzen Freundlichkeit, Gewalt und "
+"Ruchlosigkeit,um ihre Macht aufrecht zu erhalten. Sie umgeben sich mit "
+"getreuen Vampiren,die sie durch das Versprechen unbegrenzten Blutes bei "
+"Laune halten, und unterwerfen alle niederen Kreaturen und machen sie zu den "
+"Leibeigenen ihrer Gesellschaft,damit sie im Notfall Blut oder Kanonenfutter "
+"bereit stellen können. Die Adlige nernähren sich nicht direkt von den "
+"Leibeigenen, weil das häufig zur Rebellionführt, sondern zwingen sie, Vieh "
+"für das wöchentliche Blutmahl bereitzustellen"
 
 #. [unit_type]: id=EOM_Sire, race=vampire
-#: units/vampires/c3_Sire.cfg:5
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:5
 msgid "Sire"
-msgstr ""
+msgstr "Fürst"
 
 #. [unit_type]: id=EOM_Sire, race=vampire
-#: units/vampires/c3_Sire.cfg:20
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:20
 msgid ""
 "Some vampires grow strong enough to subject other vampire lords to "
 "themselves. In exchange for protection (from whom is not always mentioned), "
 "the other lords provide a tithe of their tax to the Sire."
 msgstr ""
+"Manche Vampire werden mächtig genug, andere Vampirherren zu unterwerfen.In "
+"Gegenzug für Schutz (wovon nicht immer die Rede ist) zahlen die "
+"anderenHerren einen Zehnt an den Fürsten."
 
 #. [attack]: type=arcane
-#: units/vampires/c4_Methusalem.cfg:53 units/vampires/c3_Sire.cfg:53
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:53
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:53
 msgid "dementia gaze"
-msgstr ""
+msgstr "Böser Blick"
 
 #. [female]
-#: units/vampires/c3_Sire.cfg:87
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:87
 msgid "female^Mistress"
-msgstr ""
+msgstr "Regentin"
 
 #. [unit_type]: id=EOM_Sword_Dancer, race=vampire
-#: units/vampires/c3_Sword_Dancer.cfg:5
+#: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:5
 msgid "Sword Dancer"
-msgstr ""
+msgstr "Schwerttänzer"
 
 #. [unit_type]: id=EOM_Sword_Dancer, race=vampire
-#: units/vampires/c3_Sword_Dancer.cfg:22
+#: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:22
 msgid ""
 "Vampires live a long time, and have time to develop many social graces, "
 "including dance. Duelists who have spent extended amounts of time fighting, "
 "and dancing see similarities between the two, and combine them into a "
 "devastating and accurate form of fighting that cuts through defenses."
 msgstr ""
+"Vampire leben lange und haben die Zeit, viele gesellschaftliche Vergnügungen "
+"zu lernen, zum Beispiel den Tanz. Duellanten, die viel Zeit mit Kampf und "
+"Tanz verbracht haben, sehen zwischen ihnen Ähnlichkeiten und vereinigen sie "
+"zu einer verheerenden und präzisen Kampfform, die Verteidigungen zu Fall "
+"bringt."
 
 #. [unit_type]: id=EOM_Methusalem, race=vampire
-#: units/vampires/c4_Methusalem.cfg:5
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:5
 msgid "Methusalem"
-msgstr ""
+msgstr "Methusalem"
 
 #. [unit_type]: id=EOM_Methusalem, race=vampire
-#: units/vampires/c4_Methusalem.cfg:20
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:20
 msgid ""
 "You may only see one such vampire every thousand years, but when you do you "
 "know war is coming. These vampires have grown so old, and so powerful, that "
@@ -2321,19 +2806,26 @@ msgid ""
 "eternity of free blood, they can gather the support of most vampire lords "
 "and lieges. Those who won't join them they destroy ruthlessly."
 msgstr ""
+"Solche Vampire mögen nur einmal in einem Jahrtausend erscheinen, doch wenn "
+"dies der Fall ist, naht Krieg. Diese Vampire sind so alt und mächtig "
+"geworden,das sie glauben, nun sei die Zeit gekommen, da sich das Schicksal "
+"der Vampire erfüllen werde, alle anderen Rassen zu unterwerfen. Mit ihrer "
+"entsetzlichen Macht,Charisma und dem Versprechen unumschränkten Blutes in "
+"Ewigkeit können sie die Unterstützung der meisten Vampirherren gewinnen. Sie "
+"vernichten gnadenlosjeden, der sich ihnen nicht anschließt."
 
 #. [female]
-#: units/vampires/c4_Methusalem.cfg:86
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:86
 msgid "female^Duchess"
-msgstr ""
+msgstr "Empusa"
 
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
-#: units/vampires/d1_Thin_Blood.cfg:5
+#: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:5
 msgid "Thin Blood"
-msgstr ""
+msgstr "Dünnblüter"
 
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
-#: units/vampires/d1_Thin_Blood.cfg:20
+#: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:20
 msgid ""
 "Not all bloodborn grow towards their vampire side. Some lean on the human "
 "side, and can stand the daylight, and use a bow, which most vampires disdain "
@@ -2341,36 +2833,45 @@ msgid ""
 "thirst on them, giving them a reason to continue to serve their lord. These "
 "qualities make them a valuable support for a vampires army."
 msgstr ""
+"Nicht alle Blutgeborenen kommen nach ihrer Vampirseite, Manche tendieren "
+"eher zur  menschlichen Seite und können Tageslicht ertragen.Sie benutzen "
+"Bögen, die die meisten Vampire als Bauernwaffe verachten. Allerdings leiden "
+"sie immer noch am Vampirfluch des Blutdurstes, deshalb dienen sie weiterhin "
+"ihrem Herren. Diese Qualitäten machen sie zu einer wertvollen Unterstützung "
+"für eine Vampirarmee."
 
 #. [female]
-#: units/vampires/d1_Thin_Blood.cfg:102
+#: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:102
 msgid "female^Thin Blood"
-msgstr ""
+msgstr "Dünnblüterin"
 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
-#: units/vampires/d2_Half_Blood.cfg:5
+#: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:5
 msgid "Half Blood"
-msgstr ""
+msgstr "Halbblüter"
 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
-#: units/vampires/d2_Half_Blood.cfg:19
+#: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:19
 msgid ""
 "Thin Blood vampires blood grows stronger as they kill. When they are "
 "balanced roughly evenly between both bloods, they are known as half bloods."
 msgstr ""
+"Das Blut der Dünnblüter wird stärker, wenn sie töten. Wenn sie ungefähr ein "
+"Gleichgewicht der Geblüte erreicht haben, werden sie als Halbblüter "
+"bezeichnet."
 
 #. [female]
-#: units/vampires/d2_Half_Blood.cfg:99
+#: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:99
 msgid "female^Half Blood"
-msgstr ""
+msgstr "Halbblüterin"
 
 #. [unit_type]: id=EOM_Day_Hunter, race=vampire
-#: units/vampires/d3_Day_Hunter.cfg:5
+#: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:5
 msgid "Day Hunter"
-msgstr ""
+msgstr "Tagesjäger"
 
 #. [unit_type]: id=EOM_Day_Hunter, race=vampire
-#: units/vampires/d3_Day_Hunter.cfg:20
+#: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:20
 msgid ""
 "After heading to the halfway point, a halfblood can choose to go back. They "
 "still have the strength given them by their vampire blood, but they have "
@@ -2378,19 +2879,24 @@ msgid ""
 "vampire lords, out of loyalty, and habit, and vampire lords rarely regret "
 "having them in their service."
 msgstr ""
+"Nachdem es den halben Weg zurückgelegt haben, kann ein Halbblüter sich zur "
+"Rückkehr entscheiden. Er besitzt immer noch die Stärke, die ihm das "
+"Vampirblut verlieh, aber er hat das Licht gewählt und dürstet nicht länger "
+"nach Blut. Viele dienen weiterhin ihrem Vampirherren, aus Treue und "
+"Gewohnheit und Vampirherren bereuen selten, sie in ihrem Dienst zu haben."
 
 #. [female]
-#: units/vampires/d3_Day_Hunter.cfg:104
+#: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:104
 msgid "female^Day Hunter"
-msgstr ""
+msgstr "Tagesjäger"
 
 #. [unit_type]: id=EOM_Twilight_Walker, race=vampire
-#: units/vampires/d3_Twilight_Walker.cfg:5
+#: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:5
 msgid "Twilight Walker"
-msgstr ""
+msgstr "Dhampir"
 
 #. [unit_type]: id=EOM_Twilight_Walker, race=vampire
-#: units/vampires/d3_Twilight_Walker.cfg:20
+#: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:20
 msgid ""
 "After reaching the halfway point, a halfblood can choose to go back, but "
 "many prefer not too. Those who don't are known as twilight walkers, and are "
@@ -2399,90 +2905,109 @@ msgid ""
 "For a vampire lord will always have enemies some of which are better slain "
 "with poison in the twilight, than with an army at night."
 msgstr ""
+"Wenn ein Halblüter den halben Weg gegangen., kann er sich zur Rückkehr "
+"entschließen, aber viele lehnen dies ab. Diese werden als Dhampir bezeichnet "
+"und gehören zu den Vertrauten des Herren, weil sie den Tag ausgeschlagen "
+"haben. Als solche habe sie oft mit Gift und  und Mord zu tun. Denn ein "
+"Vampirfürst hat immer Feinde, die besser in der Dämmerung dem Gift erliegen "
+"als Armeen in der Nacht."
 
 #. [attack]: type=blade
-#: units/vampires/d3_Twilight_Walker.cfg:43
+#: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:43
 msgid "poisoned dagger"
-msgstr ""
+msgstr "Vergifteter Dolch"
 
 #. [female]
-#: units/vampires/d3_Twilight_Walker.cfg:135
+#: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:135
 msgid "female^Twilight Walker"
-msgstr ""
+msgstr "Dhampir"
 
 #. [unit_type]: id=EOM_Gargoyle, race=gargoyle
-#: units/vampires/f1_Gargoyle.cfg:5
+#: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:5
 msgid "Gargoyle"
-msgstr ""
+msgstr "Gargoyle"
 
 #. [unit_type]: id=EOM_Gargoyle, race=gargoyle
-#: units/vampires/f1_Gargoyle.cfg:19
+#: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:19
 msgid ""
 "Vampires can animate stone with blood. These stone creatures use the magic "
 "of blood to fly. Vampires use these creatures to guard their castles, and to "
 "provide air support and surveillance to their forces. They cannot see, and "
 "thus fight equally well in all lights."
 msgstr ""
+"Vampire können mit ihrer Blutmagie Steine zum Leben erwecken.Diese "
+"Steinwesen benutzen diese Magie zum fliegen. Vampire benutzen sie alsWächter "
+"ihrer Burgeb und als Luftunterstützung für ihre Streitkräfte.Da sie nicht "
+"sehen können, ist ihre Kampfkraft lichtunabhängig."
 
 #. [attack]: type=impact
-#: units/vampires/f2_Marlgoyle.cfg:57 units/vampires/f1_Gargoyle.cfg:57
+#: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:57
+#: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:57
 msgid "slam"
 msgstr ""
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
-#: units/vampires/f2_Marlgoyle.cfg:5
+#: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:5
 msgid "Marlgoyle"
 msgstr ""
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
-#: units/vampires/f2_Marlgoyle.cfg:20
+#: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:20
 msgid ""
 "The blood magic of the gargoyle is strengthened when it kills enough. As it "
 "keeps killing it will get stronger, and the stone form will continue to gain "
 "strength."
 msgstr ""
+"Die Blutmagie eines Gargoyles wird stärker, wenn etr oft genug tötet. "
+"Solange er weiter tötet, wird er stärker, und die steinern Gestslt gewinnt "
+"an Kraft."
 
 #. [unit_type]: id=EOM_Blood_Hulk, race=vampire
-#: units/vampires/g2_Blood_Hulk.cfg:5
+#: Era_of_Myths/units/vampires/g2_Blood_Hulk.cfg:5
 msgid "Blood Hulk"
-msgstr ""
+msgstr "Blutungetüm"
 
 #. [unit_type]: id=EOM_Blood_Hulk, race=vampire
-#: units/vampires/g2_Blood_Hulk.cfg:27
+#: Era_of_Myths/units/vampires/g2_Blood_Hulk.cfg:27
 msgid ""
 "These monstrous vampires gorge themselves on the blood of their victims "
 "instead of turning them. Their appetite for blood is never sated, and with "
 "each victim they grow in strength and size. Only talented blood mages can "
 "create such monstrosities."
 msgstr ""
+"Diese monströsen Vampire baden sich im Blut ihrer Gegner, statt sie auf ihre "
+"Seite zu ziehen. Ihr Blutdurst ist unstillbar, und jedes Opfer macht sie "
+"größer und stärker. Nur talentierte Blutmagier können solche Monstositäten "
+"erschaffen."
 
 #. [race]: id=dryad
-#: units/warg.cfg:5
+#: Era_of_Myths/units/warg.cfg:5
 msgid "race^Dryad"
 msgstr ""
 
 #. [race]: id=dryad
-#: units/warg.cfg:6
+#: Era_of_Myths/units/warg.cfg:6
+#, fuzzy
 msgid " race^Dryads"
-msgstr ""
+msgstr "Warg"
 
 #. [race]: id=warg
-#: units/warg.cfg:20
+#: Era_of_Myths/units/warg.cfg:20
 msgid "race^Warg"
-msgstr ""
+msgstr "Warg"
 
 #. [race]: id=warg
-#: units/warg.cfg:21
+#: Era_of_Myths/units/warg.cfg:21
 msgid "race+female^Warg"
-msgstr ""
+msgstr "Warg"
 
 #. [race]: id=warg
-#: units/warg.cfg:22
+#: Era_of_Myths/units/warg.cfg:22
 msgid "race^Wargs"
-msgstr ""
+msgstr "Warg"
 
 #. [race]: id=warg
-#: units/warg.cfg:26
+#: Era_of_Myths/units/warg.cfg:26
 msgid ""
 "Warg are also known as wolfmen. They live in the wilds and woods in almost "
 "any climate, some favor the lush jungle, others the arctic woods, others "
@@ -2492,14 +3017,20 @@ msgid ""
 "blood-lust, that can be inspired by various things, especially if vampires "
 "are involved."
 msgstr ""
+"Warg sind auch als Wolfsmenschen bekannt. Sie  leben in fast jeder "
+"Klimazone, manche im schwülen Dschungel, manche in der Taiga, manche in "
+"Bergwäldern. Die Warg leben meist in rudeln oder Sippen, und können es nicht "
+"leiden, wenn fremde in ihre Reviere eindringen. Auch wenn sie Jäger sind, "
+"sind sie meistens friedlich, trotzdem gibt es eine tiefe Blutlust, die durch "
+"vieles gewegt wird, insbesondere, wenn es um Vampire geht."
 
 #. [unit_type]: id=EOM_Shapeshifter, race=human
-#: units/wargs/a1_Shapeshifter.cfg:5
+#: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:5
 msgid "Shapeshifter"
-msgstr ""
+msgstr "Gestaltwandler"
 
 #. [unit_type]: id=EOM_Shapeshifter, race=human
-#: units/wargs/a1_Shapeshifter.cfg:18
+#: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:18
 msgid ""
 "The Therian and Warg are good neighbors; a mutual respect binds the two "
 "cultures together. Some Therian find the Warg society so appealing that they "
@@ -2507,295 +3038,354 @@ msgid ""
 "more closely those with whom they live. The Warg refer to them simply as "
 "'Shapeshifters.'"
 msgstr ""
+"Die Therianer und die Warg sind gute Nachbarn; beide Kulturen sind durch "
+"gegenseitigen Respekt miteinander verbunden. Manche Therianer fühlen sich so "
+"sehr zur Gesellschaft der Wolfsmenschen zugezogen, dass sie diese als ihre "
+"eigene annehmen. Sie benutzen ihre Wandlungskräfte, um ihren Mitbewohnern "
+"mehr zu ähneln. Die Wölfe nennen sie einfach Gestaltwandler."
 
 #. [unit_type]: id=EOM_Changeling, race=human
-#: units/wargs/a2_Changeling.cfg:5
+#: Era_of_Myths/units/wargs/a2_Changeling.cfg:5
 msgid "Changeling"
-msgstr ""
+msgstr "Verwandelter"
 
 #. [unit_type]: id=EOM_Changeling, race=human
-#: units/wargs/a2_Changeling.cfg:18
+#: Era_of_Myths/units/wargs/a2_Changeling.cfg:18
 msgid ""
 "Shapeshifters who have spent extended periods of time enveloped within the "
 "Warg culture grow to even more strongly resemble their companions."
 msgstr ""
+"Gestaltwandler, die über längere Zeiträume mit den Warg leben, nähern sich "
+"ihren Kammeraden noch näher an."
 
 #. [unit_type]: id=EOM_Wolfling, race=human
-#: units/wargs/a3_Wolfling.cfg:7
+#: Era_of_Myths/units/wargs/a3_Wolfling.cfg:7
+#, fuzzy
 msgid "Wolfling"
-msgstr ""
+msgstr "Wolfling"
 
 #. [unit_type]: id=EOM_Wolfling, race=human
-#: units/wargs/a3_Wolfling.cfg:21
+#: Era_of_Myths/units/wargs/a3_Wolfling.cfg:21
 msgid ""
 "Once a Shapeshifter has become fully integrated into Warg society they are "
 "known as Wolflings. They are no longer seen as a human presence within their "
 "society, but as essential companions."
 msgstr ""
+"Sobald ein Gestaltwandler ein vollwertiges Mitglied der Gesellschaft der "
+"Warg geworden sind, werden sie als Wolflinge bezeichnet. Sie werden nicht "
+"länger als ein Mensch unter ihnen gesehen, sondern als normaler Kammerad."
 
 #. [unit_type]: id=EOM_Stalker, race=warg
-#: units/wargs/b1_Stalker.cfg:5
+#: Era_of_Myths/units/wargs/b1_Stalker.cfg:5
 msgid "Stalker"
-msgstr ""
+msgstr "Verfolger"
 
 #. [unit_type]: id=EOM_Stalker, race=warg
-#: units/wargs/b1_Stalker.cfg:18
+#: Era_of_Myths/units/wargs/b1_Stalker.cfg:18
 msgid ""
 "Stalkers are the smaller of the Warg bretheren and are known for their "
 "darker fur. Because of their smaller size these Warg wield a spear in combat "
 "instead of their claws. Stalkers use their heightened agility to great use "
 "in combat to surround their foes."
 msgstr ""
+"Die Verfolger sind kleinere Warg, bekannt wegen ihres dunkleren Fells. Wegen "
+"ihrer geringeren Größe benutzen sie Speere statt ihrer Krallen.  Die "
+"Verfolger nutzen ihre größere Flinkhheit, um im Kampf ihre Gegner "
+"auszutricksen"
 
 #. [attack]: type=impact
-#: units/wargs/b1_Stalker.cfg:37 units/wargs/b2_Shadow_Pelt.cfg:37
-#: units/wargs/c2_Rabid_Wolf.cfg:43 units/wargs/b3_Night_Eye.cfg:39
+#: Era_of_Myths/units/wargs/b1_Stalker.cfg:37
+#: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:37
+#: Era_of_Myths/units/wargs/c2_Rabid_Wolf.cfg:43
+#: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:39
 msgid "tackle"
-msgstr ""
+msgstr "niederringen"
 
 #. [unit_type]: id=EOM_Shadow_Pelt, race=warg
-#: units/wargs/b2_Shadow_Pelt.cfg:5
+#: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:5
 msgid "Shadow Pelt"
-msgstr ""
+msgstr "Schattenpelz"
 
 #. [unit_type]: id=EOM_Shadow_Pelt, race=warg
-#: units/wargs/b2_Shadow_Pelt.cfg:18
+#: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:18
 msgid ""
 "Many stalkers who have grown more experianced, will smear certain kinds of "
 "dirt and dust on their fur to make themselves harder to see. This has lead "
 "to the term shadow pelt, as it gives the impression of a permanent shadow "
 "resting on them."
 msgstr ""
+"Viele erfahrene Verfolger schmiere bestimmte Erdsorten in ihr Fell, um "
+"weniger aufzufallen. Da dies den Eindruck erweckt, als liege stets ein "
+"Schatten über ihnen, wurde der Begriff \"Schattenpelz\" geprägt."
 
 #. [unit_type]: id=EOM_Night_Eye, race=warg
-#: units/wargs/b3_Night_Eye.cfg:5
+#: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:5
 msgid "Night Eye"
-msgstr ""
+msgstr "Auge in der Nacht"
 
 #. [unit_type]: id=EOM_Night_Eye, race=warg
-#: units/wargs/b3_Night_Eye.cfg:19
+#: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:19
 msgid ""
 "After a time as a shadow pelt something about the dirt bleeds into the fur. "
 "This gives a very dark shade of black that hides very well in the darkest of "
 "nights."
 msgstr ""
+"Nach einiger Zeit färbt die Bemalung eines Schattenpelzes auf das Fell ab. "
+"Dadurch nimmt es einen sehr dunklen Ton an, der sie sehr gut in tiefster "
+"Nacht tarnt."
 
 #. [unit_type]: id=EOM_Warrior_Wolf, race=warg
-#: units/wargs/c1_Warrior_Wolf.cfg:5
+#: Era_of_Myths/units/wargs/c1_Warrior_Wolf.cfg:5
 msgid "Warrior Wolf"
-msgstr ""
+msgstr "Wolfskrieger"
 
 #. [unit_type]: id=EOM_Warrior_Wolf, race=warg
-#: units/wargs/c1_Warrior_Wolf.cfg:18
+#: Era_of_Myths/units/wargs/c1_Warrior_Wolf.cfg:18
 msgid ""
 "The low ranking warriors of the clan are know as wolves, only after proving "
 "themselves are they allowed to call themselves warg."
 msgstr ""
+"Die rangniederen Krieger des Rudels werden als Wölfe bezeichnet, erst, "
+"nachdem sie sich bewehrt haben, dürfen sie sich Warg nennen."
 
 #. [unit_type]: id=EOM_Rabid_Wolf, race=warg
-#: units/wargs/c2_Rabid_Wolf.cfg:5
+#: Era_of_Myths/units/wargs/c2_Rabid_Wolf.cfg:5
 msgid "Rabid Wolf"
-msgstr ""
+msgstr "Wütender Wolf"
 
 #. [unit_type]: id=EOM_Rabid_Wolf, race=warg
-#: units/wargs/c2_Rabid_Wolf.cfg:19
+#: Era_of_Myths/units/wargs/c2_Rabid_Wolf.cfg:19
 msgid ""
 "Some warrior wolves prefer to become more like wolves rather than choose to "
 "take the name of warg. They never learn how to use weapons, but instead "
 "adapt a style using their whole body, and move on all fours."
 msgstr ""
+"Manche Wolfskrieger bevorzugen es. mehr wie Wölfe zu werden, als die "
+"Wargschaft anzunehmen. Sie lernen nie, Waffen zu benutzen, stattdessen "
+"erlernen sie, mit dem ganzen Körper und auf allen Vieren zu kämpfen."
 
 #. [unit_type]: id=EOM_Warrior_Warg, race=warg
-#: units/wargs/c2_Warrior_Warg.cfg:5
+#: Era_of_Myths/units/wargs/c2_Warrior_Warg.cfg:5
 msgid "Warrior Warg"
-msgstr ""
+msgstr "Wargkrieger"
 
 #. [unit_type]: id=EOM_Warrior_Warg, race=warg
-#: units/wargs/c2_Warrior_Warg.cfg:18
+#: Era_of_Myths/units/wargs/c2_Warrior_Warg.cfg:18
 msgid ""
 "The Warg who have proven themselves worthy of the name are a force to be "
 "reckoned with when defending their homeland."
 msgstr ""
+"Die Wargs, die sich des Namens würdig erwiesen haben, sind ein wahrlich "
+"nicht zu unterschätzender Schutz für ihr Revier."
 
 #. [unit_type]: id=EOM_Fenrir, race=warg
-#: units/wargs/c3_Fenrir.cfg:7
+#: Era_of_Myths/units/wargs/c3_Fenrir.cfg:7
 msgid "Fenrir"
-msgstr ""
+msgstr "Fenrir"
 
 #. [unit_type]: id=EOM_Fenrir, race=warg
-#: units/wargs/c3_Fenrir.cfg:21
+#: Era_of_Myths/units/wargs/c3_Fenrir.cfg:21
 msgid ""
 "Warg can fight quite well without weapons, as such many of their warriors "
 "never become skilled with them. However the ones who do, are given the title "
 "Fenrir, and are warriors to be feared."
 msgstr ""
+"Warg kommen sehr gut ohne Waffen zurecht, sodass viele sie nie meistern. "
+"Doch jenen, die dies tun, wird der Titel des Fenrir verliehen. und sind "
+"furchterregende Krieger."
 
 #. [attack]: type=blade
-#: units/wargs/c3_Fenrir.cfg:27
+#: Era_of_Myths/units/wargs/c3_Fenrir.cfg:27
 msgid "war axe"
-msgstr ""
+msgstr "Streitaxt"
 
 #. [attack]: type=impact
-#: units/wargs/c3_Fenrir.cfg:36
+#: Era_of_Myths/units/wargs/c3_Fenrir.cfg:36
 msgid "war hammer"
-msgstr ""
+msgstr "Streithammer"
 
 #. [unit_type]: id=EOM_Moon_Blade, race=warg
-#: units/wargs/c3_Moon_Blade.cfg:5
+#: Era_of_Myths/units/wargs/c3_Moon_Blade.cfg:5
 msgid "Moon Blade"
-msgstr ""
+msgstr "Mondklinge"
 
 #. [unit_type]: id=EOM_Moon_Blade, race=warg
-#: units/wargs/c3_Moon_Blade.cfg:19
+#: Era_of_Myths/units/wargs/c3_Moon_Blade.cfg:19
 msgid ""
 "The warg revere the moon, and sometimes the moon blesses devout warriors "
 "with strange powers. These warg are marked with white fur, and wield swords "
 "like slivers of the moon."
 msgstr ""
+"Die Warg erehren den Mond, und manchmal segnet der Mond eifrige Krieger mit "
+"seltsamer Macht, Diese Warg sind durch weißes Fell gezeichnet, und ihre "
+"Schwerter sind wie Mondschein."
 
 #. [attack]: type=arcane
-#: units/wargs/c3_Moon_Blade.cfg:25
+#: Era_of_Myths/units/wargs/c3_Moon_Blade.cfg:25
 msgid "Moon Sword"
-msgstr ""
+msgstr "Mondschwert"
 
 #. [unit_type]: id=EOM_Pack_Leader, race=warg
-#: units/wargs/c3_Pack_Leader.cfg:5
+#: Era_of_Myths/units/wargs/c3_Pack_Leader.cfg:5
 msgid "Pack Leader"
-msgstr ""
+msgstr "Rudelführer"
 
 #. [unit_type]: id=EOM_Pack_Leader, race=warg
-#: units/wargs/c3_Pack_Leader.cfg:18
+#: Era_of_Myths/units/wargs/c3_Pack_Leader.cfg:18
 msgid ""
 "The individual packs, and clans each have a leader chosen from their "
 "warriors, for his wisdom and prowess."
 msgstr ""
+"Die einzelnen Rudel und Sippen haben jeweils einen von den Kriegern für "
+"seine Weisheit und Tüchtigkeit ausgekorenen Anführer."
 
 #. [unit_type]: id=EOM_Garou, race=warg
-#: units/wargs/c4_Garou.cfg:5
+#: Era_of_Myths/units/wargs/c4_Garou.cfg:5
 msgid "Garou"
-msgstr ""
+msgstr "Alphawolf"
 
 #. [unit_type]: id=EOM_Garou, race=warg
-#: units/wargs/c4_Garou.cfg:19
+#: Era_of_Myths/units/wargs/c4_Garou.cfg:19
 msgid ""
 "Most warg don't live to be very old. However the leaders that live to be "
 "very old are revered by freinds, and feared by foes."
 msgstr ""
+"Die meisten Warg werden nicht sehr alt. Doch alte Führer werden von Freunden "
+"geehrt, von Feinden gefürchtet."
 
 #. [unit_type]: id=EOM_Wolf_Cub, race=warg
-#: units/wargs/d0_Wolf_Cub.cfg:5
+#: Era_of_Myths/units/wargs/d0_Wolf_Cub.cfg:5
 msgid "Wolf Cub"
-msgstr ""
+msgstr "Wolfwelpe"
 
 #. [unit_type]: id=EOM_Wolf_Cub, race=warg
-#: units/wargs/d0_Wolf_Cub.cfg:19
+#: Era_of_Myths/units/wargs/d0_Wolf_Cub.cfg:19
 msgid ""
 "The warg can catch and train real wolves to aid them in war. They do it by "
 "capturing wolf cubs, and starting the training while they are very young. "
 "Wolves make good scouts as they can move even faster than the warg can."
 msgstr ""
+"Die Warg können echte Wölfe fangen und für den Krieg abrichten. Dazu fangen "
+"sie Welpen und richten sie ab, während sie Jung sind. Wölfe sind gute "
+"Späher, da sie schneller laufen können als Warg."
 
 #. [unit_type]: id=EOM_Wolf, race=warg
-#: units/wargs/d1_Wolf.cfg:5
+#: Era_of_Myths/units/wargs/d1_Wolf.cfg:5
 msgid "Wolf"
-msgstr ""
+msgstr "Wolf"
 
 #. [unit_type]: id=EOM_Wolf, race=warg
-#: units/wargs/d1_Wolf.cfg:19
+#: Era_of_Myths/units/wargs/d1_Wolf.cfg:19
 msgid "Full grown wolves are rather swift, and accurate with their jaws."
-msgstr ""
+msgstr "Ausgewachsene Wölfe sind ziemlich schnell und beißen gezielt zu."
 
 #. [unit_type]: id=EOM_Dire_Wolf, race=warg
-#: units/wargs/d2_Dire_Wolf.cfg:5
+#: Era_of_Myths/units/wargs/d2_Dire_Wolf.cfg:5
 msgid "Dire Wolf"
-msgstr ""
+msgstr "Schreckenswolf"
 
 #. [unit_type]: id=EOM_Dire_Wolf, race=warg
-#: units/wargs/d2_Dire_Wolf.cfg:19
+#: Era_of_Myths/units/wargs/d2_Dire_Wolf.cfg:19
 msgid ""
 "Something about the warg bleeds into the wolves they tame, causing them to "
 "grow larger, and stronger. These wolves, known as dire wolves provide swift "
 "sure firepower to the wargs arsenal."
 msgstr ""
+"Irgendwie färben die Wargs auf die von ihnen gezähmten Wölfe ab, die "
+"dadurchgrößer und stärker werden. Diese Wölfe sind als Schreckenswölfe "
+"bekanntund liefern den Wargs sichere  Angriffe."
 
 #. [unit_type]: id=EOM_Fire_Sprite, race=dryad
-#: units/wargs/e1_Fire_Sprite.cfg:5
+#: Era_of_Myths/units/wargs/e1_Fire_Sprite.cfg:5
 msgid "Fire Sprite"
-msgstr ""
+msgstr "Feuerfee"
 
 #. [unit_type]: id=EOM_Flame_Spirit, race=dryad
 #. [unit_type]: id=EOM_Fire_Sprite, race=dryad
 #. [unit_type]: id=EOM_Flame_Sprite, race=dryad
-#: units/wargs/e3_Flame_Spirit.cfg:19 units/wargs/e1_Fire_Sprite.cfg:18
-#: units/wargs/e2_Flame_Sprite.cfg:18
+#: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:19
+#: Era_of_Myths/units/wargs/e1_Fire_Sprite.cfg:18
+#: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:18
 msgid ""
 "Fire Sprites are tiny faerie creatures who get their name from being able to "
 "somewhat control the element of fire. Living in the forest, these creatures "
 "use their powers primarily to prevent their homes from burning down. Sharing "
 "a respect for the woods, they have become great allies with the Warg."
 msgstr ""
+"Feuerfeen sind kleine Feen, die ihren namen daher haben, das Feuer zu "
+"kontrollieren. Sie leben im Wald und benutzen ihre Macht vor allem, um ihre "
+"Heimat vor Waldbränden zu bewahren. Mit den Warg teilen sie den Respekt für "
+"den Wald und sind wichtige Verbündete."
 
 #. [attack]: type=impact
-#: units/wargs/e3_Flame_Spirit.cfg:26 units/wargs/e1_Fire_Sprite.cfg:25
-#: units/wargs/e2_Flame_Sprite.cfg:25
+#: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:26
+#: Era_of_Myths/units/wargs/e1_Fire_Sprite.cfg:25
+#: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:25
 msgid "sprite punch"
-msgstr ""
+msgstr "Feenstoß"
 
 #. [attack]: type=fire
-#: units/wargs/e1_Fire_Sprite.cfg:34 units/wargs/e2_Flame_Sprite.cfg:34
+#: Era_of_Myths/units/wargs/e1_Fire_Sprite.cfg:34
+#: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:34
 msgid "sapphire flame"
-msgstr ""
+msgstr "Saphirfeuer"
 
 #. [unit_type]: id=EOM_Flame_Sprite, race=dryad
-#: units/wargs/e2_Flame_Sprite.cfg:5
+#: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:5
 msgid "Flame Sprite"
-msgstr ""
+msgstr "Flammenfee"
 
 #. [unit_type]: id=EOM_Flame_Spirit, race=dryad
-#: units/wargs/e3_Flame_Spirit.cfg:5
+#: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:5
 msgid "Flame Spirit"
-msgstr ""
+msgstr "Brandfee"
 
 #. [attack]: type=fire
-#: units/wargs/e3_Flame_Spirit.cfg:35
+#: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:35
 msgid "spirit fire"
-msgstr ""
+msgstr "Geisterfeuer"
 
 #. [unit_type]: id=EOM_Blackfur, race=warg
-#: units/wargs/f1_Blackfur.cfg:5
+#: Era_of_Myths/units/wargs/f1_Blackfur.cfg:5
 msgid "Blackfur"
-msgstr ""
+msgstr "Schwarzfell"
 
 #. [unit_type]: id=EOM_Blackfur, race=warg
-#: units/wargs/f1_Blackfur.cfg:18
+#: Era_of_Myths/units/wargs/f1_Blackfur.cfg:18
 msgid ""
 "There is a rare breed of warg with black fur and a slight build. Although "
 "not as physicaly strong as the normal kind, foes have learned to fear the "
 "sudden death that could await in any dark shadow."
 msgstr ""
+"Es gibt eine seltene Blutlinie der Wargs mit schwarzen Fell und "
+"schmächtigerStatur. Sie sind nicht so stark wie die normalen, doch Feinde "
+"haben denjehen Tod aus dem Schatten zu fürchten gelernt."
 
 #. [unit_type]: id=EOM_Black_Hunter, race=warg
-#: units/wargs/f2_Black_Hunter.cfg:5
+#: Era_of_Myths/units/wargs/f2_Black_Hunter.cfg:5
 msgid "Black Hunter"
-msgstr ""
+msgstr "Schwarzer Jäger"
 
 #. [unit_type]: id=EOM_Black_Hunter, race=warg
-#: units/wargs/f2_Black_Hunter.cfg:19
+#: Era_of_Myths/units/wargs/f2_Black_Hunter.cfg:19
 msgid ""
 "The blackfur hunt at night for the concealment it gives, and are quite adept "
 "at hunting any kind of quarry."
 msgstr ""
+"Die Schwarzfelle jagen nachts in der Tarnung des Pelzes, und sind sehr gut "
+"darin, jede Beute zu erlegen."
 
 #. [unit_type]: id=EOM_Water_Dryad, race=dryad
-#: units/wargs/g1_Water_Dryad.cfg:5
+#: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:5
 msgid "Water Dryad"
-msgstr ""
+msgstr "Wasserfrau"
 
 #. [unit_type]: id=EOM_Water_Nymph, race=dryad
 #. [unit_type]: id=EOM_Water_Shyde, race=dryad
 #. [unit_type]: id=EOM_Water_Dryad, race=dryad
-#: units/wargs/g2_Water_Nymph.cfg:18 units/wargs/g3_Water_Shyde.cfg:19
-#: units/wargs/g1_Water_Dryad.cfg:18
+#: Era_of_Myths/units/wargs/g2_Water_Nymph.cfg:18
+#: Era_of_Myths/units/wargs/g3_Water_Shyde.cfg:19
+#: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:18
 msgid ""
 "In any wetland area you may find a Dryad calling the place her home. Dryads "
 "are not combatitive in nature and instead will control surrounding plant "
@@ -2803,42 +3393,42 @@ msgid ""
 msgstr ""
 
 #. [unit_type]: id=EOM_Water_Nymph, race=dryad
-#: units/wargs/g2_Water_Nymph.cfg:5
+#: Era_of_Myths/units/wargs/g2_Water_Nymph.cfg:5
 msgid "Water Nymph"
-msgstr ""
+msgstr "Wassernymphe"
 
 #. [unit_type]: id=EOM_Water_Shyde, race=dryad
-#: units/wargs/g3_Water_Shyde.cfg:5
+#: Era_of_Myths/units/wargs/g3_Water_Shyde.cfg:5
 msgid "Water Shyde"
-msgstr ""
+msgstr "Wasserfee"
 
 #. [race]: id=abstraction
-#: units/windsong.cfg:9
+#: Era_of_Myths/units/windsong.cfg:9
 msgid "race^Abstraction"
-msgstr ""
+msgstr "Abstraktum"
 
 #. [race]: id=abstraction
-#: units/windsong.cfg:10
+#: Era_of_Myths/units/windsong.cfg:10
 msgid "race+female^Abstraction"
-msgstr ""
+msgstr "Abstraktum"
 
 #. [race]: id=abstraction
-#: units/windsong.cfg:11
+#: Era_of_Myths/units/windsong.cfg:11
 msgid "race^Abstractions"
-msgstr ""
+msgstr "Abstrakta"
 
 #. [race]: id=windsong
-#: units/windsong.cfg:19
+#: Era_of_Myths/units/windsong.cfg:19
 msgid "race^Windsong Human"
-msgstr ""
+msgstr "Windflüsterin"
 
 #. [race]: id=windsong
-#: units/windsong.cfg:20
+#: Era_of_Myths/units/windsong.cfg:20
 msgid "race^Windsong Humans"
-msgstr ""
+msgstr "Windflüsterinnen"
 
 #. [race]: id=windsong
-#: units/windsong.cfg:25
+#: Era_of_Myths/units/windsong.cfg:25
 msgid ""
 "The Windsong are a mysterious people, consisting completely of abducted "
 "female humans. Their numbers are few, and their goals and motives obscure. "
@@ -2849,14 +3439,22 @@ msgid ""
 "hate them because they steal the most fit of their daughters right from "
 "under their noses. Most other races distrust them."
 msgstr ""
+"Die Windflüsterinnen sind geheimnisvolle Leute, die ausschließlich aus "
+"entführten Menschenfrauen. Sie sind nicht zahlreich, ihre Ziele und Motive "
+"schleierhaft. Rätselhafte Mächte, gewaltige Bibliotheken und Sammlungen "
+"uralter Lehren stehen ihnen zu Diensten. Ihre zahlenmäßig unterlegenen "
+"Armeen haben all jene besiegt, die sie angriffen oder welche anzugreifen sie "
+"beschlossen hatten, Sie sind den übrigen Menschen verhasst, da sie ihnen "
+"ihre stolzesten Töchter vor der Nase stehlen. Die meisten anderen misstrauen "
+"ihnen."
 
 #. [unit_type]: id=EOM_Courier, race=windsong
-#: units/windsong/a1_Courier.cfg:5
+#: Era_of_Myths/units/windsong/a1_Courier.cfg:5
 msgid "female^Courier"
-msgstr ""
+msgstr "Kurierin"
 
 #. [unit_type]: id=EOM_Courier, race=windsong
-#: units/windsong/a1_Courier.cfg:20
+#: Era_of_Myths/units/windsong/a1_Courier.cfg:20
 msgid ""
 "Unlike most other peoples, the Windsong possess neither domesticated beasts "
 "of burden or mechanical transports. The former due to the icy conditions of "
@@ -2869,20 +3467,31 @@ msgid ""
 "close. Their skill at manipulating gravity makes their arrows uncannily "
 "accurate."
 msgstr ""
+"Im Gegensatz zu den meisten anderen Völkern verfügen die Windflüsterinnen "
+"nicht über Reittiere oder Wagen, ersteres wegen ihrer eisigen Basis, "
+"letzteres afugrund ihrem Misstrauen gegenüber von Maschinen. Stattdessen "
+"widmen sich manche Mädchen den Glyphen der Levitation. Kein noch so raues "
+"Gelände kann sie behindern, auch nicht Eis und Wasser, und kostbare Waren "
+"können schnell transportiert werden, Ihre Widmung zur Levitation verwehrt "
+"ihnen die gefährlicheren Glyphen, weshalb sie mit einem Bogen bewaffnet sind "
+"und Steine auf zu nahe gekommene Gegner prasseln lassen. Ihr geschick in der "
+"Kontrolle der Schwerkraft verleiht ihre Pfeilen unheimliche Genauigkeit."
 
 #. [attack]: type=impact
-#: units/windsong/a2_Reaver.cfg:27 units/windsong/a1_Courier.cfg:24
-#: units/windsong/a2_Emissary.cfg:25 units/windsong/a3_Dreadnought.cfg:33
+#: Era_of_Myths/units/windsong/a2_Reaver.cfg:27
+#: Era_of_Myths/units/windsong/a1_Courier.cfg:24
+#: Era_of_Myths/units/windsong/a2_Emissary.cfg:25
+#: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:33
 msgid "crush"
-msgstr ""
+msgstr "Zermalmen"
 
 #. [unit_type]: id=EOM_Emissary, race=windsong
-#: units/windsong/a2_Emissary.cfg:5
+#: Era_of_Myths/units/windsong/a2_Emissary.cfg:5
 msgid "female^Emissary"
-msgstr ""
+msgstr "Gesandte"
 
 #. [unit_type]: id=EOM_Emissary, race=windsong
-#: units/windsong/a2_Emissary.cfg:21
+#: Era_of_Myths/units/windsong/a2_Emissary.cfg:21
 msgid ""
 "Those Couriers who show themselves to be intelligent and reliable are "
 "elevated to the position of Emissary. They are entrusted with transporting "
@@ -2892,14 +3501,21 @@ msgid ""
 "to slash at enemies in a flurry of charges. Such tactics are dangerous, so "
 "Emissaries prefer to use their original weapons if possible."
 msgstr ""
+"Kurierinnen, die sich als interligent und zuverlässig erweisen, werden in "
+"die Position der Gesandten berufen. Sie werden mit dem Transport von "
+"Dokumenten, wertvollen Talismanen und gar Ratsfrauen betraut. Ohne die "
+"körperliche und geistige Last schwerer Güter ist eine Gesandte sehr viel "
+"agiler. Dies erlaubt ihr, mit einem Schwert Feinde mit unzähligen flinken "
+"Streichen aufzuschlitzen. Da diese Taktik allerdings gefährlich ist, "
+"benutzen sie ihre gewohnten Waffen, soweit möglich."
 
 #. [unit_type]: id=EOM_Reaver, race=windsong
-#: units/windsong/a2_Reaver.cfg:5
+#: Era_of_Myths/units/windsong/a2_Reaver.cfg:5
 msgid "female^Reaver"
-msgstr ""
+msgstr "Zerstörerin"
 
 #. [unit_type]: id=EOM_Reaver, race=windsong
-#: units/windsong/a2_Reaver.cfg:20
+#: Era_of_Myths/units/windsong/a2_Reaver.cfg:20
 msgid ""
 "While Couriers in peacetime are rarely of a martial bent, war brings out "
 "hidden abilities in everyone, and some have recently chosen to bring back a "
@@ -2907,14 +3523,21 @@ msgid ""
 "and sieges in ancient wars, they exchange their lightweight stones for great "
 "iron blades, crushing any who stand in the path of the Windsong."
 msgstr ""
+"Sind auch Kurierinnen in Friedenszeiten kaum am Kämpfen interessiert, so "
+"fördert der Krieg in jedem verborgene Talente zu Tage, und einige "
+"entschieden sich vor kurzem, eine lang vergessene Organisation "
+"wiederzubeleben: den Orden der Zerstörung. Wie ihre Vorgängerinnen in den "
+"heftigsten Sturmangriffen und Belagerungen einstiger Kriege, benutzen sie "
+"statt leichter Steine riesige Eisenkeile, um alle niederzuschmettern, die es "
+"wagen, den Windflüsterinnen im Wege zu stehen."
 
 #. [unit_type]: id=EOM_Dreadnought, race=windsong
-#: units/windsong/a3_Dreadnought.cfg:5
+#: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:5
 msgid "female^Dreadnought"
-msgstr ""
+msgstr "Vernichterin"
 
 #. [unit_type]: id=EOM_Dreadnought, race=windsong
-#: units/windsong/a3_Dreadnought.cfg:26
+#: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:26
 msgid ""
 "The records concerning the master Reavers for whom the title of Dreadnought "
 "was created tell not only of their heroic deeds in battle, of the courage "
@@ -2924,14 +3547,21 @@ msgid ""
 "all but the Windsong themselves, but with the revival of their order, it is "
 "certain that new ones will soon be written."
 msgstr ""
+"Die Aufzeichnungen über jene Meisterinnen des Ordens der Zerstörung, für die "
+"der Titel der Vernichterin eingeführt wurde, erzählen nicht bloß von ihren "
+"Heldentaten in der Schlacht, von dem Mut, mit dem sie sich auf Feindeshorden "
+"stüzten, sondern auch von ihrer düsteren Seite, von geschliffenen Städten "
+"und von ihrem unaufhaltsamen Vormarsch verheerten Armeen. Diese Legenden "
+"sind längst vergessen von allen außerhalb der Windflüsterinnen, doch nun, da "
+"ihr Orden wieder auflebt, werden sicherlich bald neue geschŕieben werden…"
 
 #. [unit_type]: id=EOM_Sky_Shard, race=abstraction
-#: units/windsong/b0_Sky_Shard.cfg:5
+#: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:5
 msgid "Sky Shard"
-msgstr ""
+msgstr "Scherbe des Himmels"
 
 #. [unit_type]: id=EOM_Sky_Shard, race=abstraction
-#: units/windsong/b0_Sky_Shard.cfg:35
+#: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:35
 msgid ""
 "In an age long forgotten by the rest of the world, when the Windsong first "
 "took up their watch, they realized that it would be impractical to carry out "
@@ -2954,21 +3584,44 @@ msgid ""
 "unusual resistances. Shards are never destroyed, they are merely 'pushed "
 "out' of reality."
 msgstr ""
+"In einer von der übrigen Welt längst vergessenen Zeit, da die "
+"Windflüsterinnen erstmal ihre Mahnwache aufnahmen, begriffen sie, dass ihre "
+"Pflicht des Ausgleichs schwer zu erfüllen war, ohne selbst auf gefährliche "
+"Stärke anzuwachsen. Die Windflüsterinnen brauchten Diener, die zahllos in "
+"Zeiten des Ausgleichs und wenige in Zeiten der Verborgenheit sein konnten. "
+"Diener, die vollkommen vertrauenswürdig waren, schnell reisen und eine "
+"Vielzahl von Aufgaben erfüllen konnten. Die Glyphe, einzige Macht der "
+"Windflüsterinnen, konnte solche Diener aus der Essenz zu formen und in die "
+"Wirklichkeit zu binden. Doch die Kontrolle auch nur einer Handvoll "
+"Himmelsscherben erforderte die volle Aufmerksamkeit einer Erleuchteten. Und "
+"so sammelten die Windflüsterinnen die begabtesten Glyphologinnen (jene, die "
+"Glyphen anwenden) in der Basis und ließen sie einen Talisman mit der "
+"unvorstellbarer, wenn auch klar umgrenzter Macht schaffen, für sie die "
+"Scherben zu kontrollieren.\n"
+"\n"
+"Scherben sind an an den Willen desjenigen gebunden, der \"Das Mandat\" "
+"kontrolliert. Da sie kaum Teil der Wirklichkeit sind, ist ihnen die "
+"Teleportation zwischen Gebieten mit hoher Glyphenaktivität (eigene Dörfer) "
+"möglich. Scherben sind kristallin und erhalten dadurch ungewöhnliche "
+"Resistenzen. Scherben können nie zerstört werden, sondern werden nur aus der "
+"Wirklichkeit \"gestoßen\"."
 
 #. [attack]: type=cold
-#: units/windsong/b0_Sky_Shard.cfg:43 units/windsong/c3_Herald.cfg:34
-#: units/windsong/c2_Envoy.cfg:32 units/windsong/c1_Weaver.cfg:37
-#: units/windsong/b1_Sky_Crystal.cfg:44
+#: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:43
+#: Era_of_Myths/units/windsong/c3_Herald.cfg:34
+#: Era_of_Myths/units/windsong/c2_Envoy.cfg:32
+#: Era_of_Myths/units/windsong/c1_Weaver.cfg:37
+#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:44
 msgid "purge"
-msgstr ""
+msgstr "Säuberung"
 
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
-#: units/windsong/b1_Sky_Crystal.cfg:5
+#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:5
 msgid "Sky Crystal"
-msgstr ""
+msgstr "Himmelskristall"
 
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
-#: units/windsong/b1_Sky_Crystal.cfg:36
+#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:36
 msgid ""
 "A Sky Crystal is a Shard that has emerged further into reality and so has a "
 "firmer physical presence.\n"
@@ -2980,14 +3633,16 @@ msgid ""
 "so have unusual resistances. Crystals are never destroyed, they are merely "
 "'pushed out' of reality."
 msgstr ""
+"Himmelsristalle sind Scherben, deren höhere Präsenz in der Realität "
+"erlangten."
 
 #. [unit_type]: id=EOM_Weaver, race=windsong
-#: units/windsong/c1_Weaver.cfg:5
+#: Era_of_Myths/units/windsong/c1_Weaver.cfg:5
 msgid "female^Weaver"
-msgstr ""
+msgstr "Weberin"
 
 #. [unit_type]: id=EOM_Weaver, race=windsong
-#: units/windsong/c1_Weaver.cfg:29
+#: Era_of_Myths/units/windsong/c1_Weaver.cfg:29
 msgid ""
 "While most Windsong are able to devote themselves to only one or two aspects "
 "of the cipher, there are those who are able to access many. When such a "
@@ -3004,14 +3659,30 @@ msgid ""
 "The first lessons a Weaver-born learns are the arts of healing, though she "
 "cannot yet cure poison."
 msgstr ""
+"Während die meisten Windflüsterinnen sich nur ein oder zwei Aspekten der "
+"Glyphe widmen können, können einige eine Vielzahl erlernen. Wird ein solches "
+"Kind geboren, erscheint ein Geist aus der Essenz und Bindet sich an sie. "
+"Damit sie ihre Begabung am nesten einsetzen können, erhalten diese "
+"\"Weberinnen\" (da sie ihre Glyphen verknüpfen können) die beste Bildung und "
+"Übung, die der Rat ihnen geben kann\n"
+"\n"
+"\n"
+"Sobald sie erwachsen sind, erfüllen die Weberinnen viele verschiedene Rollen "
+"in der Gesellschaft der Windflüsterinnen: Sie sind Heilerinnen. Planerinnen, "
+"Seherinnen, Strateginnen. Sie meistern das Bogenschießen , das sie als eine "
+"Form der MEditation ansehen, und ihre Geistergefährten helfen im Alltag wie "
+"in der Schlacht.\n"
+"\n"
+"Als erstes lernen die Weberinnen die Heilkunst, sie können allerdings noch "
+"keine Gifte behandeln."
 
 #. [unit_type]: id=EOM_Envoy, race=windsong
-#: units/windsong/c2_Envoy.cfg:5
+#: Era_of_Myths/units/windsong/c2_Envoy.cfg:5
 msgid "female^Envoy"
-msgstr ""
+msgstr "Botschafterin"
 
 #. [unit_type]: id=EOM_Envoy, race=windsong
-#: units/windsong/c2_Envoy.cfg:25
+#: Era_of_Myths/units/windsong/c2_Envoy.cfg:25
 msgid ""
 "The Windsong know how dangerous unadvised action can be. Their limited "
 "resources means that even one mistake could threaten the Eternal Watch. To "
@@ -3028,14 +3699,27 @@ msgid ""
 "Envoys can move instantly between areas of high cipher activity (friendly "
 "towns). Envoys cannot heal any more."
 msgstr ""
+"Die Windflüsterinnen wissen, wie gefährlich voreiliges Handeln sein kann. "
+"Ihrer begrenzten Ressourcen wegen kann jeder Fehler das Ende der Ewigen "
+"Wache bedeuten, Um sich davor zu bewahren, richten eingie Weberinnen ihre "
+"Aufmerksamkeit auf die Himmelsscherben und erlernen, sich wie diese von der "
+"Wirklichkeit zu trennen. Sobald sie in der Essenz eingetaucht sind, können "
+"sie weite Strecken genau wie die Scherben zurücklegen. Der Rat hängt vin "
+"diesen Botschafterinnen ab, um Operationen durchzuführen oder als "
+"Feldberater in der Not, Diese erstaunliche Macht geht allerdings auf Kosten "
+"anderer Studiengebiete wie der Heil- oder der Kriegskunst, sodass sie zwar "
+"Feldagenten beraten und koordinieren können, sie jedoch nicht in die "
+"Schlacht führen oder danach heilen. Zudem ist es gefährlich, länger als "
+"einen Augenblick in der Essenz zu verweilen, weshalb Gesandte sich nicht mit "
+"ihr schützen können, wie es die Scherben vermögen."
 
 #. [unit_type]: id=EOM_Prophetess, race=windsong
-#: units/windsong/c2_Prophet.cfg:5
+#: Era_of_Myths/units/windsong/c2_Prophet.cfg:5
 msgid "female^Prophetess"
-msgstr ""
+msgstr "Seherin"
 
 #. [unit_type]: id=EOM_Prophetess, race=windsong
-#: units/windsong/c2_Prophet.cfg:25
+#: Era_of_Myths/units/windsong/c2_Prophet.cfg:25
 msgid ""
 "There are many among the Windsong who could successfully lead an army, or "
 "plan a battle, as the council has all children trained to the best of their "
@@ -3055,14 +3739,33 @@ msgid ""
 "Windsongs for the Prophets, that any direction given by them will be obeyed "
 "immediately and without question."
 msgstr ""
+"Es gibt viele Windflüsterinnen, die erfolgreich eine Armeen führen oder eine "
+"Schlacht planen könnten, da der Rat alle Kinder so ausbildet, dass sie ihr "
+"volles Potenzial abschöpfen können. Deshalb ist es für die Windflüsterinnen "
+"wichtiger, zu wissen, wann zu handeln notwendig ist. Die Essenz wird von "
+"allen Geschehnissen, vergangen wie künftig, und fließt mit den veränderung "
+"derselben. Durch ihren Geistergefährten lernt manche Weberin, die Zukunft "
+"aus Strömungen der Essenz zu deuten. Mit Zeit und Erfahrung werden diese "
+"Voraussagungen genauer und verlässlicher. Wenn sie gut genug ist, wird sie "
+"schließlich in den Rang der Prophetin erhoben. Anders als die Seher anderer "
+"Völker \"erleben\" die Prophetinnen der Windflüsterinnen nicht die "
+"Ereignisse, vielmehr wenden sie Ursache und Wirkung in einem weiteren Rahmen "
+"an, Da die Interpretation aller Strömungen offen ist, sollten Prophetinnen "
+"keine Voraussagen ohne den Rat ihrer Ebenbürtigen treffen.\n"
+"\n"
+"Anders als Botschafterinnen haben Prophetinnen viel Zeit, die Krieges- und "
+"Heilkunst zu erlernen. Sie können nun Gifte behandeln, und der Respekt der "
+"Windflüsterinnen vor den Propheten ist so groß, dass jede ihrer Anweisungen "
+"sofort fraglos befolgt wird."
 
 #. [unit_type]: id=EOM_Ascendant, race=windsong
-#: units/windsong/c3_Ascendant.cfg:5
+#: Era_of_Myths/units/windsong/c3_Ascendant.cfg:5
 msgid "female^Ascendant"
-msgstr ""
+msgstr "Erleuchtete"
 
 #. [unit_type]: id=EOM_Ascendant, race=windsong
-#: units/windsong/c3_Ascendant.cfg:28
+#: Era_of_Myths/units/windsong/c3_Ascendant.cfg:28
+#, fuzzy
 msgid ""
 "Few Weavers and Prophets reach the rank of Ascendant. Not just because of "
 "the difficult in reaching this goal, but also because of the danger and "
@@ -3088,9 +3791,28 @@ msgid ""
 "turn). They know powerful healing ciphers and those around them revere them, "
 "obeying them with fervor."
 msgstr ""
+"Wenige Weberinnen und Prophetinnen schaffen die Erleuchtung. Nicht nur, "
+"dadieses Ziel schwer zu erreichen ist, sondern auch wegen der nötigen "
+"Gefahren und Opfer. Der Pfad zur Erleuchtung beginnt, wenn sich eine Weberin "
+"an ihren Geistergefährten bindet, wgenau wie dieser sich bei ihrer Geburt an "
+"sie band. Ein erfolgreicher Bund wird ihren Körper langsam im Verlauf von "
+"zwei Jahren in die Essenz ziehen. Versagt die Erleuchtung Suchende, stet ihr "
+"ein langsamer Tod bevor. Da der Geist  über allem anderen um ihr wohl bemüht "
+"ist, wird er den Bund verweigern, bis sie ihn davon überzeugen kann, dass "
+"sie stark genug für die Erleuchtung ist. Im Erfolgsfall verwandelt sich ihr "
+"physischer Körper in die Essenz selbst, wodurch sie Unsterblichkeit und "
+"große, wenn auch nicht unfehlbare die Natur der Ereignisse, jetzige wie "
+"zukünftige, erlangt.\n"
+"\n"
+"Jede, die diesen Höhepunkt des Glyphenwebens erreicht, wird automatisch "
+"Vollmitglied des Rates. Auch wenn die meisten Erleuchteten Prophetinnen "
+"waren, können theoretisch auch Botschafterinnen und Herolde Erleuchtung "
+"finden. Botschafterinnen haben allerdings erfahren, was die Essenz zu "
+"betreten bedeutet, und die Idee, in diese ungeschützt zu gelangen, verstört "
+"das Selbstvertrauen selbst der tapfersten Frau."
 
 #. [unit_type]: id=EOM_Windsong_Herald, race=windsong
-#: units/windsong/c3_Herald.cfg:26
+#: Era_of_Myths/units/windsong/c3_Herald.cfg:26
 msgid ""
 "As children, Weavers learn to communicate with their accompanying spirit via "
 "a special type of cipher. The spirit will only ever respond to the girl it "
@@ -3104,14 +3826,22 @@ msgid ""
 "Heralds can move instantly between areas of high cipher activity (friendly "
 "towns)."
 msgstr ""
+"Als Kinder lernen Weberinnen, mit ihren Geistergefährten durch eine "
+"besondere Glyphe zu kommunizieren, Der Geist wird stets nur dem Mädchen "
+"antworten, an das er sich band, und hat einen sehr eingeschränkten Verstand. "
+"Als Botschafterinnen lernte die Weberin, wie nützlich dieser Geist sein "
+"kann, Jene, die lange Stunden dem Verständnis und der Ausbildung ihres "
+"Geistergefährten widmen, erhalten einen mächtigen Verbündeten, der ihren "
+"Bogen leitet und ihre Säuberungen stärkt. Die besten werden in den Eliterang "
+"der Herolde erhoben, die direkt dem Rat verantwortlich sind."
 
 #. [unit_type]: id=EOM_Seeker, race=windsong
-#: units/windsong/d1_Seeker.cfg:5
+#: Era_of_Myths/units/windsong/d1_Seeker.cfg:5
 msgid "female^Seeker"
-msgstr ""
+msgstr "Sucherin"
 
 #. [unit_type]: id=EOM_Seeker, race=windsong
-#: units/windsong/d1_Seeker.cfg:22
+#: Era_of_Myths/units/windsong/d1_Seeker.cfg:22
 msgid ""
 "The name given to the Seekers comes from their role in the legend of the "
 "Windsong's first appearance: they were tasked with searching the world over "
@@ -3120,23 +3850,33 @@ msgid ""
 "This tradition of exploration continues unabated, and the Seekers' great "
 "speed and agility are easily put to use in times of war."
 msgstr ""
+"Der Name, der den Sucherinnen gegeben ist, erklärt sich aus der Legende über "
+"das erste Erscheinen der Windflüsterinnen: Sie hatten den Auftrag, die Welt "
+"nach einem passenden Ort für die erste Basis zu finden,\n"
+"\n"
+"Diese Tradition der Aufklärung besteht ungebrochenm und die große "
+"Schnelligkeit und Gewandheit der Sucherinnen sind im Krieg leicht "
+"einzusetzen."
 
 #. [attack]: type=blade
 #. [attack]: type=pierce
-#: units/windsong/d3_Stormbringer.cfg:36 units/windsong/d1_Seeker.cfg:29
-#: units/windsong/d2_Skyrunner.cfg:35 units/windsong/d2_Pathfinder.cfg:27
-#: units/windsong/d2_Pathfinder.cfg:39 units/windsong/d3_Farstrider.cfg:28
-#: units/windsong/d3_Farstrider.cfg:40
+#: Era_of_Myths/units/windsong/d3_Stormbringer.cfg:36
+#: Era_of_Myths/units/windsong/d1_Seeker.cfg:29
+#: Era_of_Myths/units/windsong/d2_Skyrunner.cfg:35
+#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:27
+#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:39
+#: Era_of_Myths/units/windsong/d3_Farstrider.cfg:28
+#: Era_of_Myths/units/windsong/d3_Farstrider.cfg:40
 msgid "polearm"
-msgstr ""
+msgstr "Stangenwaffe"
 
 #. [unit_type]: id=EOM_Pathfinder, race=windsong
-#: units/windsong/d2_Pathfinder.cfg:5
+#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:5
 msgid "female^Pathfinder"
-msgstr ""
+msgstr "Pfadfinderin"
 
 #. [unit_type]: id=EOM_Pathfinder, race=windsong
-#: units/windsong/d2_Pathfinder.cfg:20
+#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:20
 msgid ""
 "Capable of racing through the toughest terrain with uncanny speed, those "
 "known as Pathfinders serve as the vanguards of the Windsong armies. They "
@@ -3145,14 +3885,20 @@ msgid ""
 "their fluid grace and skill with their polearms allows them to strike like "
 "the thunder they wield, catching distracted foes unawares."
 msgstr ""
+"Mit ungeheurer Geschwindigkeit in schwerstem Gelände bilden die sogenannten "
+"Pfadfinderinnen als Vorhut der Windflüsterinnen. Sie widmen sich der "
+"Verbesserung ihrer Flinkheit, und lange Übung bringt ihnen fast "
+"übermenschliche Geschwindigkeit, Und wenn sie es als notwendig erachten, "
+"können sie mit ihrer Eleganz und Geschick im Stabkampf wie der Donner "
+"zuschlagen, um abgelenkte Feinde überraschend zu fassen."
 
 #. [unit_type]: id=EOM_Skyrunner, race=windsong
-#: units/windsong/d2_Skyrunner.cfg:5
+#: Era_of_Myths/units/windsong/d2_Skyrunner.cfg:5
 msgid "female^Skyrunner"
-msgstr ""
+msgstr "Himmelläuferin"
 
 #. [unit_type]: id=EOM_Skyrunner, race=windsong
-#: units/windsong/d2_Skyrunner.cfg:28
+#: Era_of_Myths/units/windsong/d2_Skyrunner.cfg:28
 msgid ""
 "One of the few warrior groups to survive the Age of Patience, Skyrunners "
 "choose to sacrifice the immense speed of the Pathfinders in favor of "
@@ -3162,14 +3908,20 @@ msgid ""
 "guard to the members of the Council, but now they take up once again the old "
 "mantle of war."
 msgstr ""
+"Eine der wenigen Kriegerbünde, die die Zeit der Geduld überlebte, opfern die "
+"Himmelsĺäuferinnen die große Geschwindigkeit der Pfadfinderinnen, um sich "
+"mit besserer Rüstung auszurüsten- die allerdings immer noch äußerst leicht "
+"ist nach demn meisten Maßstäben. In Friedenszeiten  habe ihnen ihre relativ "
+"gute Beherrschung der Blitzesglyphe ihnen den Posten als Garde der "
+"Ratsfrauen eingebrachtm doch nun nehmen sie erneut den altn Kriegsmantel auf."
 
 #. [unit_type]: id=EOM_Farstrider, race=windsong
-#: units/windsong/d3_Farstrider.cfg:5
+#: Era_of_Myths/units/windsong/d3_Farstrider.cfg:5
 msgid "female^Farstrider"
-msgstr ""
+msgstr "Pionierin"
 
 #. [unit_type]: id=EOM_Farstrider, race=windsong
-#: units/windsong/d3_Farstrider.cfg:21
+#: Era_of_Myths/units/windsong/d3_Farstrider.cfg:21
 msgid ""
 "One of the oldest tales that have come down from the wars of the ancients "
 "tells of a great battle between the Windsong and their old nemeses, the "
@@ -3180,14 +3932,23 @@ msgid ""
 "the wind, and when the Windsong reinforcements arrived two days early, the "
 "elves were forced to surrender."
 msgstr ""
+"Eine der ältesten Erzählungen, die von den Kriegen der Ahnen erhalten sind, "
+"erzählt von einer großen Schlacht zwischen den Windflüsterinnen und ihren "
+"alten Erzfeinden, den Elfen. Jede Seite sandte ihren schnellsten Läufer aus, "
+"um Verstärkung anzufordern, und obwohl die Elfen davon ausgingen, dass ihr "
+"geschmeidiger Bote seine fragile menschliche Rivalin übertreffen werde, "
+"verfluchte am Ende der Elf seine wunden Füße und fiel zurück. Die Pionierin "
+"jedoch rannte mit der Geschwindigkeit und Ausdauer des Windes, und als die "
+"Verstärkung der Windflüsterinnen zwei Tage früher eintraf, waren die Elfen "
+"gezwungen, sich zu ergeben."
 
 #. [unit_type]: id=EOM_Stormbringer, race=windsong
-#: units/windsong/d3_Stormbringer.cfg:5
+#: Era_of_Myths/units/windsong/d3_Stormbringer.cfg:5
 msgid "female^Stormbringer"
-msgstr ""
+msgstr "Sturmesbringerin"
 
 #. [unit_type]: id=EOM_Stormbringer, race=windsong
-#: units/windsong/d3_Stormbringer.cfg:29
+#: Era_of_Myths/units/windsong/d3_Stormbringer.cfg:29
 msgid ""
 "The name Stormbringer was obviously appended to these great warriors for "
 "their ability to shatter enemy ranks with furious bolts of lightning, but "
@@ -3196,14 +3957,21 @@ msgid ""
 "armor, the presence of a Stormbringer on the front lines can turn the most "
 "carefully prepared defence into a chaotic rout in seconds."
 msgstr ""
+"Der Titel der Sturmbringerin wird diesen großen Kriegerinnen offensichtlich "
+"wegen ihrer Fähigkeit, gegnerische Reihen mit wütenden Blitzen "
+"niederzuschlagen, doch er erscheint doppelt verdient, wenn einer siehtm wie "
+"sie die Windflüsterinnen in die Schlacht führen, Sie wirbeln um ihre Gegner, "
+"als trügen sie ihre schwere Rüstung nicht, und die Anwesenheit einer "
+"Sturmbringerin an der Frontlinie kann innnerhalb vin Sekunden die "
+"organisierteste Verteidigung in ein chaotisches Getümmel verwandeln."
 
 #. [unit_type]: id=EOM_Gatekeeper, race=windsong
-#: units/windsong/e1_Gatekeeper.cfg:5
+#: Era_of_Myths/units/windsong/e1_Gatekeeper.cfg:5
 msgid "female^Gatekeeper"
-msgstr ""
+msgstr "Hüterin des Tores"
 
 #. [unit_type]: id=EOM_Gatekeeper, race=windsong
-#: units/windsong/e1_Gatekeeper.cfg:37
+#: Era_of_Myths/units/windsong/e1_Gatekeeper.cfg:37
 msgid ""
 "The Windsong Foundation, though hidden far in the arctic northern seas, "
 "still represents too great a target to be left unguarded. The Gatekeepers "
@@ -3214,14 +3982,23 @@ msgid ""
 "unarmed style which allows them to fight without removing their ceremonial "
 "blindfolds."
 msgstr ""
+"Die Basis der Windflüsterinnen stellt, auch wenn sie tief im Nordmeer "
+"verborgen liegt, noch immer ein zu großes Ziel dar, als das sie unbewacht "
+"gelassen werden dürfe. Die Hüterinnen des Tores haben ihre Genossinnen "
+"während der Zeit der Geduld, und sie haben nicht vor, ihre Wachsamkeit nun "
+"aufzugeben.\n"
+"\n"
+"In ihrer Widmung zur Kampfeslehre haben sie einen einzigartigen "
+"unbewaffneten Kampfstil entwickelt, mit dem sie kämpfen können, ohne ihre "
+"zeremoniellen Augenbinden abzunehmen."
 
 #. [unit_type]: id=EOM_Heretic, race=windsong
-#: units/windsong/e2_Heretic.cfg:5
+#: Era_of_Myths/units/windsong/e2_Heretic.cfg:5
 msgid "female^Heretic"
-msgstr ""
+msgstr "Ketzerin"
 
 #. [unit_type]: id=EOM_Heretic, race=windsong
-#: units/windsong/e2_Heretic.cfg:40
+#: Era_of_Myths/units/windsong/e2_Heretic.cfg:40
 msgid ""
 "The Windsong Council preaches the importance of patience and pacifism, that "
 "one should not give in to anger and instead think carefully about every "
@@ -3236,19 +4013,32 @@ msgid ""
 "philosophy are allowed to train themselves in the forbidden arts of "
 "swordplay and fire magic."
 msgstr ""
+"Der Rat der Windflüsterinnen vertritt die Wichtigkeit von Geduld und "
+"Pazifismus, dass statt dem Zorn nachzugeben jede Entscheidung sorgfältig "
+"durchdacht werden sollte. Dies ist der Glaube, durch den die "
+"Windflüsterinnen derart lange nicht in Konflikt gerieten,\n"
+"\n"
+"Es gibt allerdings eine Sekte, die glaubt, der Ausgleich der Welt könne nur "
+"durch Handeln herbeigeführt werden, und deshalb eine aktivere Rolle der "
+"Windflüsterinnen fordern, stets auf Krieg und die Ausweitung des Einflusses "
+"auf die äußere Welt pochen, Obgleich sie als Ketzer bezeichnet werden, "
+"werden ihre Standpunkte trotzdem gewürdigt, und jene Hüterinnen, die dieser "
+"Philosophie folgen, dürfen sich in den verbotenen Künsten des Schwertkampfes "
+"und der Pyrokinese schulen."
 
 #. [attack]: type=fire
-#: units/windsong/e3_Harbinger.cfg:65 units/windsong/e2_Heretic.cfg:53
+#: Era_of_Myths/units/windsong/e3_Harbinger.cfg:65
+#: Era_of_Myths/units/windsong/e2_Heretic.cfg:53
 msgid "sunburst"
-msgstr ""
+msgstr "Sonnenbrand"
 
 #. [unit_type]: id=EOM_Lorekeeper, race=windsong
-#: units/windsong/e2_Lorekeeper.cfg:7
+#: Era_of_Myths/units/windsong/e2_Lorekeeper.cfg:7
 msgid "female^Lorekeeper"
-msgstr ""
+msgstr "Hüterin der Lehre"
 
 #. [unit_type]: id=EOM_Lorekeeper, race=windsong
-#: units/windsong/e2_Lorekeeper.cfg:39
+#: Era_of_Myths/units/windsong/e2_Lorekeeper.cfg:39
 msgid ""
 "The Great Library, the enormous complex that forms the heart of the Windsong "
 "Foundation, is the home of what may the oldest texts still existing in the "
@@ -3258,14 +4048,22 @@ msgid ""
 "skilled Gatekeepers are allowed to join the ranks of the Lorekeepers and "
 "become its guards."
 msgstr ""
+"Die Große Bibliothek, der gewaltige Komplex, der das Herz der Basis der "
+"Windflüsterinnen bildet, beheimat einige der womöglich ältesten noch "
+"existierenden Texte, viele von ihnen von Generationen von Schreiberinnen "
+"abgeschrieben, während sich das ursprüngliche Werk aufzulösen begann. Den "
+"meisten Windflüsterinnen ist es nicht gestattet, diese heiligen Hallen zu "
+"betreten, und nur die treueaten und begabtesten Hüterinnen des Tores dürfen "
+"sich den Hüterinnen der Lehre anschließen und Wächterinnen der Bibliothek "
+"werden."
 
 #. [unit_type]: id=EOM_Harbinger, race=windsong
-#: units/windsong/e3_Harbinger.cfg:5
+#: Era_of_Myths/units/windsong/e3_Harbinger.cfg:5
 msgid "female^Harbinger"
-msgstr ""
+msgstr "Apokalyptikerin"
 
 #. [unit_type]: id=EOM_Harbinger, race=windsong
-#: units/windsong/e3_Harbinger.cfg:39
+#: Era_of_Myths/units/windsong/e3_Harbinger.cfg:39
 msgid ""
 "Stunningly powerful warriors, Harbingers epitomize the warlike path of the "
 "Heretic. Their command of the forbidden flame cipher, as well as the "
@@ -3274,14 +4072,21 @@ msgid ""
 "realize that such power must be put to use, and they are often selected to "
 "lead groups of their fellow Heretics into battle."
 msgstr ""
+"Als erstaunlich mächtige Kriegerinnen stellen die Apokalyptikerinnen den "
+"Höhepunkt des kämpferischen Weges der Ketzerinnen da. Sie beherrschen die "
+"verbotene Feuerglyphe, ebenso den blutrünstigen Kampfrausch, den sie an "
+"ihren Gegnern auslassen, und so werden sie von Freund und Feind gefürchtet, "
+"Doch selbst die friedliebenden Windflüsterinnen erkennen, dass solche Macht "
+"benutzt werden muss, und sie werden oft ausgewählt, andere Ketzerinnen in "
+"die Schlacht zu führen."
 
 #. [unit_type]: id=EOM_Oathkeeper, race=windsong
-#: units/windsong/e3_Oathkeeper.cfg:5
+#: Era_of_Myths/units/windsong/e3_Oathkeeper.cfg:5
 msgid "female^Oathkeeper"
-msgstr ""
+msgstr "Hüterin des Schwures"
 
 #. [unit_type]: id=EOM_Oathkeeper, race=windsong
-#: units/windsong/e3_Oathkeeper.cfg:38
+#: Era_of_Myths/units/windsong/e3_Oathkeeper.cfg:38
 msgid ""
 "Until recently, it was believed that the Oathkeeper caste had, like many "
 "others, vanished with time, made unnecessary by long years of peace. It was "
@@ -3292,14 +4097,22 @@ msgid ""
 "skilled warriors ever to walk the world, and capable of holding back entire "
 "armies singlehandedly."
 msgstr ""
+"Bis vor kürzem dachte man, die Kaste der Hüterinnen des Schwures sei wie so "
+"viele im Laufe der Zeit verschwunden, da sie durch den langen Frieden "
+"unnötig wäre. Erst als sich die tiefsten Gewölbe öffneten und sie in die "
+"Schlacht maschierten, wurde klar. dass der Titel der Hüterin des Schwures "
+"nicht bloß überlebt hatte, sondern Generation für Generation über die "
+"Jahrtausende weitergegeben worden war, Alle jene wenigen, denen ein Platz "
+"angeboten wird, gehören ausnahmslos zu den kampfkräftigsten Individuen aller "
+"Zeiten, fähig, ganze Armeen mit bloßen Händen aufzuhalten."
 
 #. [unit_type]: id=EOM_Scribe, race=windsong
-#: units/windsong/f1_Scribe.cfg:5
+#: Era_of_Myths/units/windsong/f1_Scribe.cfg:5
 msgid "female^Scribe"
-msgstr ""
+msgstr "Schreiberin"
 
 #. [unit_type]: id=EOM_Scribe, race=windsong
-#: units/windsong/f1_Scribe.cfg:32
+#: Era_of_Myths/units/windsong/f1_Scribe.cfg:32
 msgid ""
 "The scribes of the Windsong are those engaged in studying, as well as "
 "contributing to, the vast libraries kept at the Foundation.\n"
@@ -3308,58 +4121,81 @@ msgid ""
 "combat, employing against their enemies an ancient -- and very effective -- "
 "brand of magic known as the Cipher."
 msgstr ""
+"Die Schreiberinnen de rWindflüsterinnen sind jene, welche die riesigen "
+"Büchereien in der Basis studieren und ergänzen,\n"
+"\n"
+"Nun, da der Große Ausgleich bevorsteht, haben sie sich als föhige Kämpfer "
+"erwiesen, indem sie jene uralte– und sehr effektive– Magieform einsetzen, "
+"die als die Glyphe bekannt ist."
 
 #. [attack]: type=arcane
-#: units/windsong/f2_Savant.cfg:34 units/windsong/f3_Arbiter.cfg:47
-#: units/windsong/f4_Librarian.cfg:48 units/windsong/f1_Scribe.cfg:36
+#: Era_of_Myths/units/windsong/f2_Savant.cfg:34
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:47
+#: Era_of_Myths/units/windsong/f4_Librarian.cfg:48
+#: Era_of_Myths/units/windsong/f1_Scribe.cfg:36
 msgid "cipher"
-msgstr ""
+msgstr "Glyphe"
 
 #. [unit_type]: id=EOM_Savant, race=windsong
-#: units/windsong/f2_Savant.cfg:5
+#: Era_of_Myths/units/windsong/f2_Savant.cfg:5
 msgid "female^Savant"
-msgstr ""
+msgstr "Gelehrte"
 
 #. [unit_type]: id=EOM_Savant, race=windsong
 #. [unit_type]: id=EOM_Arbiter, race=windsong
 #. [unit_type]: id=EOM_Librarian, race=windsong
 #. [unit_type]: id=EOM_Runeforger, race=windsong
-#: units/windsong/f2_Savant.cfg:30 units/windsong/f3_Arbiter.cfg:25
-#: units/windsong/f4_Librarian.cfg:26 units/windsong/f3_Runeforger.cfg:34
+#: Era_of_Myths/units/windsong/f2_Savant.cfg:30
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:25
+#: Era_of_Myths/units/windsong/f4_Librarian.cfg:26
+#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:34
 msgid "..."
 msgstr ""
 
 #. [unit_type]: id=EOM_Arbiter, race=windsong
-#: units/windsong/f3_Arbiter.cfg:5
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:5
 msgid "female^Arbiter"
-msgstr ""
+msgstr "Kritikerin"
 
 #. [attack]: type=blade
-#: units/windsong/f3_Arbiter.cfg:29 units/windsong/f4_Librarian.cfg:30
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:29
+#: Era_of_Myths/units/windsong/f4_Librarian.cfg:30
 msgid "scythe"
-msgstr ""
+msgstr "Sense"
 
 #. [unit_type]: id=EOM_Runeforger, race=windsong
-#: units/windsong/f3_Runeforger.cfg:5
+#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:5
 msgid "female^Runeforger"
-msgstr ""
+msgstr "Runenschmiedin"
 
 #. [attack]: type=blade
-#: units/windsong/f3_Runeforger.cfg:38
+#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:38
 msgid "sorrow"
-msgstr ""
+msgstr "Sorge"
 
 #. [attack]: type=impact
-#: units/windsong/f3_Runeforger.cfg:51
+#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:51
 msgid "memory"
-msgstr ""
+msgstr "Erinnerung"
 
 #. [attack]: type=pierce
-#: units/windsong/f3_Runeforger.cfg:64
+#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:64
 msgid "death"
-msgstr ""
+msgstr "Tod"
 
 #. [unit_type]: id=EOM_Librarian, race=windsong
-#: units/windsong/f4_Librarian.cfg:5
+#: Era_of_Myths/units/windsong/f4_Librarian.cfg:5
 msgid "female^Librarian"
-msgstr ""
+msgstr "Bibliothekarin"
+
+#~ msgid "Immune to drain, poison and plague"
+#~ msgstr "Immun gegen Gift, Lebensentzug und Untote Plage"
+
+#~ msgid "Zero upkeep"
+#~ msgstr "Kostenlos"
+
+#~ msgid "flail"
+#~ msgstr "Streitflegel"
+
+#~ msgid "bite"
+#~ msgstr "Biss"
