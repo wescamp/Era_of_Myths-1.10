@@ -1,7 +1,7 @@
-				 The Era of Myths 
+				== The Era of Myths ==
 				    background
 
-  Celestials  
+========= Celestials =========
 The Celestials are not human, but a humanoid creature which grows wings. Not every Celestial can fly however,
 as most Celestials wings are vestigal and deteriorate, falling off in adolescence. The Celestials are a
 very spiritual race, believing that there is power in Light and Darkness; and they choose to side with the
@@ -29,7 +29,7 @@ of darkness to create and summon horrific Aberrations to do their bidding. It is
 find a second home.....
 
 
-  Aberrations  
+========= Aberrations =========
 These creatures are born blind and so stick to living in swamps and underground. They have developed an
 ability, like bats, to create sonic waves to "see" their surroundings. They stand about 5-feet tall, but their
 hunched stance puts them at a solid 4-feet. Their 4 fingers end in solid, ground-tearing claws. 
@@ -42,18 +42,18 @@ level the playing field. It is rumored that these "Eyeless" ones become endowed 
 than sight....
 
 
-  Therians  
+========= Therians =========
 
 
-  Wargs  
+========= Wargs  =========
 
 
-  Vampires  
+========= Vampires  =========
 
 
-  Devlings  
+========= Devlings =========
 
 
-  
-Windsong  
+
+========= Windsong =========
 

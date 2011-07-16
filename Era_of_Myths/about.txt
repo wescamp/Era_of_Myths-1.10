@@ -37,6 +37,9 @@ PLAYTESTERS:
 --reloc
 --everyone who has enjoyed playing the era and who has given feedback
 
+TRANSLATORS:
+--Drakefriend
+
 ABERRATIONS:
 Original ideas:
 --JW
@@ -55,6 +58,7 @@ Art:
 --Eternal
 --Ryorin
 --Neoriceisgood
+--Guest_1219
 --others
 
 DEVLINGS:
