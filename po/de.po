@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-07-16 06:25-0400\n"
-"PO-Revision-Date: 2011-07-11 21:44+0200\n"
+"POT-Creation-Date: 2011-07-16 22:09-0400\n"
+"PO-Revision-Date: 2011-07-16 15:07+0200\n"
 "Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -632,13 +632,11 @@ msgstr "Starke Teufelchen schlagen härter zu und sind dümmer als die Anderen."
 
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Myths/macros/traits.cfg:172
-#, fuzzy
 msgid "elemental"
-msgstr "Elementargeister"
+msgstr "Elementargeist"
 
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Myths/macros/traits.cfg:173
-#, fuzzy
 msgid "female^elemental"
 msgstr "Elementargeist"
 
@@ -1620,7 +1618,7 @@ msgstr "Feuerkrallen"
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
 #: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:5
 msgid "Fire Wisp"
-msgstr "Brandgeister"
+msgstr "Brandgeist"
 
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
@@ -1633,7 +1631,7 @@ msgid ""
 msgstr ""
 "Brandgeister sind Geister der Flammen und des Rauches.Ihre bevorzugten "
 "Freizeitbeschäftigungen sind in Lava zu baden und alles Erreichbare zu "
-"verbrennen "
+"verbrennen. "
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:34
@@ -1643,7 +1641,7 @@ msgstr "Feuerstoß"
 #. [unit_type]: id=EOM_Living_Furnace, race=elemental, description=
 #: Era_of_Myths/units/elementals/a2_Living_Furnace.cfg:5
 msgid "Living Furnace"
-msgstr "Lebender Schmelzofen"
+msgstr "Lohender"
 
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
 #: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:5
@@ -2229,7 +2227,7 @@ msgstr "Speikobratherianer"
 #. [attack]: type=pierce
 #: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:55
 msgid "spit"
-msgstr "Speien"
+msgstr "Giftspeien"
 
 #. [unit_type]: id=EOM_Therian_Hunter, race=human
 #: Era_of_Myths/units/therians/d1_Hunter.cfg:5
@@ -2377,7 +2375,7 @@ msgstr "Aurameister"
 #. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:5
 msgid "Apprentice"
-msgstr "Zauberlehrling"
+msgstr "Kundiger"
 
 #. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:18
@@ -2536,7 +2534,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:5
 msgid "Blood Apprentice"
-msgstr "Blutkundiger"
+msgstr "Bluthexer"
 
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:18
@@ -2565,7 +2563,7 @@ msgstr "Blutbrand"
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
 #: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:5
 msgid "Blood Manipulator"
-msgstr "Blutmanipulator"
+msgstr "Blutwühler"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
 #: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:18
@@ -2575,10 +2573,10 @@ msgid ""
 "vomit, or burn through your brain. Horrifying as as that is what he can do "
 "to your spirit is worse."
 msgstr ""
-"Es ist erschreckend, was ein geübter Blutmanipulator einem antun kann. "
-"Erkann jede deiner Adern verbrennen. Er kann dich jeder Nahrung berauben,"
-"dich zum Erbrechen bringen,oder dein Gehirn durchschmorren, So "
-"erschreckenddas ist, so ist das, was er deiner Seele antun kann, schlimmer."
+"Es ist erschreckend, was ein geübter Blutwühler einem antun kann. Erkann "
+"jede deiner Adern verbrennen. Er kann dich jeder Nahrung berauben,dich zum "
+"Erbrechen bringen,oder dein Gehirn durchschmorren, So erschreckenddas ist, "
+"so ist das, was er deiner Seele antun kann, schlimmer."
 
 #. [unit_type]: id=EOM_Flesh_Artisan, race=vampire
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:5
@@ -2607,13 +2605,13 @@ msgid ""
 "Any vampier who has earned the title Sangel can do things with your blood "
 "and soul too horrible to contemplate."
 msgstr ""
-"Jeder Vampir, dem den Titel Hexenmeister verliehen wurde, kann Blut und "
-"Seeleunaussprechlich schreckliche Dinge antun."
+"Jeder Vampir, dem den Titel Haemurg verliehen wurde, kann Blut und Seele "
+"unaussprechlich schreckliche Dinge antun."
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:50
 msgid "wipe"
-msgstr "Peitsche"
+msgstr "Psychische Peitsche"
 
 #. [unit_type]: id=EOM_Bloodborn, race=vampire
 #: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:7
@@ -2677,7 +2675,6 @@ msgstr "Jungspund"
 
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:22
-#, fuzzy
 msgid ""
 "Most vampires are weak ones in service of the lords and more powerful ones, "
 "hoping and waiting that they will rise into a position of power for "
@@ -2686,9 +2683,9 @@ msgid ""
 "thing a vampire lord has."
 msgstr ""
 "Die meisten Vampire sind schwache Diener der mächtigen, die hoffen, selbst "
-"ineine Machtposition aufzusteigen. Bis dahin dienen sie ihrem Herren gegen "
-"BlutNach Menschen und Blutgeborenen sind sie das Entbehrlichste, was einem "
-"Vampirfrsten zur Verfgung steht"
+"in eine Machtposition aufzusteigen. Bis dahin dienen sie ihrem Herren gegen "
+"Blut. Nach Menschen und Blutgeborenen sind sie das Entbehrlichste, was einem "
+"Vampirfürsten zur Verfügung steht"
 
 #. [female]
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:86
@@ -2712,11 +2709,11 @@ msgid ""
 "accuracy."
 msgstr ""
 "Die Vampire haben sich schon immer als eine Art Oberschicht gesehen. Das "
-"übertragen sie auch auf ihren Kampfstil. Vampire, denen Abstammung "
-"oderAutorität zur Herrschaft fehlen, machen sich einem Herren als Wachen "
-"undAttentäter dienstbar, sodass ihre Blutversorgung gesichert ist, und "
-"werden Duellanten genannt. Sie tragen keine Rüstungen, sondern konzentrieren "
-"sichauf rasantes und unheimlich genaues Fechten."
+"übertragen sie auch auf ihren Kampfstil. Vampire, denen Abstammung oder "
+"Autorität zur Herrschaft fehlen, machen sich einem Herren als Wachen und "
+"Attentäter dienstbar, sodass ihre Blutversorgung gesichert ist, und werden "
+"Duellanten genannt. Sie tragen keine Rüstungen, sondern konzentrieren sich "
+"auf rasantes und unheimlich genaues Fechten."
 
 #. [unit_type]: id=EOM_Noble, race=vampire
 #: Era_of_Myths/units/vampires/c2_Noble.cfg:5
@@ -2740,9 +2737,9 @@ msgstr ""
 "Ruchlosigkeit,um ihre Macht aufrecht zu erhalten. Sie umgeben sich mit "
 "getreuen Vampiren,die sie durch das Versprechen unbegrenzten Blutes bei "
 "Laune halten, und unterwerfen alle niederen Kreaturen und machen sie zu den "
-"Leibeigenen ihrer Gesellschaft,damit sie im Notfall Blut oder Kanonenfutter "
-"bereit stellen können. Die Adlige nernähren sich nicht direkt von den "
-"Leibeigenen, weil das häufig zur Rebellionführt, sondern zwingen sie, Vieh "
+"Leibeigenen ihrer Gesellschaft, damit sie im Notfall Blut oder Kanonenfutter "
+"bereit stellen können. Die Adligen ernähren sich nicht direkt von den "
+"Leibeigenen, weil das häufig zur Rebellion führt, sondern zwingen sie, Vieh "
 "für das wöchentliche Blutmahl bereitzustellen"
 
 #. [unit_type]: id=EOM_Sire, race=vampire
@@ -2757,9 +2754,9 @@ msgid ""
 "themselves. In exchange for protection (from whom is not always mentioned), "
 "the other lords provide a tithe of their tax to the Sire."
 msgstr ""
-"Manche Vampire werden mächtig genug, andere Vampirherren zu unterwerfen.In "
-"Gegenzug für Schutz (wovon nicht immer die Rede ist) zahlen die "
-"anderenHerren einen Zehnt an den Fürsten."
+"Manche Vampire werden mächtig genug, andere Vampirherren zu unterwerfen. Im "
+"Gegenzug für Schutz (wovon nicht immer die Rede ist) zahlen die anderen "
+"Herren einen Zehnt an den Fürsten."
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:53
@@ -2810,9 +2807,9 @@ msgstr ""
 "dies der Fall ist, naht Krieg. Diese Vampire sind so alt und mächtig "
 "geworden,das sie glauben, nun sei die Zeit gekommen, da sich das Schicksal "
 "der Vampire erfüllen werde, alle anderen Rassen zu unterwerfen. Mit ihrer "
-"entsetzlichen Macht,Charisma und dem Versprechen unumschränkten Blutes in "
-"Ewigkeit können sie die Unterstützung der meisten Vampirherren gewinnen. Sie "
-"vernichten gnadenlosjeden, der sich ihnen nicht anschließt."
+"entsetzlichen Macht, Charisma und dem Versprechen unumschränkten Blutes in "
+"Ewigkeit können sie die Unterstützung der meisten Vampirherren und Fürsten "
+"gewinnen. Sie vernichten gnadenlos jeden, der sich ihnen nicht anschließt."
 
 #. [female]
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:86
@@ -2905,12 +2902,12 @@ msgid ""
 "For a vampire lord will always have enemies some of which are better slain "
 "with poison in the twilight, than with an army at night."
 msgstr ""
-"Wenn ein Halblüter den halben Weg gegangen., kann er sich zur Rückkehr "
-"entschließen, aber viele lehnen dies ab. Diese werden als Dhampir bezeichnet "
-"und gehören zu den Vertrauten des Herren, weil sie den Tag ausgeschlagen "
-"haben. Als solche habe sie oft mit Gift und  und Mord zu tun. Denn ein "
-"Vampirfürst hat immer Feinde, die besser in der Dämmerung dem Gift erliegen "
-"als Armeen in der Nacht."
+"Wenn ein Halblüter den halben Weg gegangen ist, kann er sich zur Rückkehr "
+"entschließen, aber viele lehnen dies ab. Diese werden als Dhampire oder "
+"Dämmerer bezeichnet und gehören zu den Vertrauten des Herren, weil sie den "
+"Tag ausgeschlagen haben. Als solche habe sie oft mit Gift und  und Mord zu "
+"tun. Denn ein Vampirfürst hat immer Feinde, die besser in der Dämmerung dem "
+"Gift erliegen als Armeen in der Nacht."
 
 #. [attack]: type=blade
 #: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:43
@@ -2935,21 +2932,21 @@ msgid ""
 "provide air support and surveillance to their forces. They cannot see, and "
 "thus fight equally well in all lights."
 msgstr ""
-"Vampire können mit ihrer Blutmagie Steine zum Leben erwecken.Diese "
-"Steinwesen benutzen diese Magie zum fliegen. Vampire benutzen sie alsWächter "
-"ihrer Burgeb und als Luftunterstützung für ihre Streitkräfte.Da sie nicht "
-"sehen können, ist ihre Kampfkraft lichtunabhängig."
+"Vampire können mit ihrer Blutmagie Steine zum Leben erwecken. Diese "
+"Steinwesen benutzen diese Magie zum fliegen. Vampire benutzen sie als "
+"Wächter ihrer Burgen und als Luftunterstützung für ihre Streitkräfte. Da sie "
+"nicht sehen können, ist ihre Kampfkraft lichtunabhängig."
 
 #. [attack]: type=impact
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:57
 #: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:57
 msgid "slam"
-msgstr ""
+msgstr "Stoß"
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:5
 msgid "Marlgoyle"
-msgstr ""
+msgstr "Marlgoyle"
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:20
@@ -2983,13 +2980,12 @@ msgstr ""
 #. [race]: id=dryad
 #: Era_of_Myths/units/warg.cfg:5
 msgid "race^Dryad"
-msgstr ""
+msgstr "Nymphe"
 
 #. [race]: id=dryad
 #: Era_of_Myths/units/warg.cfg:6
-#, fuzzy
 msgid " race^Dryads"
-msgstr "Warg"
+msgstr "Nymphen"
 
 #. [race]: id=warg
 #: Era_of_Myths/units/warg.cfg:20
@@ -3060,7 +3056,6 @@ msgstr ""
 
 #. [unit_type]: id=EOM_Wolfling, race=human
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:7
-#, fuzzy
 msgid "Wolfling"
 msgstr "Wolfling"
 
@@ -3216,7 +3211,7 @@ msgid ""
 "with strange powers. These warg are marked with white fur, and wield swords "
 "like slivers of the moon."
 msgstr ""
-"Die Warg erehren den Mond, und manchmal segnet der Mond eifrige Krieger mit "
+"Die Warg verehren den Mond, und manchmal segnet der Mond eifrige Krieger mit "
 "seltsamer Macht, Diese Warg sind durch weißes Fell gezeichnet, und ihre "
 "Schwerter sind wie Mondschein."
 
@@ -3378,7 +3373,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Water_Dryad, race=dryad
 #: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:5
 msgid "Water Dryad"
-msgstr "Wasserfrau"
+msgstr "Wasserdame"
 
 #. [unit_type]: id=EOM_Water_Nymph, race=dryad
 #. [unit_type]: id=EOM_Water_Shyde, race=dryad
@@ -3391,6 +3386,10 @@ msgid ""
 "are not combatitive in nature and instead will control surrounding plant "
 "life to ensnare her enemies and slow them down until help arrives."
 msgstr ""
+"In jedem Feuchtgebiet ist eine Nymphe anzutreffen, die dies ihre Heimat "
+"nennt. Nymphen sind nicht sehr kriegerisch veranlagt, lieber verzaubern sie "
+"umgebene Pflanzen, dass ihre Feinde sich verheddern und gehalten werden, bis "
+"Hilfe eintrifft."
 
 #. [unit_type]: id=EOM_Water_Nymph, race=dryad
 #: Era_of_Myths/units/wargs/g2_Water_Nymph.cfg:5
@@ -3488,7 +3487,7 @@ msgstr "Zermalmen"
 #. [unit_type]: id=EOM_Emissary, race=windsong
 #: Era_of_Myths/units/windsong/a2_Emissary.cfg:5
 msgid "female^Emissary"
-msgstr "Gesandte"
+msgstr "Überbringerin"
 
 #. [unit_type]: id=EOM_Emissary, race=windsong
 #: Era_of_Myths/units/windsong/a2_Emissary.cfg:21
@@ -3501,12 +3500,12 @@ msgid ""
 "to slash at enemies in a flurry of charges. Such tactics are dangerous, so "
 "Emissaries prefer to use their original weapons if possible."
 msgstr ""
-"Kurierinnen, die sich als interligent und zuverlässig erweisen, werden in "
-"die Position der Gesandten berufen. Sie werden mit dem Transport von "
+"Kurierinnen, die sich als intelligent und zuverlässig erweisen, werden in "
+"die Position der Überbringerinnen berufen. Sie werden mit dem Transport von "
 "Dokumenten, wertvollen Talismanen und gar Ratsfrauen betraut. Ohne die "
-"körperliche und geistige Last schwerer Güter ist eine Gesandte sehr viel "
-"agiler. Dies erlaubt ihr, mit einem Schwert Feinde mit unzähligen flinken "
-"Streichen aufzuschlitzen. Da diese Taktik allerdings gefährlich ist, "
+"körperliche und geistige Last schwerer Güter ist eine Überbringerin sehr "
+"viel agiler. Dies erlaubt ihr, mit einem Schwert Feinde mit unzähligen "
+"flinken Streichen aufzuschlitzen. Da diese Taktik allerdings gefährlich ist, "
 "benutzen sie ihre gewohnten Waffen, soweit möglich."
 
 #. [unit_type]: id=EOM_Reaver, race=windsong
@@ -3585,7 +3584,7 @@ msgid ""
 "out' of reality."
 msgstr ""
 "In einer von der übrigen Welt längst vergessenen Zeit, da die "
-"Windflüsterinnen erstmal ihre Mahnwache aufnahmen, begriffen sie, dass ihre "
+"Windflüsterinnen erstmal ihre Wache aufnahmen, begriffen sie, dass ihre "
 "Pflicht des Ausgleichs schwer zu erfüllen war, ohne selbst auf gefährliche "
 "Stärke anzuwachsen. Die Windflüsterinnen brauchten Diener, die zahllos in "
 "Zeiten des Ausgleichs und wenige in Zeiten der Verborgenheit sein konnten. "
@@ -3679,7 +3678,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Envoy, race=windsong
 #: Era_of_Myths/units/windsong/c2_Envoy.cfg:5
 msgid "female^Envoy"
-msgstr "Botschafterin"
+msgstr "Gesandte"
 
 #. [unit_type]: id=EOM_Envoy, race=windsong
 #: Era_of_Myths/units/windsong/c2_Envoy.cfg:25
@@ -3701,13 +3700,13 @@ msgid ""
 msgstr ""
 "Die Windflüsterinnen wissen, wie gefährlich voreiliges Handeln sein kann. "
 "Ihrer begrenzten Ressourcen wegen kann jeder Fehler das Ende der Ewigen "
-"Wache bedeuten, Um sich davor zu bewahren, richten eingie Weberinnen ihre "
+"Wache bedeuten, Um sich davor zu bewahren, richten einige Weberinnen ihre "
 "Aufmerksamkeit auf die Himmelsscherben und erlernen, sich wie diese von der "
 "Wirklichkeit zu trennen. Sobald sie in der Essenz eingetaucht sind, können "
-"sie weite Strecken genau wie die Scherben zurücklegen. Der Rat hängt vin "
-"diesen Botschafterinnen ab, um Operationen durchzuführen oder als "
-"Feldberater in der Not, Diese erstaunliche Macht geht allerdings auf Kosten "
-"anderer Studiengebiete wie der Heil- oder der Kriegskunst, sodass sie zwar "
+"sie weite Strecken genau wie die Scherben zurücklegen. Der Rat hängt von "
+"diesen Gesandten ab, um Operationen durchzuführen oder als Feldberater in "
+"der Not, Diese erstaunliche Macht geht allerdings auf Kosten anderer "
+"Studiengebiete wie der Heil- oder der Kriegskunst, sodass sie zwar "
 "Feldagenten beraten und koordinieren können, sie jedoch nicht in die "
 "Schlacht führen oder danach heilen. Zudem ist es gefährlich, länger als "
 "einen Augenblick in der Essenz zu verweilen, weshalb Gesandte sich nicht mit "
@@ -3716,7 +3715,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Prophetess, race=windsong
 #: Era_of_Myths/units/windsong/c2_Prophet.cfg:5
 msgid "female^Prophetess"
-msgstr "Seherin"
+msgstr "Prophetin"
 
 #. [unit_type]: id=EOM_Prophetess, race=windsong
 #: Era_of_Myths/units/windsong/c2_Prophet.cfg:25
@@ -3753,8 +3752,8 @@ msgstr ""
 "an, Da die Interpretation aller Strömungen offen ist, sollten Prophetinnen "
 "keine Voraussagen ohne den Rat ihrer Ebenbürtigen treffen.\n"
 "\n"
-"Anders als Botschafterinnen haben Prophetinnen viel Zeit, die Krieges- und "
-"Heilkunst zu erlernen. Sie können nun Gifte behandeln, und der Respekt der "
+"Anders als Gesandte haben Prophetinnen viel Zeit, die Krieges- und Heilkunst "
+"zu erlernen. Sie können nun Gifte behandeln, und der Respekt der "
 "Windflüsterinnen vor den Propheten ist so groß, dass jede ihrer Anweisungen "
 "sofort fraglos befolgt wird."
 
@@ -3765,7 +3764,6 @@ msgstr "Erleuchtete"
 
 #. [unit_type]: id=EOM_Ascendant, race=windsong
 #: Era_of_Myths/units/windsong/c3_Ascendant.cfg:28
-#, fuzzy
 msgid ""
 "Few Weavers and Prophets reach the rank of Ascendant. Not just because of "
 "the difficult in reaching this goal, but also because of the danger and "
@@ -3791,25 +3789,25 @@ msgid ""
 "turn). They know powerful healing ciphers and those around them revere them, "
 "obeying them with fervor."
 msgstr ""
-"Wenige Weberinnen und Prophetinnen schaffen die Erleuchtung. Nicht nur, "
-"dadieses Ziel schwer zu erreichen ist, sondern auch wegen der nötigen "
-"Gefahren und Opfer. Der Pfad zur Erleuchtung beginnt, wenn sich eine Weberin "
-"an ihren Geistergefährten bindet, wgenau wie dieser sich bei ihrer Geburt an "
-"sie band. Ein erfolgreicher Bund wird ihren Körper langsam im Verlauf von "
-"zwei Jahren in die Essenz ziehen. Versagt die Erleuchtung Suchende, stet ihr "
-"ein langsamer Tod bevor. Da der Geist  über allem anderen um ihr wohl bemüht "
+"Wenige Weberinnen und Prophetinnen schaffen die Erleuchtung. Nicht nur, da "
+"dieses Ziel schwer zu erreichen ist, sondern auch wegen der nötigen Gefahren "
+"und Opfer. Der Pfad zur Erleuchtung beginnt, wenn sich eine Weberin an ihren "
+"Geistergefährten bindet, wgenau wie dieser sich bei ihrer Geburt an sie "
+"band. Ein erfolgreicher Bund wird ihren Körper langsam im Verlauf von zwei "
+"Jahren in die Essenz ziehen. Versagt die Erleuchtung Suchende, steht ihr ein "
+"langsamer Tod bevor. Da der Geist  über allem anderen um ihr wohl bemüht "
 "ist, wird er den Bund verweigern, bis sie ihn davon überzeugen kann, dass "
 "sie stark genug für die Erleuchtung ist. Im Erfolgsfall verwandelt sich ihr "
 "physischer Körper in die Essenz selbst, wodurch sie Unsterblichkeit und "
 "große, wenn auch nicht unfehlbare die Natur der Ereignisse, jetzige wie "
-"zukünftige, erlangt.\n"
+"künftige, erlangt.\n"
 "\n"
 "Jede, die diesen Höhepunkt des Glyphenwebens erreicht, wird automatisch "
 "Vollmitglied des Rates. Auch wenn die meisten Erleuchteten Prophetinnen "
-"waren, können theoretisch auch Botschafterinnen und Herolde Erleuchtung "
-"finden. Botschafterinnen haben allerdings erfahren, was die Essenz zu "
-"betreten bedeutet, und die Idee, in diese ungeschützt zu gelangen, verstört "
-"das Selbstvertrauen selbst der tapfersten Frau."
+"waren, können theoretisch auch Gesandte und Herolde Erleuchtung finden. "
+"Gesandte haben allerdings erfahren, was die Essenz zu betreten bedeutet, und "
+"die Idee, in diese ungeschützt zu gelangen, verstört das Selbstvertrauen "
+"selbst der tapfersten Frau."
 
 #. [unit_type]: id=EOM_Windsong_Herald, race=windsong
 #: Era_of_Myths/units/windsong/c3_Herald.cfg:26
@@ -3829,11 +3827,11 @@ msgstr ""
 "Als Kinder lernen Weberinnen, mit ihren Geistergefährten durch eine "
 "besondere Glyphe zu kommunizieren, Der Geist wird stets nur dem Mädchen "
 "antworten, an das er sich band, und hat einen sehr eingeschränkten Verstand. "
-"Als Botschafterinnen lernte die Weberin, wie nützlich dieser Geist sein "
-"kann, Jene, die lange Stunden dem Verständnis und der Ausbildung ihres "
-"Geistergefährten widmen, erhalten einen mächtigen Verbündeten, der ihren "
-"Bogen leitet und ihre Säuberungen stärkt. Die besten werden in den Eliterang "
-"der Herolde erhoben, die direkt dem Rat verantwortlich sind."
+"Als Gesandte lernte die Weberin, wie nützlich dieser Geist sein kann, Jene, "
+"die lange Stunden dem Verständnis und der Ausbildung ihres Geistergefährten "
+"widmen, erhalten einen mächtigen Verbündeten, der ihren Bogen leitet und "
+"ihre Säuberungen stärkt. Die besten werden in den Eliterang der Herolde "
+"erhoben, die direkt dem Rat verantwortlich sind."
 
 #. [unit_type]: id=EOM_Seeker, race=windsong
 #: Era_of_Myths/units/windsong/d1_Seeker.cfg:5
@@ -4124,9 +4122,9 @@ msgstr ""
 "Die Schreiberinnen de rWindflüsterinnen sind jene, welche die riesigen "
 "Büchereien in der Basis studieren und ergänzen,\n"
 "\n"
-"Nun, da der Große Ausgleich bevorsteht, haben sie sich als föhige Kämpfer "
-"erwiesen, indem sie jene uralte– und sehr effektive– Magieform einsetzen, "
-"die als die Glyphe bekannt ist."
+"Nun, da der Große Ausgleich bevorsteht, haben sie sich als fähige "
+"Kämpferinnen erwiesen, indem sie jene uralte– und sehr effektive– Magieform "
+"einsetzen, die als die Glyphe bekannt ist."
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/windsong/f2_Savant.cfg:34
