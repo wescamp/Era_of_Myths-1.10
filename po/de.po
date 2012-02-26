@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2011-09-05 21:13-0400\n"
+"POT-Creation-Date: 2012-02-26 17:20+0100\n"
 "PO-Revision-Date: 2011-07-16 15:07+0200\n"
 "Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
@@ -44,66 +44,66 @@ msgstr "Rollenspiel-Mythen"
 msgid "Default + EoM"
 msgstr "Standard und Mythen"
 
-#. [multiplayer_side]: id=POWER_celestials, type=EOM_Herald
 #. [multiplayer_side]: id=EOM_celestials, type=EOM_Claimant
 #. [multiplayer_side]: id=RECRUIT_celestials, type=EOM_Crusader
-#: Era_of_Myths/factions/celestials-POWER.cfg:5
+#. [multiplayer_side]: id=POWER_celestials, type=EOM_Herald
 #: Era_of_Myths/factions/celestials-EOM.cfg:5
 #: Era_of_Myths/factions/celestials-RECRUIT.cfg:5
+#: Era_of_Myths/factions/celestials-POWER.cfg:5
 msgid "Celestials"
 msgstr "Himmlische Heerscharen"
 
-#. [multiplayer_side]: id=POWER_devlings, type=EOM_Offenders
-#. [multiplayer_side]: id=RECRUIT_devlings, type=EOM_Devling Spikers
 #. [multiplayer_side]: id=EOM_devlings, type=EOM_Blasphemists
-#: Era_of_Myths/factions/devlings-POWER.cfg:5
-#: Era_of_Myths/factions/devlings-RECRUIT.cfg:5
+#. [multiplayer_side]: id=RECRUIT_devlings, type=EOM_Devling Spikers
+#. [multiplayer_side]: id=POWER_devlings, type=EOM_Offenders
 #: Era_of_Myths/factions/devlings-EOM.cfg:5
+#: Era_of_Myths/factions/devlings-RECRUIT.cfg:5
+#: Era_of_Myths/factions/devlings-POWER.cfg:5
 msgid "Devlings"
 msgstr "Teufelchen"
 
+#. [multiplayer_side]: id=POWER_elementals, type=EOM_Fire_Ghost
 #. [multiplayer_side]: id=RECRUIT_elementals, type=EOM_Water
 #. [multiplayer_side]: id=EOM_elementals, type=EOM_Rock_Golem
-#. [multiplayer_side]: id=POWER_elementals, type=EOM_Fire_Ghost
+#: Era_of_Myths/factions/elementals-POWER.cfg:5
 #: Era_of_Myths/factions/elementals-RECRUIT.cfg:5
 #: Era_of_Myths/factions/elementals-EOM.cfg:5
-#: Era_of_Myths/factions/elementals-POWER.cfg:5
 msgid "Elementals"
 msgstr "Elementargeister"
 
-#. [multiplayer_side]: id=EOM_therians, type=EOM_Aura_Monk
-#. [multiplayer_side]: id=RECRUIT_therians, type=EOM_Leopard_Therian
 #. [multiplayer_side]: id=POWER_therians, type=EOM_Panther
-#: Era_of_Myths/factions/therians-EOM.cfg:5
-#: Era_of_Myths/factions/therians-RECRUIT.cfg:5
+#. [multiplayer_side]: id=RECRUIT_therians, type=EOM_Leopard_Therian
+#. [multiplayer_side]: id=EOM_therians, type=EOM_Aura_Monk
 #: Era_of_Myths/factions/therians-POWER.cfg:5
+#: Era_of_Myths/factions/therians-RECRUIT.cfg:5
+#: Era_of_Myths/factions/therians-EOM.cfg:5
 msgid "Therian"
 msgstr "Therianer"
 
 #. [multiplayer_side]: id=RECRUIT_vampires, type=EOM_Blood_Apprentice
-#. [multiplayer_side]: id=EOM_vampires, type=EOM_Noble
 #. [multiplayer_side]: id=POWER_vampires, type=EOM_Sire
+#. [multiplayer_side]: id=EOM_vampires, type=EOM_Noble
 #: Era_of_Myths/factions/vampires-RECRUIT.cfg:5
-#: Era_of_Myths/factions/vampires-EOM.cfg:5
 #: Era_of_Myths/factions/vampires-POWER.cfg:5
+#: Era_of_Myths/factions/vampires-EOM.cfg:5
 msgid "Vampires"
 msgstr "Vampire"
 
-#. [multiplayer_side]: id=RECRUIT_werewolves, type=EOM_Warrior_Wolf
 #. [multiplayer_side]: id=EOM_wargs, type=EOM_Warrior_Warg
+#. [multiplayer_side]: id=RECRUIT_werewolves, type=EOM_Warrior_Wolf
 #. [multiplayer_side]: id=POWER_wargs, type=EOM_Moon_Blade
-#: Era_of_Myths/factions/wargs-RECRUIT.cfg:5
 #: Era_of_Myths/factions/wargs-EOM.cfg:5
+#: Era_of_Myths/factions/wargs-RECRUIT.cfg:5
 #: Era_of_Myths/factions/wargs-POWER.cfg:5
 msgid "The Warg"
 msgstr "Die Warg"
 
-#. [multiplayer_side]: id=EOM_windsong, type=EOM_Ascendant
 #. [multiplayer_side]: id=Windsong, type=EOM_Weaver
 #. [multiplayer_side]: id=EOM_windsong, type=EOM_Prophetess
-#: Era_of_Myths/factions/windsong-POWER.cfg:5
+#. [multiplayer_side]: id=EOM_windsong, type=EOM_Ascendant
 #: Era_of_Myths/factions/windsong-RECRUIT.cfg:5
 #: Era_of_Myths/factions/windsong-EOM.cfg:5
+#: Era_of_Myths/factions/windsong-POWER.cfg:5
 msgid "Windsong"
 msgstr "Windflüsterinnen"
 
@@ -113,7 +113,7 @@ msgid "medic"
 msgstr "Entgiftung"
 
 #. [heals]: id=healing
-#: Era_of_Myths/macros/abilities.cfg:13
+#: Era_of_Myths/macros/abilities.cfg:12
 msgid ""
 "Medic:\n"
 "Allows the unit to prevent poison from taking effect on adjacent units as "
@@ -128,7 +128,7 @@ msgid "medic+"
 msgstr "Gegengift"
 
 #. [heals]: id=medicplus
-#: Era_of_Myths/macros/abilities.cfg:28
+#: Era_of_Myths/macros/abilities.cfg:27
 msgid ""
 "Medic+:\n"
 "Allows the unit to remove poison from adjacent units."
@@ -140,7 +140,7 @@ msgid "medic++"
 msgstr "Sanitäter"
 
 #. [heals]: id=medic2plus
-#: Era_of_Myths/macros/abilities.cfg:46
+#: Era_of_Myths/macros/abilities.cfg:43
 msgid ""
 "Medic++:\n"
 "Allows the unit to heal adjacent friendly units at the beginning of each "
@@ -155,7 +155,7 @@ msgid "self-med"
 msgstr "Selbstentgiftung"
 
 #. [regenerate]: id=selfmed
-#: Era_of_Myths/macros/abilities.cfg:61
+#: Era_of_Myths/macros/abilities.cfg:60
 msgid ""
 "Self-med:\n"
 "The unit will slow the effects of poison on itself."
@@ -167,7 +167,7 @@ msgid "self-med+"
 msgstr "Antidot"
 
 #. [regenerate]: id=selfmedplus
-#: Era_of_Myths/macros/abilities.cfg:73
+#: Era_of_Myths/macros/abilities.cfg:72
 msgid ""
 "Self-med+:\n"
 "The unit will cure the effects of poison on itself."
@@ -179,7 +179,7 @@ msgid "dauntless"
 msgstr "Unerschrocken"
 
 #. [resistance]: id=dauntless
-#: Era_of_Myths/macros/abilities.cfg:85
+#: Era_of_Myths/macros/abilities.cfg:84
 msgid ""
 "Dauntless:\n"
 "While attacking, this unit's resistances are doubled, up to a maximum of 50. "
@@ -194,7 +194,7 @@ msgid "heal+3"
 msgstr "Heilung +3"
 
 #. [heals]: id=healing
-#: Era_of_Myths/macros/abilities.cfg:103
+#: Era_of_Myths/macros/abilities.cfg:102
 msgid ""
 "Heal+3:\n"
 "This unit will heal allies by 3 hp at the start of it's turn. Will slow "
@@ -209,7 +209,7 @@ msgid "foresthome"
 msgstr "Waldgeist"
 
 #. [regenerate]: id=healing
-#: Era_of_Myths/macros/abilities.cfg:123
+#: Era_of_Myths/macros/abilities.cfg:122
 msgid ""
 "Foresthome:\n"
 "This unit will regenerate 3 hp when in forest."
@@ -221,7 +221,7 @@ msgid "waterhome"
 msgstr "Wassergeist"
 
 #. [regenerate]: id=healing
-#: Era_of_Myths/macros/abilities.cfg:139
+#: Era_of_Myths/macros/abilities.cfg:138
 msgid ""
 "Waterhome:\n"
 "This unit will regenerate 3 hp when in deep or shallow water."
@@ -233,7 +233,7 @@ msgid "deserthome"
 msgstr "Wüstengeist"
 
 #. [regenerate]: id=healing
-#: Era_of_Myths/macros/abilities.cfg:155
+#: Era_of_Myths/macros/abilities.cfg:154
 msgid ""
 "Deserthome:\n"
 "This unit will regenerate 3 hp when in desert or sand."
@@ -245,7 +245,7 @@ msgid "mountainhome"
 msgstr "Berggeist"
 
 #. [regenerate]: id=healing
-#: Era_of_Myths/macros/abilities.cfg:171
+#: Era_of_Myths/macros/abilities.cfg:170
 msgid ""
 "Mountainhome:\n"
 "This unit will regenerate 3 hp when on mountains."
@@ -257,7 +257,7 @@ msgid "inspire"
 msgstr "Inspiration"
 
 #. [leadership]: id=leadership
-#: Era_of_Myths/macros/abilities.cfg:185
+#: Era_of_Myths/macros/abilities.cfg:182
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
@@ -283,7 +283,7 @@ msgid "ferocious"
 msgstr "Ungestüm"
 
 #. [chance_to_hit]: id=ferocious
-#: Era_of_Myths/macros/ferocious.cfg:9
+#: Era_of_Myths/macros/ferocious.cfg:8
 msgid ""
 "Ferocious:\n"
 "This unit battles with such vigor that it always has at least a 60% chance "
@@ -476,7 +476,7 @@ msgid "massive strike"
 msgstr ""
 
 #. [chance_to_hit]: id=massivestrike
-#: Era_of_Myths/macros/specials.cfg:11
+#: Era_of_Myths/macros/specials.cfg:10
 msgid ""
 "Massive strike:\n"
 "This attack always has a 20% chance to hit."
@@ -488,7 +488,7 @@ msgid "unholybane"
 msgstr ""
 
 #. [damage]: id=udbane
-#: Era_of_Myths/macros/specials.cfg:27
+#: Era_of_Myths/macros/specials.cfg:22
 msgid ""
 "Unholybane:\n"
 "This attack cuts at the tie between an abomination and its corrupted source "
@@ -505,7 +505,7 @@ msgid "counter"
 msgstr "Gegenschlag"
 
 #. [chance_to_hit]: id=counter
-#: Era_of_Myths/macros/specials.cfg:58 Era_of_Myths/macros/specials.cfg:61
+#: Era_of_Myths/macros/specials.cfg:57 Era_of_Myths/macros/specials.cfg:60
 msgid ""
 "Counter:\n"
 "When used defensively, this attack always has at least a 60% chance to hit."
@@ -726,9 +726,9 @@ msgstr ""
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:32
-#: Era_of_Myths/units/celestials/a2_Quester.cfg:38
 #: Era_of_Myths/units/celestials/a1_Crusader.cfg:32
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:33
+#: Era_of_Myths/units/celestials/a2_Quester.cfg:38
 msgid "blessed sword"
 msgstr "Gesegnetes Schwert"
 
@@ -770,14 +770,14 @@ msgstr ""
 "um ihre Gegner zu stoßen und zu verlangsamen"
 
 #. [attack]: type=fire
-#: Era_of_Myths/units/celestials/a2_Protector.cfg:32
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:33
+#: Era_of_Myths/units/celestials/a2_Protector.cfg:32
 msgid "enchanted sword"
 msgstr "Verzaubertes Schwert"
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/celestials/a2_Protector.cfg:41
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:42
+#: Era_of_Myths/units/celestials/a2_Protector.cfg:41
 msgid "shield bash"
 msgstr "Schildstoß"
 
@@ -904,9 +904,9 @@ msgstr ""
 "gewisse Verehrung."
 
 #. [attack]: type=arcane
-#: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:75
-#: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:76
 #: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:77
+#: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:76
+#: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:75
 msgid "shock of light"
 msgstr "Lichtblitz"
 
@@ -1005,10 +1005,10 @@ msgstr ""
 "Meister des Schwertes und der Worte. Sie verkünden ihren Folgern die "
 "Botschaft der Hoffnung, die Botschaft des Todes ihren Feinden."
 
-#. [female]
 #. [unit_type]: id=EOM_Windsong_Herald, race=windsong
-#: Era_of_Myths/units/celestials/d3_Herald.cfg:65
+#. [female]
 #: Era_of_Myths/units/windsong/c3_Herald.cfg:5
+#: Era_of_Myths/units/celestials/d3_Herald.cfg:65
 msgid "female^Herald"
 msgstr "Heroldin"
 
@@ -1083,9 +1083,9 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:39
-#: Era_of_Myths/units/celestials/e2_Mystic.cfg:38
-#: Era_of_Myths/units/celestials/e3_Prophet.cfg:39
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:38
+#: Era_of_Myths/units/celestials/e3_Prophet.cfg:39
+#: Era_of_Myths/units/celestials/e2_Mystic.cfg:38
 msgid "shock"
 msgstr "Strahlungsblitz"
 
@@ -1106,8 +1106,8 @@ msgstr ""
 "Fertigkeiten ermöglichen ihnen, der Armee auf völlig neue Weise zu helfen."
 
 #. [attack]: type=arcane
-#: Era_of_Myths/units/celestials/e2_Mystic.cfg:50
 #: Era_of_Myths/units/celestials/e3_Prophet.cfg:51
+#: Era_of_Myths/units/celestials/e2_Mystic.cfg:50
 msgid "celestial glaive"
 msgstr "Himmelslanze"
 
@@ -1167,15 +1167,15 @@ msgstr ""
 "ihnen kein Rang zugestanden wird, verweigert man ihnen nicht den Kampf."
 
 #. [attack]: type=blade
-#: Era_of_Myths/units/celestials/f2_Militant.cfg:29
 #: Era_of_Myths/units/celestials/f3_Sicarius.cfg:32
+#: Era_of_Myths/units/celestials/f2_Militant.cfg:29
 #: Era_of_Myths/units/celestials/f1_Zealot.cfg:29
 msgid "chakram slice"
 msgstr "Chakram"
 
 #. [attack]: type=blade
-#: Era_of_Myths/units/celestials/f2_Militant.cfg:38
 #: Era_of_Myths/units/celestials/f3_Sicarius.cfg:41
+#: Era_of_Myths/units/celestials/f2_Militant.cfg:38
 #: Era_of_Myths/units/celestials/f1_Zealot.cfg:38
 msgid "chakram throw"
 msgstr "Chakram"
@@ -1264,16 +1264,16 @@ msgstr ""
 "Manche Teufelchen sind etwas anders, sie haben Flügel und spucken Feuer."
 
 #. [attack]: type=blade
+#: Era_of_Myths/units/devlings/a3_Attackers.cfg:26
 #: Era_of_Myths/units/devlings/a2_Flyers.cfg:25
 #: Era_of_Myths/units/devlings/a1_Flappers.cfg:29
-#: Era_of_Myths/units/devlings/a3_Attackers.cfg:26
 msgid "mini-glaive"
 msgstr "Minigleve"
 
 #. [attack]: type=fire
+#: Era_of_Myths/units/devlings/a3_Attackers.cfg:35
 #: Era_of_Myths/units/devlings/a2_Flyers.cfg:34
 #: Era_of_Myths/units/devlings/a1_Flappers.cfg:38
-#: Era_of_Myths/units/devlings/a3_Attackers.cfg:35
 msgid "breath"
 msgstr "Atem"
 
@@ -1323,9 +1323,9 @@ msgid "nail 'em"
 msgstr "Stecht sie!"
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/devlings/b3_Staplers.cfg:55
-#: Era_of_Myths/units/devlings/b2_Spikers.cfg:54
 #: Era_of_Myths/units/devlings/b1_Nailers.cfg:60
+#: Era_of_Myths/units/devlings/b2_Spikers.cfg:54
+#: Era_of_Myths/units/devlings/b3_Staplers.cfg:55
 msgid "club 'em"
 msgstr "Haut sie!"
 
@@ -1385,9 +1385,9 @@ msgstr ""
 "Zähigkeit"
 
 #. [attack]: type=impact
+#: Era_of_Myths/units/devlings/c2_Warrior.cfg:25
 #: Era_of_Myths/units/devlings/c3_Hero.cfg:26
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:25
-#: Era_of_Myths/units/devlings/c2_Warrior.cfg:25
 msgid "bash"
 msgstr "Hieb"
 
@@ -1511,9 +1511,9 @@ msgstr ""
 "schmutzigen WOrtschatz. Ihre Zaubersprüche sind oft ziemlich derb."
 
 #. [attack]: type=impact
+#: Era_of_Myths/units/devlings/e3_Offenders.cfg:26
 #: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:26
 #: Era_of_Myths/units/devlings/e1_Cursers.cfg:32
-#: Era_of_Myths/units/devlings/e3_Offenders.cfg:26
 #: Era_of_Myths/units/devlings/e4_Abusers.cfg:27
 msgid "kick"
 msgstr "Tritt"
@@ -1609,9 +1609,9 @@ msgstr ""
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/elementals/a2_Living_Furnace.cfg:33
-#: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:36
-#: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:34
 #: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:34
+#: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:34
+#: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:36
 msgid "fire claws"
 msgstr "Feuerkrallen"
 
@@ -1701,14 +1701,14 @@ msgstr ""
 "zu Donnervögeln heranreifen."
 
 #. [attack]: type=pierce
-#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:36
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:36
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:36
 msgid "beak"
 msgstr "Schnabel"
 
 #. [attack]: type=fire
-#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:48
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:49
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:48
 msgid "thunderbolt"
 msgstr "Donnerkeil"
 
@@ -1849,8 +1849,8 @@ msgstr ""
 "hat keine Zeit, sich um seine Ver-teidigungzu kümmern."
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:34
 #: Era_of_Myths/units/elementals/d2_Undine.cfg:34
+#: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:34
 #: Era_of_Myths/units/elementals/d3_Tempest_Spirit.cfg:35
 msgid "water punch"
 msgstr "Wasserschlag"
@@ -1938,8 +1938,8 @@ msgstr ""
 "AnwesenheitVerwundete heilen kann."
 
 #. [attack]: type=pierce
-#: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:41
 #: Era_of_Myths/units/elementals/e1_Unicorn.cfg:40
+#: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:41
 msgid "horn"
 msgstr "Horn"
 
@@ -2048,14 +2048,14 @@ msgstr ""
 msgid "Falcon Therian"
 msgstr "Falkentherianer"
 
+#. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #. [unit_type]: id=EOM_Prairie_Falcon, race=therian
 #. [unit_type]: id=EOM_Falcon, race=therian
-#. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #. [unit_type]: id=EOM_Peregrine_Falcon, race=therian
-#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:20
-#: Era_of_Myths/units/therians/a1_Falcon.cfg:20
-#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:21
-#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:21
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:19
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:18
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:18
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:19
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -2077,23 +2077,23 @@ msgstr ""
 "sind aber keien sonderlich guten Kämpfer."
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:36
-#: Era_of_Myths/units/therians/b2_Wildcat.cfg:50
-#: Era_of_Myths/units/therians/c1_Serpent.cfg:40
-#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:55
-#: Era_of_Myths/units/therians/b1_Cat.cfg:41
-#: Era_of_Myths/units/therians/a1_Falcon.cfg:36
-#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:67
-#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:58
-#: Era_of_Myths/units/therians/b3_Panther.cfg:54
-#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:37
-#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:42
-#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:37
-#: Era_of_Myths/units/therians/b3_Tiger.cfg:56
-#: Era_of_Myths/units/therians/c2_Cobra.cfg:53
-#: Era_of_Myths/units/wargs/a3_Wolfling.cfg:45
 #: Era_of_Myths/units/wargs/a2_Changeling.cfg:44
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:44
+#: Era_of_Myths/units/wargs/a3_Wolfling.cfg:45
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:37
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:36
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:56
+#: Era_of_Myths/units/therians/b3_Panther.cfg:54
+#: Era_of_Myths/units/therians/b1_Cat.cfg:41
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:67
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:36
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:50
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:53
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:55
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:37
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:58
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:42
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:40
 msgid "aura wave"
 msgstr "Aurawelle"
 
@@ -2117,14 +2117,14 @@ msgstr "Wanderfalke"
 msgid "Cat Therian"
 msgstr "Katzentherianer"
 
-#. [unit_type]: id=EOM_Wildcat, race=therian
-#. [unit_type]: id=EOM_Cat, race=therian
-#. [unit_type]: id=EOM_Panther, race=therian
 #. [unit_type]: id=EOM_Tiger, race=therian
-#: Era_of_Myths/units/therians/b2_Wildcat.cfg:20
-#: Era_of_Myths/units/therians/b1_Cat.cfg:20
-#: Era_of_Myths/units/therians/b3_Panther.cfg:21
-#: Era_of_Myths/units/therians/b3_Tiger.cfg:22
+#. [unit_type]: id=EOM_Panther, race=therian
+#. [unit_type]: id=EOM_Cat, race=therian
+#. [unit_type]: id=EOM_Wildcat, race=therian
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:20
+#: Era_of_Myths/units/therians/b3_Panther.cfg:19
+#: Era_of_Myths/units/therians/b1_Cat.cfg:18
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:18
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -2167,18 +2167,18 @@ msgstr "Leopardentherianer"
 msgid "Serpent Therian"
 msgstr "Schlangentherianer"
 
-#. [unit_type]: id=EOM_Serpent, race=therian
-#. [unit_type]: id=EOM_King_Cobra, race=therian
 #. [unit_type]: id=EOM_Spitting_Cobra, race=therian
+#. [unit_type]: id=EOM_Cobra, race=therian
+#. [unit_type]: id=EOM_King_Cobra, race=therian
 #. [unit_type]: id=EOM_Sandskipper, race=therian
 #. [unit_type]: id=EOM_Sea_Snake, race=therian
-#. [unit_type]: id=EOM_Cobra, race=therian
-#: Era_of_Myths/units/therians/c1_Serpent.cfg:20
-#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:21
-#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:22
-#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:21
-#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:21
-#: Era_of_Myths/units/therians/c2_Cobra.cfg:20
+#. [unit_type]: id=EOM_Serpent, race=therian
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:20
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:18
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:19
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:19
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:19
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:18
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -2295,10 +2295,10 @@ msgstr ""
 msgid "Therian Guard"
 msgstr "Therianischer Abwehrer"
 
-#. [unit_type]: id=EOM_Therian_Defender, race=therian
 #. [unit_type]: id=EOM_Therian_Guard, race=therian
-#: Era_of_Myths/units/therians/e2_Defender.cfg:24
+#. [unit_type]: id=EOM_Therian_Defender, race=therian
 #: Era_of_Myths/units/therians/e1_Guard.cfg:23
+#: Era_of_Myths/units/therians/e2_Defender.cfg:24
 msgid ""
 "Therian are peaceful and spiritual by nature, but must protect themselves "
 "nonetheless. With little ore at their disposal, the Therian make due with "
@@ -2312,8 +2312,8 @@ msgstr ""
 "Holz, tragen Wachen viele Speere und scheuen nicht, sie zu werfen."
 
 #. [attack]: type=pierce
-#: Era_of_Myths/units/therians/e2_Defender.cfg:40
 #: Era_of_Myths/units/therians/e1_Guard.cfg:39
+#: Era_of_Myths/units/therians/e2_Defender.cfg:40
 msgid "spear throw"
 msgstr "Wurfspieß"
 
@@ -2391,20 +2391,20 @@ msgstr ""
 "Spezialisten."
 
 #. [attack]: type=fire
-#: Era_of_Myths/units/therians/x3_Priest.cfg:43
-#: Era_of_Myths/units/therians/x3_Master.cfg:40
-#: Era_of_Myths/units/therians/x2_Shaman.cfg:42
-#: Era_of_Myths/units/therians/x2_Mage.cfg:39
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:39
+#: Era_of_Myths/units/therians/x3_Master.cfg:40
+#: Era_of_Myths/units/therians/x3_Priest.cfg:43
+#: Era_of_Myths/units/therians/x2_Mage.cfg:39
+#: Era_of_Myths/units/therians/x2_Shaman.cfg:42
 msgid "burn"
 msgstr "Brand"
 
 #. [attack]: type=cold
-#: Era_of_Myths/units/therians/x3_Priest.cfg:55
-#: Era_of_Myths/units/therians/x3_Master.cfg:52
-#: Era_of_Myths/units/therians/x2_Shaman.cfg:54
-#: Era_of_Myths/units/therians/x2_Mage.cfg:51
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:51
+#: Era_of_Myths/units/therians/x3_Master.cfg:52
+#: Era_of_Myths/units/therians/x3_Priest.cfg:55
+#: Era_of_Myths/units/therians/x2_Mage.cfg:51
+#: Era_of_Myths/units/therians/x2_Shaman.cfg:54
 msgid "freeze"
 msgstr "Frost"
 
@@ -2553,10 +2553,10 @@ msgstr ""
 "ihre Blutbrand-Magie auch auf ihre Aura anwenden."
 
 #. [attack]: type=fire
-#: Era_of_Myths/units/vampires/a3_Sangel.cfg:38
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:37
-#: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:37
+#: Era_of_Myths/units/vampires/a3_Sangel.cfg:38
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:61
+#: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:37
 msgid "blood boil"
 msgstr "Blutbrand"
 
@@ -2759,8 +2759,8 @@ msgstr ""
 "Herren einen Zehnt an den Fürsten."
 
 #. [attack]: type=arcane
-#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:53
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:53
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:53
 msgid "dementia gaze"
 msgstr "Böser Blick"
 
@@ -3089,10 +3089,10 @@ msgstr ""
 "auszutricksen"
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/wargs/b1_Stalker.cfg:37
-#: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:39
 #: Era_of_Myths/units/wargs/c2_Rabid_Wolf.cfg:43
+#: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:39
 #: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:37
+#: Era_of_Myths/units/wargs/b1_Stalker.cfg:37
 msgid "tackle"
 msgstr "niederringen"
 
@@ -3375,12 +3375,12 @@ msgstr ""
 msgid "Water Dryad"
 msgstr "Wasserdame"
 
-#. [unit_type]: id=EOM_Water_Nymph, race=dryad
-#. [unit_type]: id=EOM_Water_Dryad, race=dryad
 #. [unit_type]: id=EOM_Water_Shyde, race=dryad
-#: Era_of_Myths/units/wargs/g2_Water_Nymph.cfg:18
-#: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:18
+#. [unit_type]: id=EOM_Water_Dryad, race=dryad
+#. [unit_type]: id=EOM_Water_Nymph, race=dryad
 #: Era_of_Myths/units/wargs/g3_Water_Shyde.cfg:19
+#: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:18
+#: Era_of_Myths/units/wargs/g2_Water_Nymph.cfg:18
 msgid ""
 "In any wetland area you may find a Dryad calling the place her home. Dryads "
 "are not combatitive in nature and instead will control surrounding plant "
@@ -3477,10 +3477,10 @@ msgstr ""
 "Kontrolle der Schwerkraft verleiht ihre Pfeilen unheimliche Genauigkeit."
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:33
 #: Era_of_Myths/units/windsong/a1_Courier.cfg:24
 #: Era_of_Myths/units/windsong/a2_Emissary.cfg:25
 #: Era_of_Myths/units/windsong/a2_Reaver.cfg:27
+#: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:33
 msgid "crush"
 msgstr "Zermalmen"
 
@@ -3560,7 +3560,7 @@ msgid "Sky Shard"
 msgstr "Scherbe des Himmels"
 
 #. [unit_type]: id=EOM_Sky_Shard, race=abstraction
-#: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:35
+#: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:33
 msgid ""
 "In an age long forgotten by the rest of the world, when the Windsong first "
 "took up their watch, they realized that it would be impractical to carry out "
@@ -3606,11 +3606,11 @@ msgstr ""
 "Wirklichkeit \"gestoßen\"."
 
 #. [attack]: type=cold
-#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:44
-#: Era_of_Myths/units/windsong/c1_Weaver.cfg:37
 #: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:43
 #: Era_of_Myths/units/windsong/c2_Envoy.cfg:32
 #: Era_of_Myths/units/windsong/c3_Herald.cfg:34
+#: Era_of_Myths/units/windsong/c1_Weaver.cfg:37
+#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:44
 msgid "purge"
 msgstr "Säuberung"
 
@@ -3620,7 +3620,7 @@ msgid "Sky Crystal"
 msgstr "Himmelskristall"
 
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
-#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:36
+#: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:34
 msgid ""
 "A Sky Crystal is a Shard that has emerged further into reality and so has a "
 "firmer physical presence.\n"
@@ -3641,7 +3641,7 @@ msgid "female^Weaver"
 msgstr "Weberin"
 
 #. [unit_type]: id=EOM_Weaver, race=windsong
-#: Era_of_Myths/units/windsong/c1_Weaver.cfg:29
+#: Era_of_Myths/units/windsong/c1_Weaver.cfg:25
 msgid ""
 "While most Windsong are able to devote themselves to only one or two aspects "
 "of the cipher, there are those who are able to access many. When such a "
@@ -3681,7 +3681,7 @@ msgid "female^Envoy"
 msgstr "Gesandte"
 
 #. [unit_type]: id=EOM_Envoy, race=windsong
-#: Era_of_Myths/units/windsong/c2_Envoy.cfg:25
+#: Era_of_Myths/units/windsong/c2_Envoy.cfg:23
 msgid ""
 "The Windsong know how dangerous unadvised action can be. Their limited "
 "resources means that even one mistake could threaten the Eternal Watch. To "
@@ -3718,7 +3718,7 @@ msgid "female^Prophetess"
 msgstr "Prophetin"
 
 #. [unit_type]: id=EOM_Prophetess, race=windsong
-#: Era_of_Myths/units/windsong/c2_Prophet.cfg:25
+#: Era_of_Myths/units/windsong/c2_Prophet.cfg:23
 msgid ""
 "There are many among the Windsong who could successfully lead an army, or "
 "plan a battle, as the council has all children trained to the best of their "
@@ -3763,7 +3763,7 @@ msgid "female^Ascendant"
 msgstr "Erleuchtete"
 
 #. [unit_type]: id=EOM_Ascendant, race=windsong
-#: Era_of_Myths/units/windsong/c3_Ascendant.cfg:28
+#: Era_of_Myths/units/windsong/c3_Ascendant.cfg:24
 msgid ""
 "Few Weavers and Prophets reach the rank of Ascendant. Not just because of "
 "the difficult in reaching this goal, but also because of the danger and "
@@ -3810,7 +3810,7 @@ msgstr ""
 "selbst der tapfersten Frau."
 
 #. [unit_type]: id=EOM_Windsong_Herald, race=windsong
-#: Era_of_Myths/units/windsong/c3_Herald.cfg:26
+#: Era_of_Myths/units/windsong/c3_Herald.cfg:24
 msgid ""
 "As children, Weavers learn to communicate with their accompanying spirit via "
 "a special type of cipher. The spirit will only ever respond to the girl it "
@@ -3839,7 +3839,7 @@ msgid "female^Seeker"
 msgstr "Sucherin"
 
 #. [unit_type]: id=EOM_Seeker, race=windsong
-#: Era_of_Myths/units/windsong/d1_Seeker.cfg:22
+#: Era_of_Myths/units/windsong/d1_Seeker.cfg:20
 msgid ""
 "The name given to the Seekers comes from their role in the legend of the "
 "Windsong's first appearance: they were tasked with searching the world over "
@@ -3856,15 +3856,15 @@ msgstr ""
 "Schnelligkeit und Gewandheit der Sucherinnen sind im Krieg leicht "
 "einzusetzen."
 
-#. [attack]: type=pierce
 #. [attack]: type=blade
-#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:27
-#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:39
-#: Era_of_Myths/units/windsong/d1_Seeker.cfg:29
+#. [attack]: type=pierce
+#: Era_of_Myths/units/windsong/d3_Stormbringer.cfg:36
 #: Era_of_Myths/units/windsong/d3_Farstrider.cfg:28
 #: Era_of_Myths/units/windsong/d3_Farstrider.cfg:40
+#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:27
+#: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:39
 #: Era_of_Myths/units/windsong/d2_Skyrunner.cfg:35
-#: Era_of_Myths/units/windsong/d3_Stormbringer.cfg:36
+#: Era_of_Myths/units/windsong/d1_Seeker.cfg:29
 msgid "polearm"
 msgstr "Stangenwaffe"
 
@@ -3969,7 +3969,7 @@ msgid "female^Gatekeeper"
 msgstr "Hüterin des Tores"
 
 #. [unit_type]: id=EOM_Gatekeeper, race=windsong
-#: Era_of_Myths/units/windsong/e1_Gatekeeper.cfg:37
+#: Era_of_Myths/units/windsong/e1_Gatekeeper.cfg:35
 msgid ""
 "The Windsong Foundation, though hidden far in the arctic northern seas, "
 "still represents too great a target to be left unguarded. The Gatekeepers "
@@ -3996,7 +3996,7 @@ msgid "female^Heretic"
 msgstr "Ketzerin"
 
 #. [unit_type]: id=EOM_Heretic, race=windsong
-#: Era_of_Myths/units/windsong/e2_Heretic.cfg:40
+#: Era_of_Myths/units/windsong/e2_Heretic.cfg:38
 msgid ""
 "The Windsong Council preaches the importance of patience and pacifism, that "
 "one should not give in to anger and instead think carefully about every "
@@ -4025,8 +4025,8 @@ msgstr ""
 "und der Pyrokinese schulen."
 
 #. [attack]: type=fire
-#: Era_of_Myths/units/windsong/e3_Harbinger.cfg:65
 #: Era_of_Myths/units/windsong/e2_Heretic.cfg:53
+#: Era_of_Myths/units/windsong/e3_Harbinger.cfg:65
 msgid "sunburst"
 msgstr "Sonnenbrand"
 
@@ -4110,7 +4110,7 @@ msgid "female^Scribe"
 msgstr "Schreiberin"
 
 #. [unit_type]: id=EOM_Scribe, race=windsong
-#: Era_of_Myths/units/windsong/f1_Scribe.cfg:32
+#: Era_of_Myths/units/windsong/f1_Scribe.cfg:30
 msgid ""
 "The scribes of the Windsong are those engaged in studying, as well as "
 "contributing to, the vast libraries kept at the Foundation.\n"
@@ -4127,10 +4127,10 @@ msgstr ""
 "einsetzen, die als die Glyphe bekannt ist."
 
 #. [attack]: type=arcane
-#: Era_of_Myths/units/windsong/f1_Scribe.cfg:36
-#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:47
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:48
+#: Era_of_Myths/units/windsong/f1_Scribe.cfg:36
 #: Era_of_Myths/units/windsong/f2_Savant.cfg:34
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:47
 msgid "cipher"
 msgstr "Glyphe"
 
@@ -4139,14 +4139,14 @@ msgstr "Glyphe"
 msgid "female^Savant"
 msgstr "Gelehrte"
 
-#. [unit_type]: id=EOM_Runeforger, race=windsong
-#. [unit_type]: id=EOM_Arbiter, race=windsong
 #. [unit_type]: id=EOM_Librarian, race=windsong
+#. [unit_type]: id=EOM_Runeforger, race=windsong
 #. [unit_type]: id=EOM_Savant, race=windsong
-#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:34
-#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:25
+#. [unit_type]: id=EOM_Arbiter, race=windsong
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:26
+#: Era_of_Myths/units/windsong/f3_Runeforger.cfg:34
 #: Era_of_Myths/units/windsong/f2_Savant.cfg:30
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:25
 msgid "..."
 msgstr ""
 
@@ -4156,8 +4156,8 @@ msgid "female^Arbiter"
 msgstr "Kritikerin"
 
 #. [attack]: type=blade
-#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:29
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:30
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:29
 msgid "scythe"
 msgstr "Sense"
 
