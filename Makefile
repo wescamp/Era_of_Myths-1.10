@@ -21,6 +21,7 @@ all: setup
 		mkdir -p ${CAMPAIGN}/translations/$${locale}/LC_MESSAGES ;\
 		cp po/$${locale}.gmo ${CAMPAIGN}/translations/$${locale}/LC_MESSAGES/${DOMAIN}.mo ;\
 	done
+	cd po && make clean
 
 setup:
 	test -f po/LINGUAS || :> po/LINGUAS
