@@ -73,7 +73,11 @@ CATALOGS = @CATALOGS@
 	@lang=`echo $* | sed -e 's,.*/,,'`; \
 	test "$(srcdir)" = . && cdcmd="" || cdcmd="cd $(srcdir) && "; \
 	echo "$${cdcmd}rm -f $${lang}.gmo && $(GMSGFMT) -c --statistics -o $${lang}.gmo $${lang}.po"; \
-	cd $(srcdir) && rm -f $${lang}.gmo && $(GMSGFMT) -c --statistics -o t-$${lang}.gmo $${lang}.po && if test -e t-$${lang}.gmo; then mv t-$${lang}.gmo $${lang}.gmo; fi
+	cd $(srcdir) && rm -f $${lang}.gmo && $(GMSGFMT) -c --statistics -o t-$${lang}.gmo $${lang}.po 2>&1 | tee $${lang}.stats && if test -e t-$${lang}.gmo; then mv t-$${lang}.gmo $${lang}.gmo; fi; \
+	if grep '0 translated' $${lang}.stats; then \
+		rm $${lang}.gmo; \
+	fi; \
+	rm -f $${lang}.stats
 
 .sin.sed:
 	sed -e '/^#/d' $< > t-$@
