@@ -1,11 +1,10 @@
-# Drakefriend, 2011.
-# Drakefriend, 2011.
+# Drakefriend, 2011-2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-17 12:23-0400\n"
-"PO-Revision-Date: 2011-07-17 16:17+0200\n"
+"PO-Revision-Date: 2012-03-25 21:17+0200\n"
 "Last-Translator: Drakefriend <>\n"
 "Language-Team: none\n"
 "Language: la\n"
@@ -69,7 +68,7 @@ msgstr "Daemonia"
 #: Era_of_Myths/factions/elementals-POWER.cfg:5
 #: Era_of_Myths/factions/elementals-RECRUIT.cfg:5
 msgid "Elementals"
-msgstr "Spiriti Elementi"
+msgstr "Spiriti Elementares"
 
 #. [multiplayer_side]: id=EOM_therians, type=EOM_Aura_Monk
 #. [multiplayer_side]: id=POWER_therians, type=EOM_Panther
@@ -123,19 +122,19 @@ msgstr ""
 #. [heals]: id=medicplus
 #: Era_of_Myths/macros/abilities.cfg:26
 msgid "medic+"
-msgstr ""
+msgstr "medicus melor"
 
 #. [heals]: id=medicplus
 #: Era_of_Myths/macros/abilities.cfg:27
 msgid ""
 "Medic+:\n"
 "Allows the unit to remove poison from adjacent units."
-msgstr ""
+msgstr "medicus "
 
 #. [heals]: id=medic2plus
 #: Era_of_Myths/macros/abilities.cfg:42
 msgid "medic++"
-msgstr ""
+msgstr "medicus optimus"
 
 #. [heals]: id=medic2plus
 #: Era_of_Myths/macros/abilities.cfg:43
@@ -150,7 +149,7 @@ msgstr ""
 #. [regenerate]: id=selfmed
 #: Era_of_Myths/macros/abilities.cfg:59
 msgid "self-med"
-msgstr ""
+msgstr "sui medicare"
 
 #. [regenerate]: id=selfmed
 #: Era_of_Myths/macros/abilities.cfg:60
@@ -200,7 +199,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:121
 msgid "foresthome"
-msgstr ""
+msgstr "sylvanus"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:122
@@ -212,7 +211,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:137
 msgid "waterhome"
-msgstr ""
+msgstr "aquaticus"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:138
@@ -236,7 +235,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:169
 msgid "mountainhome"
-msgstr ""
+msgstr "montanus"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:170
@@ -270,7 +269,7 @@ msgstr ""
 #. [trait]: id=ferocious2
 #: Era_of_Myths/macros/ferocious.cfg:7 Era_of_Myths/macros/ferocious.cfg:20
 msgid "ferocious"
-msgstr ""
+msgstr "ferox"
 
 #. [chance_to_hit]: id=ferocious
 #: Era_of_Myths/macros/ferocious.cfg:8
@@ -283,7 +282,7 @@ msgstr ""
 #. [trait]: id=ferocious2
 #: Era_of_Myths/macros/ferocious.cfg:21
 msgid "female^ferocious"
-msgstr ""
+msgstr "ferox"
 
 #. [trait]: id=ferocious2
 #: Era_of_Myths/macros/ferocious.cfg:22
@@ -560,22 +559,22 @@ msgstr ""
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Myths/macros/traits.cfg:172
 msgid "elemental"
-msgstr ""
+msgstr "elementaris"
 
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Myths/macros/traits.cfg:173
 msgid "female^elemental"
-msgstr ""
+msgstr "elementaris"
 
 #. [trait]: id=obedient, description={STR_ZERO_UPKEEP}
 #: Era_of_Myths/macros/traits.cfg:186 Era_of_Myths/macros/traits.cfg:206
 msgid "obedient"
-msgstr ""
+msgstr "servilis"
 
 #. [trait]: id=obedient, description={STR_ZERO_UPKEEP}
 #: Era_of_Myths/macros/traits.cfg:187 Era_of_Myths/macros/traits.cfg:207
 msgid "female^obedient"
-msgstr ""
+msgstr "servilis"
 
 #. [trait]: id=attuned
 #: Era_of_Myths/macros/traits.cfg:231
@@ -597,17 +596,17 @@ msgstr ""
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:7
 msgid "race^Celestial"
-msgstr "Vir supernalis"
+msgstr "Vir supernus"
 
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:8
 msgid "race+female^Celestial"
-msgstr "femina Supernalis"
+msgstr "Femina Superna"
 
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:9
 msgid "race^Celestials"
-msgstr "Gens Supernalis"
+msgstr "Gens Superna"
 
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:13
@@ -625,7 +624,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Crusader, race=celestial
 #: Era_of_Myths/units/celestials/a1_Crusader.cfg:5
 msgid "Crusader"
-msgstr "Miles sacer"
+msgstr "Miles"
 
 #. [unit_type]: id=EOM_Crusader, race=celestial
 #: Era_of_Myths/units/celestials/a1_Crusader.cfg:18
@@ -647,7 +646,7 @@ msgstr "gladius sacer"
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:5
 msgid "Divine Knight"
-msgstr "Miles sacerior"
+msgstr "Oppugnator"
 
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:18
@@ -665,7 +664,7 @@ msgstr "fustus maior"
 #. [unit_type]: id=EOM_Protector, race=celestial
 #: Era_of_Myths/units/celestials/a2_Protector.cfg:5
 msgid "Protector"
-msgstr "Custos"
+msgstr "Propugnator"
 
 #. [unit_type]: id=EOM_Protector, race=celestial
 #: Era_of_Myths/units/celestials/a2_Protector.cfg:18
@@ -707,7 +706,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Divine_Champion, race=celestial
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:5
 msgid "Divine Champion"
-msgstr "Miles sacerrimus"
+msgstr "Noctifractor"
 
 #. [unit_type]: id=EOM_Divine_Champion, race=celestial
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:19
@@ -721,7 +720,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:5
 msgid "Holy Sentinel"
-msgstr "Custos Sanctus"
+msgstr "Conservator Lucis"
 
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:19
@@ -771,7 +770,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Light_Spirit, race=celestial
 #: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:5
 msgid "Light Spirit"
-msgstr "Spiritus luminis"
+msgstr "Luminalis"
 
 #. [unit_type]: id=EOM_Light_Spirit, race=celestial
 #: Era_of_Myths/units/celestials/c1_Light_Spirit.cfg:24
@@ -786,7 +785,7 @@ msgstr ""
 #: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:75
 #: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:77
 msgid "shock of light"
-msgstr "Pulsus luminis"
+msgstr "pulsus luminis"
 
 #. [unit_type]: id=EOM_Lantern_Archon, race=celestial
 #: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:5
@@ -805,7 +804,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Master_of_Light, race=celestial
 #: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:5
 msgid "Master of Light"
-msgstr "Magister luminis"
+msgstr "Luminifer"
 
 #. [unit_type]: id=EOM_Master_of_Light, race=celestial
 #: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:25
@@ -916,7 +915,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:5
 msgid "Great Wizard"
-msgstr "Vates"
+msgstr "Magus"
 
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:18
@@ -970,7 +969,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sage, race=celestial
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:5
 msgid "Sage"
-msgstr "Sapiens"
+msgstr "Thaumaturga"
 
 #. [unit_type]: id=EOM_Sage, race=celestial
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:19
@@ -1088,7 +1087,7 @@ msgstr "falx minima"
 #: Era_of_Myths/units/devlings/a2_Flyers.cfg:34
 #: Era_of_Myths/units/devlings/a3_Attackers.cfg:35
 msgid "breath"
-msgstr ""
+msgstr "aura"
 
 #. [unit_type]: id=EOM_Flyers, race=devling
 #: Era_of_Myths/units/devlings/a2_Flyers.cfg:5
@@ -1334,17 +1333,17 @@ msgstr ""
 #. [race]: id=elemental
 #: Era_of_Myths/units/elementals.cfg:7
 msgid "race^Elemental"
-msgstr "Spiritus Elementalis"
+msgstr "Elementarium"
 
 #. [race]: id=elemental
 #: Era_of_Myths/units/elementals.cfg:8
 msgid "race+female^Elemental"
-msgstr "Spiritus Elementalis"
+msgstr "Elementarium"
 
 #. [race]: id=elemental
 #: Era_of_Myths/units/elementals.cfg:9
 msgid "race^Elementals"
-msgstr "Spiriti Elementalis"
+msgstr "Elementaria"
 
 #. [race]: id=elemental
 #: Era_of_Myths/units/elementals.cfg:18
@@ -1357,7 +1356,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Fire, race=elemental
 #: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:5
 msgid "Fire Elemental"
-msgstr "Spiritus Ignis"
+msgstr "Ignarium"
 
 #. [unit_type]: id=EOM_Fire, race=elemental
 #: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:25
@@ -1377,7 +1376,7 @@ msgstr "unguae ardentes"
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
 #: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:5
 msgid "Fire Wisp"
-msgstr "Spiritus Ardens"
+msgstr "Fervens"
 
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
@@ -1392,7 +1391,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:34
 msgid "fire bash"
-msgstr "pulsus ardens"
+msgstr "pulsus ignis"
 
 #. [unit_type]: id=EOM_Living_Furnace, race=elemental, description=
 #: Era_of_Myths/units/elementals/a2_Living_Furnace.cfg:5
@@ -1402,12 +1401,12 @@ msgstr "Cacus"
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
 #: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:5
 msgid "Fire Ghost"
-msgstr "Spiritus Infernalis"
+msgstr "Incendiarium"
 
 #. [unit_type]: id=EOM_Lava_Beast, race=elemental
 #: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:5
 msgid "Lava Beast"
-msgstr "Volcanius"
+msgstr "Volcanus"
 
 #. [unit_type]: id=EOM_Lava_Beast, race=elemental
 #: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:25
@@ -1418,7 +1417,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Air, race=elemental
 #: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:5
 msgid "Air Elemental"
-msgstr "Spiritus Aeris"
+msgstr "Aeratum"
 
 #. [unit_type]: id=EOM_Air, race=elemental
 #: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:26
@@ -1437,7 +1436,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Razorbird, race=elemental
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:5
 msgid "Razorbird"
-msgstr "Avis ensis"
+msgstr "Avis Ensium"
 
 #. [unit_type]: id=EOM_Razorbird, race=elemental
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:27
@@ -1463,7 +1462,7 @@ msgstr "fulmen"
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
 #: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:5
 msgid "Wind Spirit"
-msgstr "Spiritus venturum"
+msgstr "Spiritus Venturum"
 
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
 #: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:26
@@ -1482,7 +1481,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Thunderbird, race=elemental
 #: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:5
 msgid "Thunderbird"
-msgstr "Avis fulminis"
+msgstr "Avis Fulminis"
 
 #. [unit_type]: id=EOM_Thunderbird, race=elemental
 #: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:27
@@ -1492,7 +1491,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Zephyr, race=elemental
 #: Era_of_Myths/units/elementals/b2_Zephyr.cfg:5
 msgid "Zephyr"
-msgstr "Spiritus Zephyri"
+msgstr "Anemus"
 
 #. [unit_type]: id=EOM_Zephyr, race=elemental
 #: Era_of_Myths/units/elementals/b2_Zephyr.cfg:27
@@ -1516,7 +1515,7 @@ msgstr "vortex"
 #. [unit_type]: id=EOM_Djinn, race=elemental
 #: Era_of_Myths/units/elementals/b3_Djinn.cfg:7
 msgid "Djinn"
-msgstr "Spiritus Aelius"
+msgstr "Aelius"
 
 #. [unit_type]: id=EOM_Djinn, race=elemental
 #: Era_of_Myths/units/elementals/b3_Djinn.cfg:29
@@ -1528,7 +1527,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Earth, race=elemental
 #: Era_of_Myths/units/elementals/c1_Earth_Elemental.cfg:5
 msgid "Earth Elemental"
-msgstr "Spiritus Telluris"
+msgstr "Terranum"
 
 #. [unit_type]: id=EOM_Earth, race=elemental
 #: Era_of_Myths/units/elementals/c1_Earth_Elemental.cfg:24
@@ -1565,7 +1564,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Water, race=elemental
 #: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:5
 msgid "Water Elemental"
-msgstr "Spiritus Aquae"
+msgstr "Aquarium"
 
 #. [unit_type]: id=EOM_Water, race=elemental
 #: Era_of_Myths/units/elementals/d1_Water_Elemental.cfg:24
@@ -1623,7 +1622,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Ice_Shell, race=elemental
 #: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:5
 msgid "Ice Shell"
-msgstr "Frigidissimum"
+msgstr "Cryonis"
 
 #. [unit_type]: id=EOM_Ice_Shell, race=elemental
 #: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:25
@@ -1836,7 +1835,7 @@ msgstr "Feles saeva"
 #. [unit_type]: id=EOM_Panther, race=therian
 #: Era_of_Myths/units/therians/b3_Panther.cfg:5
 msgid "Therian Black Cat"
-msgstr "Felis niger"
+msgstr "Feles niger"
 
 #. [unit_type]: id=EOM_Tiger, race=therian
 #: Era_of_Myths/units/therians/b3_Tiger.cfg:5
@@ -1900,7 +1899,7 @@ msgstr "Anguis venenomittens"
 #. [attack]: type=pierce
 #: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:55
 msgid "spit"
-msgstr "venenum"
+msgstr "venenum missum"
 
 #. [unit_type]: id=EOM_Therian_Hunter, race=human
 #: Era_of_Myths/units/therians/d1_Hunter.cfg:5
@@ -1956,7 +1955,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Therian_Guard, race=therian
 #: Era_of_Myths/units/therians/e1_Guard.cfg:5
 msgid "Therian Guard"
-msgstr "Ianitor Therianus"
+msgstr "Defensor Therianus"
 
 #. [unit_type]: id=EOM_Therian_Defender, race=therian
 #. [unit_type]: id=EOM_Therian_Guard, race=therian
@@ -1980,7 +1979,7 @@ msgstr "pilum"
 #. [unit_type]: id=EOM_Therian_Defender, race=therian
 #: Era_of_Myths/units/therians/e2_Defender.cfg:5
 msgid "Therian Defender"
-msgstr "Defensor Therianus"
+msgstr "Propugnator Therianus"
 
 #. [unit_type]: id=EOM_Therian_Monk, race=therian2
 #: Era_of_Myths/units/therians/f1_Monk.cfg:5
@@ -2061,7 +2060,7 @@ msgstr "pruina"
 #. [unit_type]: id=EOM_Therian_Mage, race=therian2
 #: Era_of_Myths/units/therians/x2_Mage.cfg:5
 msgid "Mage"
-msgstr "Venificus"
+msgstr "Augur"
 
 #. [unit_type]: id=EOM_Therian_Mage, race=therian2
 #: Era_of_Myths/units/therians/x2_Mage.cfg:18
@@ -2073,7 +2072,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Therian_Shaman, race=therian2
 #: Era_of_Myths/units/therians/x2_Shaman.cfg:5
 msgid "Shaman"
-msgstr "Chamanus"
+msgstr "Sacerdos"
 
 #. [unit_type]: id=EOM_Therian_Shaman, race=therian2
 #: Era_of_Myths/units/therians/x2_Shaman.cfg:18
@@ -2086,7 +2085,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Therian_Master, race=therian2
 #: Era_of_Myths/units/therians/x3_Master.cfg:5
 msgid "Master"
-msgstr "Magister venificiae"
+msgstr "Haruspex"
 
 #. [unit_type]: id=EOM_Therian_Master, race=therian2
 #: Era_of_Myths/units/therians/x3_Master.cfg:19
@@ -2108,17 +2107,17 @@ msgstr ""
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:5
 msgid "race^Gargoyle"
-msgstr ""
+msgstr "Automatum"
 
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:6
 msgid "race+female^Gargoyle"
-msgstr ""
+msgstr "Automatum"
 
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:7
 msgid "race^Gargoyles"
-msgstr ""
+msgstr "Automata"
 
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:13
@@ -2161,7 +2160,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:5
 msgid "Blood Apprentice"
-msgstr "Discipulus sanguinis"
+msgstr "Cruentator"
 
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:18
@@ -2180,12 +2179,12 @@ msgstr ""
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:61
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:38
 msgid "blood boil"
-msgstr ""
+msgstr "cruor calidus"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
 #: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:5
 msgid "Blood Manipulator"
-msgstr "Dominus sanguinis"
+msgstr "Magister Cruoris"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
 #: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:18
@@ -2199,7 +2198,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Flesh_Artisan, race=vampire
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:5
 msgid "Flesh Artisan"
-msgstr "Magister Carnalis Arte"
+msgstr "Carniformator"
 
 #. [unit_type]: id=EOM_Flesh_Artisan, race=vampire
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:20
@@ -2212,7 +2211,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sangel, race=vampire
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:5
 msgid "Sangel"
-msgstr "Sangelus"
+msgstr "Dominus Cruoris"
 
 #. [unit_type]: id=EOM_Sangel, race=vampire
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:19
@@ -2271,7 +2270,7 @@ msgstr "Malenata"
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:5
 msgid "Fledgeling"
-msgstr "Novicius"
+msgstr "Tiro"
 
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:22
@@ -2286,12 +2285,12 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:86
 msgid "female^Fledgeling"
-msgstr "Novicia"
+msgstr "Tiro"
 
 #. [unit_type]: id=EOM_Duelist, race=vampire
 #: Era_of_Myths/units/vampires/c2_Duelist.cfg:5
 msgid "Duelist"
-msgstr "Batuens"
+msgstr "Ensifer"
 
 #. [unit_type]: id=EOM_Duelist, race=vampire
 #: Era_of_Myths/units/vampires/c2_Duelist.cfg:20
@@ -2364,7 +2363,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Methusalem, race=vampire
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:5
 msgid "Methusalem"
-msgstr "Macrobus"
+msgstr "Aeternus"
 
 #. [unit_type]: id=EOM_Methusalem, race=vampire
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:20
@@ -2380,12 +2379,12 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:86
 msgid "female^Duchess"
-msgstr "Macroba"
+msgstr "Aeterna"
 
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:5
 msgid "Thin Blood"
-msgstr "Sanguinatus"
+msgstr "Sanguinosus"
 
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:20
@@ -2400,12 +2399,12 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:102
 msgid "female^Thin Blood"
-msgstr "Sanguinata"
+msgstr "Sanguinosa"
 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:5
 msgid "Half Blood"
-msgstr "Parsanguinatus"
+msgstr "Parsanguinosus"
 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:19
@@ -2417,12 +2416,12 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:99
 msgid "female^Half Blood"
-msgstr "Parsanguinata"
+msgstr "Parsanguinosa"
 
 #. [unit_type]: id=EOM_Day_Hunter, race=vampire
 #: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:5
 msgid "Day Hunter"
-msgstr "Venator diurnus"
+msgstr "Venator Diurnus"
 
 #. [unit_type]: id=EOM_Day_Hunter, race=vampire
 #: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:20
@@ -2437,7 +2436,7 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:104
 msgid "female^Day Hunter"
-msgstr "Venatrix diurna"
+msgstr "Venatrix Diurna"
 
 #. [unit_type]: id=EOM_Twilight_Walker, race=vampire
 #: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:5
@@ -2468,7 +2467,7 @@ msgstr "Hybrida"
 #. [unit_type]: id=EOM_Gargoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:5
 msgid "Gargoyle"
-msgstr ""
+msgstr "Automatum"
 
 #. [unit_type]: id=EOM_Gargoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:19
@@ -2488,7 +2487,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:5
 msgid "Marlgoyle"
-msgstr ""
+msgstr "Eurynomus"
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:20
@@ -2501,7 +2500,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Blood_Hulk, race=vampire
 #: Era_of_Myths/units/vampires/g2_Blood_Hulk.cfg:5
 msgid "Blood Hulk"
-msgstr "Eurynomus"
+msgstr "Carnifex"
 
 #. [unit_type]: id=EOM_Blood_Hulk, race=vampire
 #: Era_of_Myths/units/vampires/g2_Blood_Hulk.cfg:27
@@ -2614,7 +2613,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Shadow_Pelt, race=warg
 #: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:5
 msgid "Shadow Pelt"
-msgstr "Pellis umbrana"
+msgstr "Pellis Umbrana"
 
 #. [unit_type]: id=EOM_Shadow_Pelt, race=warg
 #: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:18
@@ -2628,7 +2627,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Night_Eye, race=warg
 #: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:5
 msgid "Night Eye"
-msgstr "Oculus nucturnus"
+msgstr "Oculus Noctis"
 
 #. [unit_type]: id=EOM_Night_Eye, race=warg
 #: Era_of_Myths/units/wargs/b3_Night_Eye.cfg:19
@@ -2641,7 +2640,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Warrior_Wolf, race=warg
 #: Era_of_Myths/units/wargs/c1_Warrior_Wolf.cfg:5
 msgid "Warrior Wolf"
-msgstr "Bellator lupi"
+msgstr "Lupibellator"
 
 #. [unit_type]: id=EOM_Warrior_Wolf, race=warg
 #: Era_of_Myths/units/wargs/c1_Warrior_Wolf.cfg:18
@@ -2653,7 +2652,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Rabid_Wolf, race=warg
 #: Era_of_Myths/units/wargs/c2_Rabid_Wolf.cfg:5
 msgid "Rabid Wolf"
-msgstr "Lupus rabidus"
+msgstr "Lupus Rabidus"
 
 #. [unit_type]: id=EOM_Rabid_Wolf, race=warg
 #: Era_of_Myths/units/wargs/c2_Rabid_Wolf.cfg:19
@@ -2678,7 +2677,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Fenrir, race=warg
 #: Era_of_Myths/units/wargs/c3_Fenrir.cfg:7
 msgid "Fenrir"
-msgstr "Magister armarum Cynocephalus"
+msgstr "Teumesius"
 
 #. [unit_type]: id=EOM_Fenrir, race=warg
 #: Era_of_Myths/units/wargs/c3_Fenrir.cfg:21
@@ -2719,7 +2718,7 @@ msgstr "ensis Lunae"
 #. [unit_type]: id=EOM_Pack_Leader, race=warg
 #: Era_of_Myths/units/wargs/c3_Pack_Leader.cfg:5
 msgid "Pack Leader"
-msgstr "Dux troppi"
+msgstr "Dux Troppi"
 
 #. [unit_type]: id=EOM_Pack_Leader, race=warg
 #: Era_of_Myths/units/wargs/c3_Pack_Leader.cfg:18
@@ -2731,7 +2730,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Garou, race=warg
 #: Era_of_Myths/units/wargs/c4_Garou.cfg:5
 msgid "Garou"
-msgstr "Teumesius"
+msgstr "Lykaon"
 
 #. [unit_type]: id=EOM_Garou, race=warg
 #: Era_of_Myths/units/wargs/c4_Garou.cfg:19
@@ -2766,7 +2765,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Dire_Wolf, race=warg
 #: Era_of_Myths/units/wargs/d2_Dire_Wolf.cfg:5
 msgid "Dire Wolf"
-msgstr "Lupus dirus"
+msgstr "Lupus Dirus"
 
 #. [unit_type]: id=EOM_Dire_Wolf, race=warg
 #: Era_of_Myths/units/wargs/d2_Dire_Wolf.cfg:19
@@ -2779,7 +2778,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Fire_Sprite, race=dryad
 #: Era_of_Myths/units/wargs/e1_Fire_Sprite.cfg:5
 msgid "Fire Sprite"
-msgstr ""
+msgstr "Spiritus Ignis"
 
 #. [unit_type]: id=EOM_Fire_Sprite, race=dryad
 #. [unit_type]: id=EOM_Flame_Spirit, race=dryad
@@ -2810,22 +2809,22 @@ msgstr ""
 #. [unit_type]: id=EOM_Flame_Sprite, race=dryad
 #: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:5
 msgid "Flame Sprite"
-msgstr ""
+msgstr "Spiritus Flammarum"
 
 #. [unit_type]: id=EOM_Flame_Spirit, race=dryad
 #: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:5
 msgid "Flame Spirit"
-msgstr ""
+msgstr "Spiritus Conflagrationis"
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:35
 msgid "spirit fire"
-msgstr ""
+msgstr "ignis geniorum"
 
 #. [unit_type]: id=EOM_Blackfur, race=warg
 #: Era_of_Myths/units/wargs/f1_Blackfur.cfg:5
 msgid "Blackfur"
-msgstr "Pellis nigris"
+msgstr "Obscurus"
 
 #. [unit_type]: id=EOM_Blackfur, race=warg
 #: Era_of_Myths/units/wargs/f1_Blackfur.cfg:18
@@ -2838,7 +2837,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Black_Hunter, race=warg
 #: Era_of_Myths/units/wargs/f2_Black_Hunter.cfg:5
 msgid "Black Hunter"
-msgstr "Venator niger"
+msgstr "Venator Niger"
 
 #. [unit_type]: id=EOM_Black_Hunter, race=warg
 #: Era_of_Myths/units/wargs/f2_Black_Hunter.cfg:19
@@ -3098,7 +3097,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Prophetess, race=windsong
 #: Era_of_Myths/units/windsong/c2_Prophet.cfg:5
 msgid "female^Prophetess"
-msgstr "Maga"
+msgstr "Oraculum"
 
 #. [unit_type]: id=EOM_Prophetess, race=windsong
 #: Era_of_Myths/units/windsong/c2_Prophet.cfg:23
@@ -3202,7 +3201,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Pathfinder, race=windsong
 #: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:5
 msgid "female^Pathfinder"
-msgstr "Veles"
+msgstr "Speculatrix"
 
 #. [unit_type]: id=EOM_Pathfinder, race=windsong
 #: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:20
@@ -3269,7 +3268,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Gatekeeper, race=windsong
 #: Era_of_Myths/units/windsong/e1_Gatekeeper.cfg:5
 msgid "female^Gatekeeper"
-msgstr "Ianitrix"
+msgstr "Custos Portarum"
 
 #. [unit_type]: id=EOM_Gatekeeper, race=windsong
 #: Era_of_Myths/units/windsong/e1_Gatekeeper.cfg:35
@@ -3315,7 +3314,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Lorekeeper, race=windsong
 #: Era_of_Myths/units/windsong/e2_Lorekeeper.cfg:7
 msgid "female^Lorekeeper"
-msgstr "Ianitrix Legendarum"
+msgstr "Custos Legendarum"
 
 #. [unit_type]: id=EOM_Lorekeeper, race=windsong
 #: Era_of_Myths/units/windsong/e2_Lorekeeper.cfg:39
@@ -3348,7 +3347,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Oathkeeper, race=windsong
 #: Era_of_Myths/units/windsong/e3_Oathkeeper.cfg:5
 msgid "female^Oathkeeper"
-msgstr "Ianitrix Testimoniarum"
+msgstr "Custos Testimoniarum"
 
 #. [unit_type]: id=EOM_Oathkeeper, race=windsong
 #: Era_of_Myths/units/windsong/e3_Oathkeeper.cfg:38
@@ -3385,12 +3384,12 @@ msgstr ""
 #: Era_of_Myths/units/windsong/f3_Arbiter.cfg:47
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:48
 msgid "cipher"
-msgstr ""
+msgstr "C"
 
 #. [unit_type]: id=EOM_Savant, race=windsong
 #: Era_of_Myths/units/windsong/f2_Savant.cfg:5
 msgid "female^Savant"
-msgstr "Scholaria"
+msgstr "Erudita"
 
 #. [unit_type]: id=EOM_Arbiter, race=windsong
 #. [unit_type]: id=EOM_Librarian, race=windsong
