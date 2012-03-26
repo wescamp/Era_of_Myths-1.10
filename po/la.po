@@ -4,8 +4,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-17 12:23-0400\n"
-"PO-Revision-Date: 2012-03-25 21:17+0200\n"
-"Last-Translator: Drakefriend <>\n"
+"PO-Revision-Date: 2012-03-26 02:51+0100\n"
+"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
 "Language-Team: none\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
@@ -26,12 +26,12 @@ msgstr "Aetas Mythica Basica"
 #. [era]: id=era_EOM_power_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:32
 msgid "Empowered Myths"
-msgstr "Mythi maiores"
+msgstr "Mythi Maiores"
 
 #. [era]: id=era_EOM_power_aoh_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:47
 msgid "Empowered Heroes"
-msgstr "Heroes maiores"
+msgstr "Heroes Maiores"
 
 #. [era]: id=era_EOM_recruit_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:68
@@ -61,6 +61,7 @@ msgstr "Gens Superna"
 msgid "Devlings"
 msgstr "Daemonia"
 
+# Spiritus is 4th declension
 #. [multiplayer_side]: id=EOM_elementals, type=EOM_Rock_Golem
 #. [multiplayer_side]: id=POWER_elementals, type=EOM_Fire_Ghost
 #. [multiplayer_side]: id=RECRUIT_elementals, type=EOM_Water
@@ -68,7 +69,7 @@ msgstr "Daemonia"
 #: Era_of_Myths/factions/elementals-POWER.cfg:5
 #: Era_of_Myths/factions/elementals-RECRUIT.cfg:5
 msgid "Elementals"
-msgstr "Spiriti Elementares"
+msgstr "Spiritus Elementares"
 
 #. [multiplayer_side]: id=EOM_therians, type=EOM_Aura_Monk
 #. [multiplayer_side]: id=POWER_therians, type=EOM_Panther
@@ -119,13 +120,15 @@ msgid ""
 "long as they are nearby.  The poison is not cured."
 msgstr ""
 
+# typo
 #. [heals]: id=medicplus
 #: Era_of_Myths/macros/abilities.cfg:26
 msgid "medic+"
-msgstr "medicus melor"
+msgstr "medicus melior"
 
 #. [heals]: id=medicplus
 #: Era_of_Myths/macros/abilities.cfg:27
+#, fuzzy
 msgid ""
 "Medic+:\n"
 "Allows the unit to remove poison from adjacent units."
@@ -146,10 +149,11 @@ msgid ""
 "A unit cared for by this healer may heal up to 4 HP per turn, or cure poison."
 msgstr ""
 
+# accusative for genitive
 #. [regenerate]: id=selfmed
 #: Era_of_Myths/macros/abilities.cfg:59
 msgid "self-med"
-msgstr "sui medicare"
+msgstr "se medicare"
 
 #. [regenerate]: id=selfmed
 #: Era_of_Myths/macros/abilities.cfg:60
@@ -199,7 +203,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:121
 msgid "foresthome"
-msgstr "sylvanus"
+msgstr "silvanus"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:122
@@ -244,10 +248,11 @@ msgid ""
 "This unit will regenerate 3 hp when on mountains."
 msgstr ""
 
+# This is the word I'm using for mainline
 #. [leadership]: id=leadership
 #: Era_of_Myths/macros/abilities.cfg:181
 msgid "inspire"
-msgstr ""
+msgstr "incitat"
 
 #. [leadership]: id=leadership
 #: Era_of_Myths/macros/abilities.cfg:182
@@ -512,12 +517,12 @@ msgstr "incorporeus"
 #. [trait]: id=beefy
 #: Era_of_Myths/macros/traits.cfg:114
 msgid "beefy"
-msgstr "firmus"
+msgstr "solidus"
 
 #. [trait]: id=beefy
 #: Era_of_Myths/macros/traits.cfg:115
 msgid "female^beefy"
-msgstr "firma"
+msgstr "solida"
 
 #. [trait]: id=beefy
 #: Era_of_Myths/macros/traits.cfg:116
@@ -544,12 +549,12 @@ msgstr ""
 #. [trait]: id=brawny
 #: Era_of_Myths/macros/traits.cfg:151
 msgid "brawny"
-msgstr "potens"
+msgstr "validus"
 
 #. [trait]: id=brawny
 #: Era_of_Myths/macros/traits.cfg:152
 msgid "female^brawny"
-msgstr "potens"
+msgstr "valida"
 
 #. [trait]: id=brawny
 #: Era_of_Myths/macros/traits.cfg:153
@@ -596,7 +601,7 @@ msgstr ""
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:7
 msgid "race^Celestial"
-msgstr "Vir supernus"
+msgstr "Vir Supernus"
 
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:8
@@ -790,7 +795,7 @@ msgstr "pulsus luminis"
 #. [unit_type]: id=EOM_Lantern_Archon, race=celestial
 #: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:5
 msgid "Lantern Archon"
-msgstr "Archon luminis"
+msgstr "Archon Luminis"
 
 #. [unit_type]: id=EOM_Lantern_Archon, race=celestial
 #: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:23
@@ -1102,7 +1107,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Attackers, race=devling
 #: Era_of_Myths/units/devlings/a3_Attackers.cfg:5
 msgid "Attackers"
-msgstr "Pugnandes"
+msgstr "Pugnantes"
 
 #. [unit_type]: id=EOM_Attackers, race=devling
 #: Era_of_Myths/units/devlings/a3_Attackers.cfg:20
@@ -1171,10 +1176,11 @@ msgstr ""
 msgid "staple 'em"
 msgstr "impalate"
 
+# Could use a better word
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:5
 msgid "Overgrown Devling"
-msgstr "Daemonium magnum"
+msgstr "Magnum Daemonium"
 
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:19
@@ -1274,7 +1280,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Cursers, race=devling
 #: Era_of_Myths/units/devlings/e1_Cursers.cfg:5
 msgid "Cursers"
-msgstr "Malledicentes"
+msgstr "Maledicentes"
 
 #. [unit_type]: id=EOM_Cursers, race=devling
 #: Era_of_Myths/units/devlings/e1_Cursers.cfg:26
@@ -1294,7 +1300,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Blasphemists, race=devling
 #: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:5
 msgid "Blasphemists"
-msgstr "Imprecatores"
+msgstr "Deprecatores"
 
 #. [unit_type]: id=EOM_Blasphemists, race=devling
 #: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:20
@@ -1451,7 +1457,7 @@ msgstr ""
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:36
 #: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:36
 msgid "beak"
-msgstr "beccum"
+msgstr "rostrum"
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:49
@@ -1462,7 +1468,7 @@ msgstr "fulmen"
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
 #: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:5
 msgid "Wind Spirit"
-msgstr "Spiritus Venturum"
+msgstr "Spiritus Ventorum"
 
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
 #: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:26
@@ -1488,10 +1494,11 @@ msgstr "Avis Fulminis"
 msgid "The Thunderbird has matured it's lightning bolt into a powerful force."
 msgstr ""
 
+# anemus is just a general term for wind in Greek, I think using Zephyr's namesake is doable
 #. [unit_type]: id=EOM_Zephyr, race=elemental
 #: Era_of_Myths/units/elementals/b2_Zephyr.cfg:5
 msgid "Zephyr"
-msgstr "Anemus"
+msgstr "Zephyrus"
 
 #. [unit_type]: id=EOM_Zephyr, race=elemental
 #: Era_of_Myths/units/elementals/b2_Zephyr.cfg:27
@@ -1512,6 +1519,7 @@ msgstr "machaera"
 msgid "tornado"
 msgstr "vortex"
 
+# Aelius is a name, or am I missing something?
 #. [unit_type]: id=EOM_Djinn, race=elemental
 #: Era_of_Myths/units/elementals/b3_Djinn.cfg:7
 msgid "Djinn"
@@ -1536,10 +1544,11 @@ msgid ""
 "durability, and mediocre attacks."
 msgstr ""
 
+# Lapidalis is an unnecessary coinage
 #. [unit_type]: id=EOM_Rock_Golem, race=elemental
 #: Era_of_Myths/units/elementals/c2_Rock_Golem.cfg:5
 msgid "Rock Golem"
-msgstr "Vir Lapidalis"
+msgstr "Vir Lapideus"
 
 #. [unit_type]: id=EOM_Rock_Golem, race=elemental
 #: Era_of_Myths/units/elementals/c2_Rock_Golem.cfg:24
@@ -1549,6 +1558,7 @@ msgid ""
 "for their size."
 msgstr ""
 
+# Why not Titan Lapideus?
 #. [unit_type]: id=EOM_Stone_Titan, race=elemental
 #: Era_of_Myths/units/elementals/c3_Stone_Titan.cfg:5
 msgid "Stone Titan"
@@ -1586,7 +1596,7 @@ msgstr "pulsus aquaticus"
 #. [unit_type]: id=EOM_Ice_Crab, race=elemental
 #: Era_of_Myths/units/elementals/d2_Ice_Crab.cfg:5
 msgid "Ice Crab"
-msgstr "Cancer glacialis"
+msgstr "Cancer Glacialis"
 
 #. [unit_type]: id=EOM_Ice_Crab, race=elemental
 #: Era_of_Myths/units/elementals/d2_Ice_Crab.cfg:24
@@ -1609,15 +1619,16 @@ msgstr "stiria"
 msgid "cold aura"
 msgstr "nimbus frigidus"
 
+# Undina is closer to a Latin formulation than Ondina
 #. [unit_type]: id=EOM_Undine, race=elemental
 #: Era_of_Myths/units/elementals/d2_Undine.cfg:5
 msgid "Undine"
-msgstr "Ondina"
+msgstr "Undina"
 
 #. [unit_type]: id=EOM_Undine, race=elemental
 #: Era_of_Myths/units/elementals/d2_Undine.cfg:24
 msgid "."
-msgstr ""
+msgstr "."
 
 #. [unit_type]: id=EOM_Ice_Shell, race=elemental
 #: Era_of_Myths/units/elementals/d3_Ice_Shell.cfg:5
@@ -1664,7 +1675,7 @@ msgstr "cornu"
 #. [unit_type]: id=EOM_Silver_Unicorn, race=elemental
 #: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:5
 msgid "Silver Unicorn"
-msgstr "Monoceros"
+msgstr "Monoceros Argenteus"
 
 #. [unit_type]: id=EOM_Silver_Unicorn, race=elemental
 #: Era_of_Myths/units/elementals/e2_Silver_Unicorn.cfg:28
@@ -1794,12 +1805,12 @@ msgstr "Falco"
 #. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:5
 msgid "Gyrfalcon"
-msgstr "Falco rusticolus"
+msgstr "Falco Rusticolus"
 
 #. [unit_type]: id=EOM_Peregrine_Falcon, race=therian
 #: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:5
 msgid "Peregrine Falcon"
-msgstr "Falco peregrinus"
+msgstr "Falco Peregrinus"
 
 #. [unit_type]: id=EOM_Cat, race=therian
 #: Era_of_Myths/units/therians/b1_Cat.cfg:5
@@ -1830,12 +1841,12 @@ msgstr ""
 #. [unit_type]: id=EOM_Wildcat, race=therian
 #: Era_of_Myths/units/therians/b2_Wildcat.cfg:5
 msgid "Wildcat Therian"
-msgstr "Feles saeva"
+msgstr "Feles Saeva"
 
 #. [unit_type]: id=EOM_Panther, race=therian
 #: Era_of_Myths/units/therians/b3_Panther.cfg:5
 msgid "Therian Black Cat"
-msgstr "Feles niger"
+msgstr "Feles Niger"
 
 #. [unit_type]: id=EOM_Tiger, race=therian
 #: Era_of_Myths/units/therians/b3_Tiger.cfg:5
@@ -1889,13 +1900,14 @@ msgstr "Serpens marina"
 #. [unit_type]: id=EOM_King_Cobra, race=therian
 #: Era_of_Myths/units/therians/c3_King_Cobra.cfg:5
 msgid "King Cobra"
-msgstr "Anguis regalis"
+msgstr "Anguis Regalis"
 
 #. [unit_type]: id=EOM_Spitting_Cobra, race=therian
 #: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:5
 msgid "Spitting Cobra"
-msgstr "Anguis venenomittens"
+msgstr "Anguis Venenomittens"
 
+# this is more concise
 #. [attack]: type=pierce
 #: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:55
 msgid "spit"
@@ -1939,6 +1951,7 @@ msgid ""
 "adept at hunting their prey."
 msgstr ""
 
+# Orion was a giant...
 #. [unit_type]: id=EOM_Therian_Ranger, race=human
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:5
 msgid "Ranger"
@@ -2018,12 +2031,12 @@ msgstr "nimbus spiritualis"
 #. [unit_type]: id=EOM_Aura_Monk, race=therian2
 #: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:5
 msgid "Aura Monk"
-msgstr "Monachus nimborum"
+msgstr "Monachus Nimborum"
 
 #. [unit_type]: id=EOM_Aura_Master, race=therian2
 #: Era_of_Myths/units/therians/f3_Aura_Master.cfg:5
 msgid "Aura Master"
-msgstr "Magister nimborum"
+msgstr "Magister Nimborum"
 
 #. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:5
@@ -2039,6 +2052,7 @@ msgid ""
 "who learn one or the other."
 msgstr ""
 
+# I think we should be more specific
 #. [attack]: type=fire
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:39
 #: Era_of_Myths/units/therians/x2_Mage.cfg:39
@@ -2048,6 +2062,7 @@ msgstr ""
 msgid "burn"
 msgstr "flamma"
 
+# pruina is hoarfrost, which is probably too benign for a weapon
 #. [attack]: type=cold
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:51
 #: Era_of_Myths/units/therians/x2_Mage.cfg:51
@@ -2104,6 +2119,8 @@ msgid ""
 "they have learned."
 msgstr ""
 
+# bleh
+# Gargoyle apparently derives from gurgulio, 'throat'
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:5
 msgid "race^Gargoyle"
@@ -2157,6 +2174,7 @@ msgid ""
 "blood, it is their currency, and most of their magics involve it."
 msgstr ""
 
+# I don't know if this is relevant here, but sanguis is the general term for blood, and cruor is generally blood that has been shed.
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:5
 msgid "Blood Apprentice"
@@ -2225,10 +2243,11 @@ msgstr ""
 msgid "wipe"
 msgstr ""
 
+# For consistency
 #. [unit_type]: id=EOM_Bloodborn, race=vampire
 #: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:7
 msgid "Bloodborn"
-msgstr "Sanguine versus"
+msgstr "Sanguine Natus"
 
 #. [unit_type]: id=EOM_Bloodborn, race=vampire
 #: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:28
@@ -2245,7 +2264,7 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:78
 msgid "female^Bloodborn"
-msgstr "Sanguine versa"
+msgstr "Sanguine Nata"
 
 #. [unit_type]: id=EOM_Malborn, race=vampire
 #: Era_of_Myths/units/vampires/b1_Malborn.cfg:5
@@ -2267,10 +2286,11 @@ msgstr ""
 msgid "female^Malborn"
 msgstr "Malenata"
 
+# Tiro is used of people who are inexperienced
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:5
 msgid "Fledgeling"
-msgstr "Tiro"
+msgstr "Pullus"
 
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:22
@@ -2285,7 +2305,7 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:86
 msgid "female^Fledgeling"
-msgstr "Tiro"
+msgstr "Pulla"
 
 #. [unit_type]: id=EOM_Duelist, race=vampire
 #: Era_of_Myths/units/vampires/c2_Duelist.cfg:5
@@ -2322,6 +2342,7 @@ msgid ""
 "surfs to provide animals for their weekly blood."
 msgstr ""
 
+# Dominus/domina might be better
 #. [unit_type]: id=EOM_Sire, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:5
 msgid "Sire"
@@ -2381,6 +2402,8 @@ msgstr ""
 msgid "female^Duchess"
 msgstr "Aeterna"
 
+# Adjectives ending in -osus generally mean abounding in x, which is certainly not what we want.  
+# Despite this, maybe 'saniosus', 'full of sanies', a mixture of puss and blood.
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:5
 msgid "Thin Blood"
@@ -2401,6 +2424,7 @@ msgstr ""
 msgid "female^Thin Blood"
 msgstr "Sanguinosa"
 
+# What does par- mean? 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:5
 msgid "Half Blood"
@@ -2478,11 +2502,12 @@ msgid ""
 "thus fight equally well in all lights."
 msgstr ""
 
+# What I use in mainline
 #. [attack]: type=impact
 #: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:57
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:57
 msgid "slam"
-msgstr ""
+msgstr "affligere"
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:5
@@ -2548,6 +2573,7 @@ msgid ""
 "are involved."
 msgstr ""
 
+# I can't find what this means
 #. [unit_type]: id=EOM_Shapeshifter, race=human
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:5
 msgid "Shapeshifter"
@@ -2575,6 +2601,7 @@ msgid ""
 "Warg culture grow to even more strongly resemble their companions."
 msgstr ""
 
+# ?
 #. [unit_type]: id=EOM_Wolfling, race=human
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:7
 msgid "Wolfling"
@@ -2610,10 +2637,11 @@ msgstr ""
 msgid "tackle"
 msgstr ""
 
+# Umbrana doesn't seem to be word, but there is umbrosus and opacus
 #. [unit_type]: id=EOM_Shadow_Pelt, race=warg
 #: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:5
 msgid "Shadow Pelt"
-msgstr "Pellis Umbrana"
+msgstr "Pellis Umbrarum"
 
 #. [unit_type]: id=EOM_Shadow_Pelt, race=warg
 #: Era_of_Myths/units/wargs/b2_Shadow_Pelt.cfg:18
@@ -2674,10 +2702,11 @@ msgid ""
 "reckoned with when defending their homeland."
 msgstr ""
 
+# I think lupus is needed for sense.
 #. [unit_type]: id=EOM_Fenrir, race=warg
 #: Era_of_Myths/units/wargs/c3_Fenrir.cfg:7
 msgid "Fenrir"
-msgstr "Teumesius"
+msgstr "Lupus Teumesius"
 
 #. [unit_type]: id=EOM_Fenrir, race=warg
 #: Era_of_Myths/units/wargs/c3_Fenrir.cfg:21
@@ -2710,15 +2739,17 @@ msgid ""
 "like slivers of the moon."
 msgstr ""
 
+# ensis is probably too poetic for this context
 #. [attack]: type=arcane
 #: Era_of_Myths/units/wargs/c3_Moon_Blade.cfg:25
 msgid "Moon Sword"
-msgstr "ensis Lunae"
+msgstr "Gladius Lunae"
 
+# Troppi isn't a word. Turba/Caterva are probably the right words
 #. [unit_type]: id=EOM_Pack_Leader, race=warg
 #: Era_of_Myths/units/wargs/c3_Pack_Leader.cfg:5
 msgid "Pack Leader"
-msgstr "Dux Troppi"
+msgstr "Dux Turbae"
 
 #. [unit_type]: id=EOM_Pack_Leader, race=warg
 #: Era_of_Myths/units/wargs/c3_Pack_Leader.cfg:18
@@ -2846,6 +2877,7 @@ msgid ""
 "at hunting any kind of quarry."
 msgstr ""
 
+# I can't find what this word means
 #. [unit_type]: id=EOM_Water_Dryad, race=dryad
 #: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:5
 msgid "Water Dryad"
@@ -2871,7 +2903,7 @@ msgstr "Naias"
 #. [unit_type]: id=EOM_Water_Shyde, race=dryad
 #: Era_of_Myths/units/wargs/g3_Water_Shyde.cfg:5
 msgid "Water Shyde"
-msgstr "Nympha aquae"
+msgstr "Nympha Aquae"
 
 #. [race]: id=abstraction
 #: Era_of_Myths/units/windsong.cfg:9
@@ -2931,13 +2963,14 @@ msgid ""
 "accurate."
 msgstr ""
 
+# What I use in mainline
 #. [attack]: type=impact
 #: Era_of_Myths/units/windsong/a1_Courier.cfg:24
 #: Era_of_Myths/units/windsong/a2_Emissary.cfg:25
 #: Era_of_Myths/units/windsong/a2_Reaver.cfg:27
 #: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:33
 msgid "crush"
-msgstr ""
+msgstr "calcare"
 
 #. [unit_type]: id=EOM_Emissary, race=windsong
 #: Era_of_Myths/units/windsong/a2_Emissary.cfg:5
@@ -2991,7 +3024,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sky_Shard, race=abstraction
 #: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:5
 msgid "Sky Shard"
-msgstr "Gemma caelestis"
+msgstr "Gemma Caelestis"
 
 #. [unit_type]: id=EOM_Sky_Shard, race=abstraction
 #: Era_of_Myths/units/windsong/b0_Sky_Shard.cfg:33
@@ -3030,7 +3063,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
 #: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:5
 msgid "Sky Crystal"
-msgstr "Cristallus caelestis"
+msgstr "Cristallus Caelestis"
 
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
 #: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:34
@@ -3400,7 +3433,7 @@ msgstr "Erudita"
 #: Era_of_Myths/units/windsong/f3_Runeforger.cfg:34
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:26
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [unit_type]: id=EOM_Arbiter, race=windsong
 #: Era_of_Myths/units/windsong/f3_Arbiter.cfg:5
@@ -3421,7 +3454,7 @@ msgstr ""
 #. [attack]: type=blade
 #: Era_of_Myths/units/windsong/f3_Runeforger.cfg:38
 msgid "sorrow"
-msgstr "moestitudo"
+msgstr "maestitudo"
 
 #. [attack]: type=impact
 #: Era_of_Myths/units/windsong/f3_Runeforger.cfg:51
