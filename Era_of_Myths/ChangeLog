@@ -3,6 +3,31 @@
 		          changelog
 
 
+VERSION 5.11.0
+---general changes
+*updated experience= settings to meet the new experience standards
+
+-Warg
+*fixed image paths to attack icons in various units
+
+-Vampires
+*replaced Mistress, Methusalem and Duchess sprite
+*Sire and Methusalem use the Noble portraits
+*fixed the female Fledgeling's defense animation
+
+-Therians
+*cleaned up the racetype chaos
+
+-Celestials
+*replaced Great Wizard sprite
+
+-Elemetals
+*fixed incorrect animation paths
+
+---translations
+*updated translations: German
+*new translations: Latin
+
 VERSION 5.10.1:
 
 -Vampires
