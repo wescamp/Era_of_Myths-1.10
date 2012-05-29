@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: branch 1.10\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2012-03-17 12:23-0400\n"
+"POT-Creation-Date: 2012-05-29 10:31-0400\n"
 "PO-Revision-Date: 2012-02-22 00:17+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -54,7 +54,7 @@ msgstr ""
 
 #. [multiplayer_side]: id=EOM_devlings, type=EOM_Blasphemists
 #. [multiplayer_side]: id=POWER_devlings, type=EOM_Offenders
-#. [multiplayer_side]: id=RECRUIT_devlings, type=EOM_Devling Spikers
+#. [multiplayer_side]: id=RECRUIT_devlings, type=EOM_Spikers
 #: Era_of_Myths/factions/devlings-EOM.cfg:5
 #: Era_of_Myths/factions/devlings-POWER.cfg:5
 #: Era_of_Myths/factions/devlings-RECRUIT.cfg:5
@@ -352,47 +352,47 @@ msgid ""
 "chance of hitting an opponent."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:10
+#: Era_of_Myths/macros/special-notes.cfg:11
 msgid ""
 " This unit will heal allies by 3 HP at the beginning of its turns. In "
 "addition, this ability will inhibit the effects of poison."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:13
+#: Era_of_Myths/macros/special-notes.cfg:15
 msgid ""
 "The ability of this unit to inspire its allies enables adjacent units of the "
 "same side to deal more damage in combat, though this only applies to units "
 "of lower level."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:16
+#: Era_of_Myths/macros/special-notes.cfg:19
 msgid ""
 " Whenever this unit is in a forested area, it will regenerate 3 HP per turn."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:19
+#: Era_of_Myths/macros/special-notes.cfg:23
 msgid ""
 " Whenever this unit is in a mountainous area, it will regenerate 3 HP per "
 "turn."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:22
+#: Era_of_Myths/macros/special-notes.cfg:27
 msgid ""
 " Whenever this unit is in desert-like area, it will regenerate 3 HP per turn."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:25
+#: Era_of_Myths/macros/special-notes.cfg:31
 msgid ""
 " Whenever this unit is in an aquatic area, it will regenerate 3 HP per turn."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:28
+#: Era_of_Myths/macros/special-notes.cfg:35
 msgid ""
 " Whenever this unit attacks with its counter attack defensively, it will "
 "always have at least 60% chance to hit."
 msgstr ""
 
-#: Era_of_Myths/macros/special-notes.cfg:31
+#: Era_of_Myths/macros/special-notes.cfg:39
 msgid ""
 " The steadiness of this unit reduces damage from some attacks, but only "
 "while attacking."
@@ -1177,16 +1177,16 @@ msgid "Overgrown Devling"
 msgstr ""
 
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
-#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:19
+#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:20
 msgid ""
 "Some devlings grow to be almost as tall as a dwarf. These devlings are solid "
 "fighters, and provide a bit of toughness to the devling arsenal."
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:25
-#: Era_of_Myths/units/devlings/c2_Warrior.cfg:25
-#: Era_of_Myths/units/devlings/c3_Hero.cfg:26
+#: Era_of_Myths/units/devlings/c1_Overgrown.cfg:38
+#: Era_of_Myths/units/devlings/c2_Warrior.cfg:38
+#: Era_of_Myths/units/devlings/c3_Hero.cfg:39
 msgid "bash"
 msgstr ""
 
@@ -1196,7 +1196,7 @@ msgid "Soldier"
 msgstr ""
 
 #. [unit_type]: id=EOM_Devling_Soldier, race=devling
-#: Era_of_Myths/units/devlings/c2_Soldier.cfg:19
+#: Era_of_Myths/units/devlings/c2_Soldier.cfg:20
 msgid ""
 "Much of devling philosophy is quite simple. Life is about hurting other "
 "people as much as possible. Overgrown devlings may not be as bright as their "
@@ -1211,7 +1211,7 @@ msgid "Warrior"
 msgstr ""
 
 #. [unit_type]: id=EOM_Devling_Warrior, race=devling
-#: Era_of_Myths/units/devlings/c2_Warrior.cfg:19
+#: Era_of_Myths/units/devlings/c2_Warrior.cfg:20
 msgid ""
 "Much of devling philosophy is quite simple. Life is about hurting other "
 "people as much as possible. Overgrown devlings may not be as bright as their "
@@ -1225,7 +1225,7 @@ msgid "Chief"
 msgstr ""
 
 #. [unit_type]: id=EOM_Devling_Chief, race=devling
-#: Era_of_Myths/units/devlings/c3_Chief.cfg:20
+#: Era_of_Myths/units/devlings/c3_Chief.cfg:21
 msgid ""
 "The Devling Chiefs may look burly compared to their lesser kin but are "
 "fierce warriors. Upon their bodies are hung trophies from their latest "
@@ -1239,7 +1239,7 @@ msgid "Hero"
 msgstr ""
 
 #. [unit_type]: id=EOM_Devling_Hero, race=devling
-#: Era_of_Myths/units/devlings/c3_Hero.cfg:20
+#: Era_of_Myths/units/devlings/c3_Hero.cfg:21
 msgid ""
 "Eventually a deviling can become proficient enough to be revered by his "
 "kindred as a hero. Unfortunately devlings tend to forget any hero who dies, "
@@ -1901,12 +1901,12 @@ msgstr ""
 msgid "spit"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Hunter, race=human
+#. [unit_type]: id=EOM_Therian_Hunter, race=therian2
 #: Era_of_Myths/units/therians/d1_Hunter.cfg:5
 msgid "Hunter"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Hunter, race=human
+#. [unit_type]: id=EOM_Therian_Hunter, race=therian2
 #: Era_of_Myths/units/therians/d1_Hunter.cfg:21
 msgid ""
 "The hunters of Theria travel with minimal armor, carrying only their bow, "
@@ -1923,12 +1923,12 @@ msgstr ""
 msgid "skinning knife"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Tracker, race=human
+#. [unit_type]: id=EOM_Therian_Tracker, race=therian2
 #: Era_of_Myths/units/therians/d2_Tracker.cfg:5
 msgid "Tracker"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Tracker, race=human
+#. [unit_type]: id=EOM_Therian_Tracker, race=therian2
 #: Era_of_Myths/units/therians/d2_Tracker.cfg:21
 msgid ""
 "The hunters of Theria travel with minimal armor, carrying only their bow, "
@@ -1939,12 +1939,12 @@ msgid ""
 "adept at hunting their prey."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Ranger, race=human
+#. [unit_type]: id=EOM_Therian_Ranger, race=therian2
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:5
 msgid "Ranger"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Ranger, race=human
+#. [unit_type]: id=EOM_Therian_Ranger, race=therian2
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:22
 msgid ""
 "Therian Rangers have trained to hunt with only a knife in case of an "
@@ -1952,15 +1952,15 @@ msgid ""
 "point where they cannot be caught off guard."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Guard, race=therian
+#. [unit_type]: id=EOM_Therian_Guard, race=therian2
 #: Era_of_Myths/units/therians/e1_Guard.cfg:5
 msgid "Therian Guard"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Defender, race=therian
-#. [unit_type]: id=EOM_Therian_Guard, race=therian
+#. [unit_type]: id=EOM_Therian_Defender, race=therian2
+#. [unit_type]: id=EOM_Therian_Guard, race=therian2
 #: Era_of_Myths/units/therians/e1_Guard.cfg:23
-#: Era_of_Myths/units/therians/e2_Defender.cfg:24
+#: Era_of_Myths/units/therians/e2_Defender.cfg:19
 msgid ""
 "Therian are peaceful and spiritual by nature, but must protect themselves "
 "nonetheless. With little ore at their disposal, the Therian make due with "
@@ -1972,11 +1972,11 @@ msgstr ""
 
 #. [attack]: type=pierce
 #: Era_of_Myths/units/therians/e1_Guard.cfg:39
-#: Era_of_Myths/units/therians/e2_Defender.cfg:40
+#: Era_of_Myths/units/therians/e2_Defender.cfg:35
 msgid "spear throw"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Defender, race=therian
+#. [unit_type]: id=EOM_Therian_Defender, race=therian2
 #: Era_of_Myths/units/therians/e2_Defender.cfg:5
 msgid "Therian Defender"
 msgstr ""
@@ -2304,6 +2304,11 @@ msgid ""
 "accuracy."
 msgstr ""
 
+#. [female]
+#: Era_of_Myths/units/vampires/c2_Duelist.cfg:88
+msgid "female^Duelist"
+msgstr ""
+
 #. [unit_type]: id=EOM_Noble, race=vampire
 #: Era_of_Myths/units/vampires/c2_Noble.cfg:5
 msgid "Noble"
@@ -2322,13 +2327,18 @@ msgid ""
 "surfs to provide animals for their weekly blood."
 msgstr ""
 
+#. [female]
+#: Era_of_Myths/units/vampires/c2_Noble.cfg:90
+msgid "female^Noble"
+msgstr ""
+
 #. [unit_type]: id=EOM_Sire, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:5
 msgid "Sire"
 msgstr ""
 
 #. [unit_type]: id=EOM_Sire, race=vampire
-#: Era_of_Myths/units/vampires/c3_Sire.cfg:20
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:21
 msgid ""
 "Some vampires grow strong enough to subject other vampire lords to "
 "themselves. In exchange for protection (from whom is not always mentioned), "
@@ -2336,13 +2346,13 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Era_of_Myths/units/vampires/c3_Sire.cfg:53
-#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:53
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:67
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:67
 msgid "dementia gaze"
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c3_Sire.cfg:87
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:101
 msgid "female^Mistress"
 msgstr ""
 
@@ -2360,13 +2370,18 @@ msgid ""
 "devastating and accurate form of fighting that cuts through defenses."
 msgstr ""
 
+#. [female]
+#: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:94
+msgid "female^Sword Dancer"
+msgstr ""
+
 #. [unit_type]: id=EOM_Methusalem, race=vampire
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:5
 msgid "Methusalem"
 msgstr ""
 
 #. [unit_type]: id=EOM_Methusalem, race=vampire
-#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:20
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:21
 msgid ""
 "You may only see one such vampire every thousand years, but when you do you "
 "know war is coming. These vampires have grown so old, and so powerful, that "
@@ -2377,7 +2392,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:86
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:100
 msgid "female^Duchess"
 msgstr ""
 
@@ -2518,7 +2533,7 @@ msgstr ""
 
 #. [race]: id=dryad
 #: Era_of_Myths/units/warg.cfg:6
-msgid " race^Dryads"
+msgid "race^Dryads"
 msgstr ""
 
 #. [race]: id=warg
@@ -2548,12 +2563,12 @@ msgid ""
 "are involved."
 msgstr ""
 
-#. [unit_type]: id=EOM_Shapeshifter, race=human
+#. [unit_type]: id=EOM_Shapeshifter, race=therian
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:5
 msgid "Shapeshifter"
 msgstr ""
 
-#. [unit_type]: id=EOM_Shapeshifter, race=human
+#. [unit_type]: id=EOM_Shapeshifter, race=therian
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:18
 msgid ""
 "The Therian and Warg are good neighbors; a mutual respect binds the two "
@@ -2563,24 +2578,24 @@ msgid ""
 "'Shapeshifters.'"
 msgstr ""
 
-#. [unit_type]: id=EOM_Changeling, race=human
+#. [unit_type]: id=EOM_Changeling, race=therian
 #: Era_of_Myths/units/wargs/a2_Changeling.cfg:5
 msgid "Changeling"
 msgstr ""
 
-#. [unit_type]: id=EOM_Changeling, race=human
+#. [unit_type]: id=EOM_Changeling, race=therian
 #: Era_of_Myths/units/wargs/a2_Changeling.cfg:18
 msgid ""
 "Shapeshifters who have spent extended periods of time enveloped within the "
 "Warg culture grow to even more strongly resemble their companions."
 msgstr ""
 
-#. [unit_type]: id=EOM_Wolfling, race=human
+#. [unit_type]: id=EOM_Wolfling, race=therian
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:7
 msgid "Wolfling"
 msgstr ""
 
-#. [unit_type]: id=EOM_Wolfling, race=human
+#. [unit_type]: id=EOM_Wolfling, race=therian
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:21
 msgid ""
 "Once a Shapeshifter has become fully integrated into Warg society they are "
@@ -2929,14 +2944,6 @@ msgid ""
 "they carry a bow and hit their opponents with small rocks if they come too "
 "close. Their skill at manipulating gravity makes their arrows uncannily "
 "accurate."
-msgstr ""
-
-#. [attack]: type=impact
-#: Era_of_Myths/units/windsong/a1_Courier.cfg:24
-#: Era_of_Myths/units/windsong/a2_Emissary.cfg:25
-#: Era_of_Myths/units/windsong/a2_Reaver.cfg:27
-#: Era_of_Myths/units/windsong/a3_Dreadnought.cfg:33
-msgid "crush"
 msgstr ""
 
 #. [unit_type]: id=EOM_Emissary, race=windsong
