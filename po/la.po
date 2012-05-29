@@ -1,17 +1,18 @@
 # Drakefriend, 2011-2012.
+# Torben Undiwill, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-17 12:23-0400\n"
-"PO-Revision-Date: 2012-03-26 02:51+0100\n"
-"Last-Translator: Thomas Hockings <elprofesh@gmail.com>\n"
+"PO-Revision-Date: 2012-05-29 09:12+0200\n"
+"Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: la\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Virtaal 0.6.1\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #. [era]: id=era_EOM_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:5
@@ -36,7 +37,7 @@ msgstr "Heroes Maiores"
 #. [era]: id=era_EOM_recruit_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:68
 msgid "Myth RPG"
-msgstr ""
+msgstr "Mythi Histrionalis"
 
 #. [era]: id=era_default_and_EOM_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:83
@@ -105,12 +106,12 @@ msgstr "Cynocephali"
 #: Era_of_Myths/factions/windsong-POWER.cfg:5
 #: Era_of_Myths/factions/windsong-RECRUIT.cfg:5
 msgid "Windsong"
-msgstr ""
+msgstr "Aeolocantus"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:11
 msgid "medic"
-msgstr "medicus"
+msgstr "medicat"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:12
@@ -124,20 +125,19 @@ msgstr ""
 #. [heals]: id=medicplus
 #: Era_of_Myths/macros/abilities.cfg:26
 msgid "medic+"
-msgstr "medicus melior"
+msgstr "melius medicat"
 
 #. [heals]: id=medicplus
 #: Era_of_Myths/macros/abilities.cfg:27
-#, fuzzy
 msgid ""
 "Medic+:\n"
 "Allows the unit to remove poison from adjacent units."
-msgstr "medicus "
+msgstr ""
 
 #. [heals]: id=medic2plus
 #: Era_of_Myths/macros/abilities.cfg:42
 msgid "medic++"
-msgstr "medicus optimus"
+msgstr "optime medicat"
 
 #. [heals]: id=medic2plus
 #: Era_of_Myths/macros/abilities.cfg:43
@@ -153,7 +153,7 @@ msgstr ""
 #. [regenerate]: id=selfmed
 #: Era_of_Myths/macros/abilities.cfg:59
 msgid "self-med"
-msgstr "se medicare"
+msgstr "se medicat"
 
 #. [regenerate]: id=selfmed
 #: Era_of_Myths/macros/abilities.cfg:60
@@ -165,7 +165,7 @@ msgstr ""
 #. [regenerate]: id=selfmedplus
 #: Era_of_Myths/macros/abilities.cfg:71
 msgid "self-med+"
-msgstr ""
+msgstr "se melius medicat"
 
 #. [regenerate]: id=selfmedplus
 #: Era_of_Myths/macros/abilities.cfg:72
@@ -177,7 +177,7 @@ msgstr ""
 #. [resistance]: id=dauntless
 #: Era_of_Myths/macros/abilities.cfg:83
 msgid "dauntless"
-msgstr ""
+msgstr "callosus"
 
 #. [resistance]: id=dauntless
 #: Era_of_Myths/macros/abilities.cfg:84
@@ -190,7 +190,7 @@ msgstr ""
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:101
 msgid "heal+3"
-msgstr ""
+msgstr "sanat +III"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:102
@@ -227,7 +227,7 @@ msgstr ""
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:153
 msgid "deserthome"
-msgstr ""
+msgstr "deserticus"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:154
@@ -309,6 +309,16 @@ msgid ""
 "Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
 "Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
 msgstr ""
+"Abel,Aleron,Aldon,Altair,Alumit,Amaia,Amarande,Ambrose,Amdis,Andros,Ashling,"
+"Athan,Bakarne,Bela,Beval,Bian,Blaine,Braeden,Brandeis,Brendan,Brone,Bronwen,"
+"Carden,Cian,Corbin,Damalis,Damian,Danton,Daray,Delano,Donn,Dunkan,Eamen,"
+"Gustaff,Heath,Heathcliff,Ingrum,Jareth,Kaevan,Karayan,Kern,Kieran,Lucine,"
+"Marlin,Nelo,Parris,Raven,Rune,Savan,Sumnor,Tainn,Tariq,Tristram,Vega,Wynn,"
+"Lestat,Louis,Armand,Amadeo,Santiago,Marius,Magnus,David,Enkil,Mael,Santino,"
+"Vittorio,Thorne,Avicus,Felix,Laurent,Daniel,Khayman,Tarquin,Quinn,Vladimir,"
+"Vlad,Ansel,Anwar,Arden,Ashe,Ashford,Ashlin,Bairde,Barnabas,Bentley,Brishen,"
+"Connor,Crevan,Dante,Flynne,Gavin,Hewitt,Holt,Jacy,Jolon,Kasch,Lucyan,Morgyn,"
+"Pembroke,Quillan,Quinn,Riordin,Rowan,Sylvain,Taban,Teague,Wendell"
 
 #: Era_of_Myths/macros/names.cfg:5
 msgid ""
@@ -327,6 +337,20 @@ msgid ""
 "Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
 "Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
 msgstr ""
+"Aislinn,Alana,Alaura,Aleta,Alethea,Alma,Amaris,Amaryllis,Amaya,Ambrosine,"
+"Araxie,Ariana,Autumn,Badria,Blythe,Brenna,Busana,Cascata,Celine,Ceridwen,"
+"Chandra,Damarys,Denisha,Devin,Erela,Fala,Fanya,Hazelle,Isadora,Iva,Javan,"
+"Jenessa,Jora,Jordyn,Jovana,Kamalia,Kalyca,Kavindra,Kestrel,Kynthia,Laqueta,"
+"Layla,Leandra,Leigh,Livana,Naida,Neesha,Nevada,Oleta,Parkyr,Philomina,"
+"Pyralis,Rayne,Risa,Rosalia,Salena,Seda,Shahar,Shea,Silva,Silvana,Tabitha,"
+"Tacita,Tara,Tatiana,Tayce,Vala,Valonia,Vesta,Vidonia,Waneta,Wyntir,Yepa,"
+"Yolanda,Yoninah,Zyta,Adara,Adena,Adrianne,Alarice,Alvita,Amara,Ambika,"
+"Antonia,Araceli,Balandria,Basha,Beryl,Bryn,Callia,Caryssa,Cassandra,"
+"Casondrah,Chatha,Ciara,Cynara,Cytheria,Dabria,Darcei,Deandra,Deirdre,Delores,"
+"Desdomna,Devi,Drucilla,Duvessa,Fantine,Fuscienne,Gabi,Gallia,Hanna,Hedda,"
+"Jerica,Jetta,Joby,Kacila,Kala,Kallie,Keelia,Killian,Kory,Lilith,Lucretia,"
+"Lysha,Mercedes,Mia,Maura,Perdita,Quella,Riona,Safiya,Salina,Severin,Sidonia,"
+"Sirena,Solita,Tempest,Thea,Treva,Trista,Vala,Winta"
 
 #: Era_of_Myths/macros/names.cfg:9
 msgid ""
@@ -350,6 +374,25 @@ msgid ""
 "Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,Heshia,Hia,Holaria,Hasha,Hena,"
 "Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 msgstr ""
+"Ana,Arala,Ala,Asare,Ashara,Athesa,Ama,Averana,Atharuna,Amoshe,Ahurena,Alera,"
+"Ave,Arila,Ai,Atha,Ashe,Aru,Amasela,Aoshe,Amelara,Alura,Eva,Elena,Esure,Ena,"
+"Ethe,Eme,Eira,Ela,Efara,Evina,Eshe,Ethara,Esaora,Eumane,Ehuva,Ere,Emi,Eshi,"
+"Enemura,Sela,Sara,Sula,Salura,Sana,Semisha,Soshire,Suvana,Sife,Saletha,"
+"Sitheri,Surei,Somile,Sahama,Salarema,Sea,Severa,Suthe,Sithame,Ola,Omana,"
+"Osheura,Olena,Onethe,Ovenatha,Fira,Fesha,Fena,Felai,Foma,Furava,Fusatha,Fala,"
+"Famia,Fesea,Fenoma,Fihama,Fama,Fia,Famori,Irena,Ima,Ishama,Iolara,Imaha,"
+"Inithe,Imana,Isora,Ilameshe,Ila,Ishe,Ithoe,Ivie,Imia,Iralura,Isanare,Ihama,"
+"Iri,Ithania,Isavora,Ila,Mana,Mia,Mara,Mura,Masohe,Mushena,Malesa,Minaru,"
+"Minare,Monia,Mesere,Mulasha,Mathe,Minashema,Mesa,Mirana,Mifa,Mivareshana,Une,"
+"Uara,Ushala,Uhima,Uthe,Unaluthe,Thesa,Thema,Thirala,Thoshe,Thofara,Thami,"
+"Thise,Therama,Thila,Thama,Therasa,Thurana,Thalia,Therana,Thomena,Thosa,Thene,"
+"Thime,Thamele,Theshia,Nai,Nama,Norale,Nethala,Nisha,Nemene,Nefe,Navaru,Nula,"
+"Nusina,Naria,Nosua,Naomi,Nahasa,Nila,Nuralena,Nema,Lisa,Lara,Loe,Lasama,"
+"Lemeshe,Lathia,Leshara,Laisa,Line,Lenesa,Loma,Lura,Lesamia,Lehara,Lana,Lashe,"
+"Larena,Lotha,Limia,Lania,Larie,Lafana,Lerava,Love,Rama,Runa,Rashe,Ria,Rovena,"
+"Riva,Rufa,Rithia,Raina,Rava,Rashama,Rei,Rosha,Vena,Via,Velara,Veruna,Visha,"
+"Vana,Vele,Veshere,Vanesa,Vithia,Hana,Haru,Heshia,Hia,Holaria,Hasha,Hena,"
+"Shara,Shena,Shira,Shamane,Shefia,Shune,Shai,Shena,Shalia,Shasi,Shava,Shura"
 
 #: Era_of_Myths/macros/special-notes.cfg:6
 msgid ""
@@ -435,7 +478,7 @@ msgstr ""
 #. [chance_to_hit]: id=counter
 #: Era_of_Myths/macros/specials.cfg:56 Era_of_Myths/macros/specials.cfg:59
 msgid "counter"
-msgstr ""
+msgstr "oppositio"
 
 #. [chance_to_hit]: id=counter
 #: Era_of_Myths/macros/specials.cfg:57 Era_of_Myths/macros/specials.cfg:60
@@ -584,12 +627,12 @@ msgstr "servilis"
 #. [trait]: id=attuned
 #: Era_of_Myths/macros/traits.cfg:231
 msgid "attuned"
-msgstr ""
+msgstr "harmonicus"
 
 #. [trait]: id=attuned
 #: Era_of_Myths/macros/traits.cfg:232
 msgid "female^attuned"
-msgstr ""
+msgstr "harmonica"
 
 #. [trait]: id=attuned
 #: Era_of_Myths/macros/traits.cfg:233
@@ -625,11 +668,16 @@ msgid ""
 "nations than the other factions giving the celestials great military "
 "strength."
 msgstr ""
+"Supernis sunt alae, sed pauci uti possunt. Superni et luce et umbra numen "
+"inesse credunt, et lucem expandere causa pugnant. Societate Superna virtutis "
+"belli dominata, bellatores fortes concordentesque sunt. Ordine unitatisque "
+"ambitionium causa nationes Supernae maiores esse solent finibus aliorum "
+"gentium, itaque vis armarum Supernorum ingens est."
 
 #. [unit_type]: id=EOM_Crusader, race=celestial
 #: Era_of_Myths/units/celestials/a1_Crusader.cfg:5
 msgid "Crusader"
-msgstr "Miles"
+msgstr "Miles Lucis"
 
 #. [unit_type]: id=EOM_Crusader, race=celestial
 #: Era_of_Myths/units/celestials/a1_Crusader.cfg:18
@@ -651,7 +699,7 @@ msgstr "gladius sacer"
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:5
 msgid "Divine Knight"
-msgstr "Oppugnator"
+msgstr "Oppugnator Diei"
 
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:18
@@ -669,7 +717,7 @@ msgstr "fustus maior"
 #. [unit_type]: id=EOM_Protector, race=celestial
 #: Era_of_Myths/units/celestials/a2_Protector.cfg:5
 msgid "Protector"
-msgstr "Propugnator"
+msgstr "Propugnator Solis"
 
 #. [unit_type]: id=EOM_Protector, race=celestial
 #: Era_of_Myths/units/celestials/a2_Protector.cfg:18
@@ -725,7 +773,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:5
 msgid "Holy Sentinel"
-msgstr "Conservator Lucis"
+msgstr "Conservator Caeli"
 
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:19
@@ -763,7 +811,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/b3_Sentinel.cfg:5
 msgid "Sentinel"
-msgstr "Excubitor"
+msgstr "Saepevigilens"
 
 #. [unit_type]: id=EOM_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/b3_Sentinel.cfg:19
@@ -915,7 +963,7 @@ msgstr ""
 #. [attack]: type=fire
 #: Era_of_Myths/units/celestials/e1_Wizard.cfg:38
 msgid "flare"
-msgstr ""
+msgstr "flamma"
 
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:5
@@ -936,7 +984,7 @@ msgstr ""
 #: Era_of_Myths/units/celestials/e3_Prophet.cfg:39
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:39
 msgid "shock"
-msgstr ""
+msgstr "flamma empyrica"
 
 #. [unit_type]: id=EOM_Mystic, race=celestial
 #: Era_of_Myths/units/celestials/e2_Mystic.cfg:5
@@ -1004,14 +1052,14 @@ msgstr ""
 #: Era_of_Myths/units/celestials/f2_Militant.cfg:29
 #: Era_of_Myths/units/celestials/f3_Sicarius.cfg:32
 msgid "chakram slice"
-msgstr ""
+msgstr "rota bellis"
 
 #. [attack]: type=blade
 #: Era_of_Myths/units/celestials/f1_Zealot.cfg:38
 #: Era_of_Myths/units/celestials/f2_Militant.cfg:38
 #: Era_of_Myths/units/celestials/f3_Sicarius.cfg:41
 msgid "chakram throw"
-msgstr ""
+msgstr "rota bellis"
 
 #. [unit_type]: id=EOM_Militant, race=celestial
 #: Era_of_Myths/units/celestials/f2_Militant.cfg:5
@@ -1180,7 +1228,7 @@ msgstr "impalate"
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:5
 msgid "Overgrown Devling"
-msgstr "Magnum Daemonium"
+msgstr "Bestiola"
 
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:19
@@ -1295,7 +1343,7 @@ msgstr ""
 #: Era_of_Myths/units/devlings/e3_Offenders.cfg:26
 #: Era_of_Myths/units/devlings/e4_Abusers.cfg:27
 msgid "kick"
-msgstr ""
+msgstr "pede pellere"
 
 #. [unit_type]: id=EOM_Blasphemists, race=devling
 #: Era_of_Myths/units/devlings/e2_Blasphemists.cfg:5
@@ -1313,7 +1361,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Offenders, race=devling
 #: Era_of_Myths/units/devlings/e3_Offenders.cfg:5
 msgid "Offenders"
-msgstr "Offendantes"
+msgstr "Vexatores"
 
 #. [unit_type]: id=EOM_Offenders, race=devling
 #: Era_of_Myths/units/devlings/e3_Offenders.cfg:20
@@ -1326,7 +1374,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Abusers, race=devling
 #: Era_of_Myths/units/devlings/e4_Abusers.cfg:5
 msgid "Abusers"
-msgstr "Vexatores"
+msgstr "Desecratores"
 
 #. [unit_type]: id=EOM_Abusers, race=devling
 #: Era_of_Myths/units/devlings/e4_Abusers.cfg:21
@@ -1358,6 +1406,9 @@ msgid ""
 "incarnate themselves to fight. They are reclusive, but can be quite fierce "
 "and brutal, for as it is said, there is nothing more ruthless than nature."
 msgstr ""
+"Elementaria custodes mundi sunt, genii elementis qui corpores creant "
+"pugnandi causa. Non aggressiva esse solent, sed feroces brutalisque esse "
+"possunt- nullum natura atrocior esse dicitur."
 
 #. [unit_type]: id=EOM_Fire, race=elemental
 #: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:5
@@ -1407,7 +1458,7 @@ msgstr "Cacus"
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
 #: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:5
 msgid "Fire Ghost"
-msgstr "Incendiarium"
+msgstr "Genius Flammarum"
 
 #. [unit_type]: id=EOM_Lava_Beast, race=elemental
 #: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:5
@@ -1423,7 +1474,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Air, race=elemental
 #: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:5
 msgid "Air Elemental"
-msgstr "Aeratum"
+msgstr "Aereum"
 
 #. [unit_type]: id=EOM_Air, race=elemental
 #: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:26
@@ -1437,7 +1488,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:45
 msgid "Galeforce"
-msgstr ""
+msgstr "procella"
 
 #. [unit_type]: id=EOM_Razorbird, race=elemental
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:5
@@ -1482,7 +1533,7 @@ msgstr ""
 #. [attack]: type=impact
 #: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:41
 msgid "galeforce"
-msgstr ""
+msgstr "procella"
 
 #. [unit_type]: id=EOM_Thunderbird, race=elemental
 #: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:5
@@ -1523,7 +1574,7 @@ msgstr "vortex"
 #. [unit_type]: id=EOM_Djinn, race=elemental
 #: Era_of_Myths/units/elementals/b3_Djinn.cfg:7
 msgid "Djinn"
-msgstr "Aelius"
+msgstr "Dominus Tempestatum"
 
 #. [unit_type]: id=EOM_Djinn, race=elemental
 #: Era_of_Myths/units/elementals/b3_Djinn.cfg:29
@@ -1531,6 +1582,8 @@ msgid ""
 "Djinns are mighty wind spirits who can decimate armies with their powerful "
 "winds. They wield glistening scimitars at close distances."
 msgstr ""
+"Domini Tempestatum genii ventorum potentes sunt. Legiones tempestatibus "
+"eorum destruentes machaeris fulgentibus certant si agressi e procule."
 
 #. [unit_type]: id=EOM_Earth, race=elemental
 #: Era_of_Myths/units/elementals/c1_Earth_Elemental.cfg:5
@@ -1562,7 +1615,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Stone_Titan, race=elemental
 #: Era_of_Myths/units/elementals/c3_Stone_Titan.cfg:5
 msgid "Stone Titan"
-msgstr "Genius Montis"
+msgstr "Titan Lapideus"
 
 #. [unit_type]: id=EOM_Stone_Titan, race=elemental
 #: Era_of_Myths/units/elementals/c3_Stone_Titan.cfg:25
@@ -1656,7 +1709,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Unicorn, race=elemental
 #: Era_of_Myths/units/elementals/e1_Unicorn.cfg:5
 msgid "Unicorn"
-msgstr "Unicornu"
+msgstr "Monoceros"
 
 #. [unit_type]: id=EOM_Unicorn, race=elemental
 #: Era_of_Myths/units/elementals/e1_Unicorn.cfg:27
@@ -1689,7 +1742,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Vine_Beast, race=elemental
 #: Era_of_Myths/units/elementals/f1_Vine_Beast.cfg:5
 msgid "Vine Beast"
-msgstr "Bestia vitibus"
+msgstr "Bestia Vitibus"
 
 #. [unit_type]: id=EOM_Vine_Beast, race=elemental
 #: Era_of_Myths/units/elementals/f1_Vine_Beast.cfg:23
@@ -1702,7 +1755,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Vine_Tiger, race=elemental
 #: Era_of_Myths/units/elementals/f2_Vine_Tiger.cfg:5
 msgid "Vine Tiger"
-msgstr "Tigris vitibus"
+msgstr "Tigris Vitibus"
 
 #. [unit_type]: id=EOM_Vine_Tiger, race=elemental
 #: Era_of_Myths/units/elementals/f2_Vine_Tiger.cfg:25
@@ -1738,6 +1791,10 @@ msgid ""
 "also of the spiritual arts, and the magics of their jungle homes. Therians "
 "are one of the few human factions strong enough to resist the other races."
 msgstr ""
+"Populus Therianus spiritualis ac nonbellicosus est, sed sibi defendere non "
+"haesitabitur. Multarum artium auctores, quorum clarissima est transformatio, "
+"sed etiam artes spiritu auspicesque patriae sylvaticae. Theriani pacem cum "
+"Gente Superna uti solent, et amici Cynocephalorum sunt."
 
 #. [race]: id=therian2
 #: Era_of_Myths/units/therians.cfg:25
@@ -1750,6 +1807,10 @@ msgid ""
 "They are commonly peaceful with the celestials, and share a strange "
 "friendship with the warg."
 msgstr ""
+"Populus Therianus spiritualis ac nonbellicosus est, sed sibi defendere non "
+"haesitabitur. Multarum artium auctores, quorum clarissima est transformatio, "
+"sed etiam artes spiritu auspicesque patriae sylvaticae. Theriani pacem cum "
+"Gente Superna uti solent, et amici Cynocephalorum sunt."
 
 #. [unit_type]: id=EOM_Falcon, race=therian
 #: Era_of_Myths/units/therians/a1_Falcon.cfg:5
@@ -1800,7 +1861,7 @@ msgstr "nimbus"
 #. [unit_type]: id=EOM_Prairie_Falcon, race=therian
 #: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:5
 msgid "Falcon"
-msgstr "Falco"
+msgstr "Falco Maior"
 
 #. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:5
@@ -1933,7 +1994,7 @@ msgstr ""
 #: Era_of_Myths/units/therians/d2_Tracker.cfg:25
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:26
 msgid "skinning knife"
-msgstr ""
+msgstr "culter venatoris"
 
 #. [unit_type]: id=EOM_Therian_Tracker, race=human
 #: Era_of_Myths/units/therians/d2_Tracker.cfg:5
@@ -1955,7 +2016,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Therian_Ranger, race=human
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:5
 msgid "Ranger"
-msgstr "Orion"
+msgstr "Silviperitus"
 
 #. [unit_type]: id=EOM_Therian_Ranger, race=human
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:22
@@ -2124,22 +2185,22 @@ msgstr ""
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:5
 msgid "race^Gargoyle"
-msgstr "Automatum"
+msgstr "Iugulator"
 
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:6
 msgid "race+female^Gargoyle"
-msgstr "Automatum"
+msgstr "Iugulatrix"
 
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:7
 msgid "race^Gargoyles"
-msgstr "Automata"
+msgstr "Iugulatores"
 
 #. [race]: id=gargoyle
 #: Era_of_Myths/units/vampires.cfg:13
 msgid "Vampires can animate stone with blood magics, the result is gargoyles."
-msgstr ""
+msgstr "Iugulatores automata sunt veneficiis vampirorum sanguineis animata."
 
 #. [race]: id=vampire
 #: Era_of_Myths/units/vampires.cfg:20
@@ -2173,12 +2234,22 @@ msgid ""
 "vampire lord so that they can get more blood. Vampires are obsessed with "
 "blood, it is their currency, and most of their magics involve it."
 msgstr ""
+"Vampiri, e lingua Theriana interpretus \"sanguinibus corruptis\", non nati "
+"sunt, sed corruptione sanguinis creati. Vampiri non transformatis similes "
+"videtur, sed cute pallida, capillis albatis, oculis rubris, dentibus "
+"bestialibus differunt. Homines faciliter subiugant atque servos facunt. "
+"Vampiri sanguinem vivendi requirentes servos arbitrariter mulgent. "
+"Administratio Vampirorum feudalis est: Homines servi sunt, nobiles Vampiri. "
+"Maximae parti vampirorum fortitudo aut auctoritas regendi abest, itaque "
+"gratiae domini vampirorum student ut portio sanguinis sua increscet, dominus "
+"homines subiugat, Vampiri addicti sanguinis sunt, sanguis pecunia vampirorum "
+"est, et maxima pars venificiorum vampirorum sanguine effecta est."
 
 # I don't know if this is relevant here, but sanguis is the general term for blood, and cruor is generally blood that has been shed.
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:5
 msgid "Blood Apprentice"
-msgstr "Cruentator"
+msgstr "Veneficus Sanguinis"
 
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:18
@@ -2190,6 +2261,9 @@ msgid ""
 "If the vampire is attacking a non-living creature it can use its blood "
 "boiling magic as a field of fiery aura to damage it."
 msgstr ""
+"Vampiri sanguinis potestatisque addicti semper venificia sanguinis ac "
+"animorum praeferrabant. Venefici sanguinis sanguine hostium infervandi "
+"pugnant. Si contra hostes inanimatos pugnant, nimbo fervente destruent."
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:37
@@ -2197,12 +2271,12 @@ msgstr ""
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:61
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:38
 msgid "blood boil"
-msgstr "cruor calidus"
+msgstr "sanguinem infervere"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
 #: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:5
 msgid "Blood Manipulator"
-msgstr "Magister Cruoris"
+msgstr "Tortor Sanguinis"
 
 #. [unit_type]: id=EOM_Blood_Manipulator, race=vampire
 #: Era_of_Myths/units/vampires/a2_Blood_Manipulator.cfg:18
@@ -2212,6 +2286,9 @@ msgid ""
 "vomit, or burn through your brain. Horrifying as as that is what he can do "
 "to your spirit is worse."
 msgstr ""
+"Terribilis est potentia sanguinem torquendi adeptorum. Sanguis tantus "
+"infertus est. Edere nihil efficit. Vomitas. Cerebrum inflammat. Omnes eorum "
+"Tortores possent efficere, et non sunt potestates horribilissimae."
 
 #. [unit_type]: id=EOM_Flesh_Artisan, race=vampire
 #: Era_of_Myths/units/vampires/a2_Flesh_Artisan.cfg:5
@@ -2229,7 +2306,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sangel, race=vampire
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:5
 msgid "Sangel"
-msgstr "Dominus Cruoris"
+msgstr "Sanguinipotens"
 
 #. [unit_type]: id=EOM_Sangel, race=vampire
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:19
@@ -2237,11 +2314,13 @@ msgid ""
 "Any vampier who has earned the title Sangel can do things with your blood "
 "and soul too horrible to contemplate."
 msgstr ""
+"Horribilissime est quomodo Vampiri Sanguinipotentis titulum adepti sanguinem "
+"animamque possent vexare."
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/vampires/a3_Sangel.cfg:50
 msgid "wipe"
-msgstr ""
+msgstr "dolor"
 
 # For consistency
 #. [unit_type]: id=EOM_Bloodborn, race=vampire
@@ -2290,7 +2369,7 @@ msgstr "Malenata"
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:5
 msgid "Fledgeling"
-msgstr "Pullus"
+msgstr "Tiro"
 
 #. [unit_type]: id=EOM_Fledgeling, race=vampire
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:22
@@ -2305,7 +2384,7 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:86
 msgid "female^Fledgeling"
-msgstr "Pulla"
+msgstr "Tiro"
 
 #. [unit_type]: id=EOM_Duelist, race=vampire
 #: Era_of_Myths/units/vampires/c2_Duelist.cfg:5
@@ -2346,7 +2425,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Sire, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:5
 msgid "Sire"
-msgstr "Imperator"
+msgstr "Princeps"
 
 #. [unit_type]: id=EOM_Sire, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:20
@@ -2365,12 +2444,12 @@ msgstr "fascinum"
 #. [female]
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:87
 msgid "female^Mistress"
-msgstr "Imperatrix"
+msgstr "Princeps"
 
 #. [unit_type]: id=EOM_Sword_Dancer, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:5
 msgid "Sword Dancer"
-msgstr "Sallator gladii"
+msgstr "Sallator Gladii"
 
 #. [unit_type]: id=EOM_Sword_Dancer, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:22
@@ -2407,7 +2486,7 @@ msgstr "Aeterna"
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:5
 msgid "Thin Blood"
-msgstr "Sanguinosus"
+msgstr "Hybrida"
 
 #. [unit_type]: id=EOM_Thin_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:20
@@ -2422,13 +2501,13 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:102
 msgid "female^Thin Blood"
-msgstr "Sanguinosa"
+msgstr "Hybrida"
 
 # What does par- mean? 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:5
 msgid "Half Blood"
-msgstr "Parsanguinosus"
+msgstr "Hybrida Aequatus"
 
 #. [unit_type]: id=EOM_Half_Blood, race=vampire
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:19
@@ -2440,7 +2519,7 @@ msgstr ""
 #. [female]
 #: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:99
 msgid "female^Half Blood"
-msgstr "Parsanguinosa"
+msgstr "Hybrida Aequata"
 
 #. [unit_type]: id=EOM_Day_Hunter, race=vampire
 #: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:5
@@ -2465,7 +2544,7 @@ msgstr "Venatrix Diurna"
 #. [unit_type]: id=EOM_Twilight_Walker, race=vampire
 #: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:5
 msgid "Twilight Walker"
-msgstr "Hybrida"
+msgstr "Hybrida Ancipis"
 
 #. [unit_type]: id=EOM_Twilight_Walker, race=vampire
 #: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:20
@@ -2486,12 +2565,12 @@ msgstr "pugio venatus"
 #. [female]
 #: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:135
 msgid "female^Twilight Walker"
-msgstr "Hybrida"
+msgstr "Hybrida Ancipis"
 
 #. [unit_type]: id=EOM_Gargoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:5
 msgid "Gargoyle"
-msgstr "Automatum"
+msgstr "Iugulator"
 
 #. [unit_type]: id=EOM_Gargoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f1_Gargoyle.cfg:19
@@ -2512,7 +2591,7 @@ msgstr "affligere"
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:5
 msgid "Marlgoyle"
-msgstr "Eurynomus"
+msgstr "Iugulator Atrox"
 
 #. [unit_type]: id=EOM_Marlgoyle, race=gargoyle
 #: Era_of_Myths/units/vampires/f2_Marlgoyle.cfg:20
@@ -2572,12 +2651,16 @@ msgid ""
 "blood-lust, that can be inspired by various things, especially if vampires "
 "are involved."
 msgstr ""
+"Cynocephali silvas omnibus tempestatibus incolant. In turbis ac gentibus "
+"vivere solent, et invasiones in fines suos non pati. Venatores sunt, sed "
+"pacem praeferrunt. Sed inest voluptas cruoris nonullis causis, maxime "
+"vampiris, agitata."
 
 # I can't find what this means
 #. [unit_type]: id=EOM_Shapeshifter, race=human
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:5
 msgid "Shapeshifter"
-msgstr "Neurus"
+msgstr "Lupinus"
 
 #. [unit_type]: id=EOM_Shapeshifter, race=human
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:18
@@ -2605,7 +2688,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Wolfling, race=human
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:7
 msgid "Wolfling"
-msgstr "Lupinotuum"
+msgstr "Lupinotus"
 
 #. [unit_type]: id=EOM_Wolfling, race=human
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:21
@@ -2829,13 +2912,13 @@ msgstr ""
 #: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:25
 #: Era_of_Myths/units/wargs/e3_Flame_Spirit.cfg:26
 msgid "sprite punch"
-msgstr ""
+msgstr "pulsus spirituum"
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/wargs/e1_Fire_Sprite.cfg:34
 #: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:34
 msgid "sapphire flame"
-msgstr ""
+msgstr "ignis spirituum"
 
 #. [unit_type]: id=EOM_Flame_Sprite, race=dryad
 #: Era_of_Myths/units/wargs/e2_Flame_Sprite.cfg:5
@@ -2881,7 +2964,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Water_Dryad, race=dryad
 #: Era_of_Myths/units/wargs/g1_Water_Dryad.cfg:5
 msgid "Water Dryad"
-msgstr "Helionoma"
+msgstr "Nympha Aquae"
 
 #. [unit_type]: id=EOM_Water_Dryad, race=dryad
 #. [unit_type]: id=EOM_Water_Nymph, race=dryad
@@ -2903,7 +2986,7 @@ msgstr "Naias"
 #. [unit_type]: id=EOM_Water_Shyde, race=dryad
 #: Era_of_Myths/units/wargs/g3_Water_Shyde.cfg:5
 msgid "Water Shyde"
-msgstr "Nympha Aquae"
+msgstr "Aquaepotens"
 
 #. [race]: id=abstraction
 #: Era_of_Myths/units/windsong.cfg:9
@@ -2923,12 +3006,12 @@ msgstr "Abstractiones"
 #. [race]: id=windsong
 #: Era_of_Myths/units/windsong.cfg:19
 msgid "race^Windsong Human"
-msgstr ""
+msgstr "Aeolocantrix"
 
 #. [race]: id=windsong
 #: Era_of_Myths/units/windsong.cfg:20
 msgid "race^Windsong Humans"
-msgstr ""
+msgstr "Aeolocantrices"
 
 #. [race]: id=windsong
 #: Era_of_Myths/units/windsong.cfg:25
@@ -3058,7 +3141,7 @@ msgstr ""
 #: Era_of_Myths/units/windsong/c2_Envoy.cfg:32
 #: Era_of_Myths/units/windsong/c3_Herald.cfg:34
 msgid "purge"
-msgstr ""
+msgstr "purgare"
 
 #. [unit_type]: id=EOM_Sky_Crystal, race=abstraction
 #: Era_of_Myths/units/windsong/b1_Sky_Crystal.cfg:5
@@ -3342,7 +3425,7 @@ msgstr ""
 #: Era_of_Myths/units/windsong/e2_Heretic.cfg:53
 #: Era_of_Myths/units/windsong/e3_Harbinger.cfg:65
 msgid "sunburst"
-msgstr ""
+msgstr "incendere"
 
 #. [unit_type]: id=EOM_Lorekeeper, race=windsong
 #: Era_of_Myths/units/windsong/e2_Lorekeeper.cfg:7
@@ -3417,7 +3500,7 @@ msgstr ""
 #: Era_of_Myths/units/windsong/f3_Arbiter.cfg:47
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:48
 msgid "cipher"
-msgstr "C"
+msgstr "signum"
 
 #. [unit_type]: id=EOM_Savant, race=windsong
 #: Era_of_Myths/units/windsong/f2_Savant.cfg:5
@@ -3449,7 +3532,7 @@ msgstr "falx"
 #. [unit_type]: id=EOM_Runeforger, race=windsong
 #: Era_of_Myths/units/windsong/f3_Runeforger.cfg:5
 msgid "female^Runeforger"
-msgstr ""
+msgstr "Signifex"
 
 #. [attack]: type=blade
 #: Era_of_Myths/units/windsong/f3_Runeforger.cfg:38
