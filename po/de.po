@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-05-29 10:31-0400\n"
-"PO-Revision-Date: 2012-04-03 18:40+0200\n"
+"PO-Revision-Date: 2012-05-29 14:27+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: de\n"
@@ -2756,9 +2756,8 @@ msgstr ""
 
 #. [female]
 #: Era_of_Myths/units/vampires/c2_Duelist.cfg:88
-#, fuzzy
 msgid "female^Duelist"
-msgstr "Empusa"
+msgstr "Degen"
 
 #. [unit_type]: id=EOM_Noble, race=vampire
 #: Era_of_Myths/units/vampires/c2_Noble.cfg:5
@@ -2789,9 +2788,8 @@ msgstr ""
 
 #. [female]
 #: Era_of_Myths/units/vampires/c2_Noble.cfg:90
-#, fuzzy
 msgid "female^Noble"
-msgstr "zäh"
+msgstr "Adlige"
 
 #. [unit_type]: id=EOM_Sire, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:5
@@ -2840,9 +2838,8 @@ msgstr ""
 
 #. [female]
 #: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:94
-#, fuzzy
 msgid "female^Sword Dancer"
-msgstr "Schwerttänzer"
+msgstr "Schwerttänzerin"
 
 #. [unit_type]: id=EOM_Methusalem, race=vampire
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:5
