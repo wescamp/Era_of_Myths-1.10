@@ -1,18 +1,19 @@
 # Drakefriend, 2011-2012.
+# Torben Undiwill, 2012.
 msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2012-03-17 12:23-0400\n"
-"PO-Revision-Date: 2012-03-16 18:46+0200\n"
-"Last-Translator: Drakefriend <>\n"
+"PO-Revision-Date: 2012-04-03 18:40+0200\n"
+"Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Virtaal 0.6.1\n"
+"X-Generator: Virtaal 0.7.1\n"
 
 #. [era]: id=era_EOM_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:5
@@ -759,9 +760,9 @@ msgid ""
 msgstr ""
 "Streiter absolvieren eine strenge Kriegsausbildung, erlernen aber auch die "
 "Grundlagen der Heilkunst, um verwundeten Verbündeten im Feld zu versorgen. "
-"Die Schwerter der Streiter werden mit der arkanen Energie der Lichtwesen "
-"gesegnet- eine Tradition, die im Großen Heiligen Krieg gegen die Vampire "
-"zurückgeht. "
+"Die Schwerter der Streiter werden mit der arkanen Energie der "
+"Lichtbringerinnen gesegnet- eine Tradition, die im Großen Heiligen Krieg "
+"gegen die Vampire zurückgeht. "
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/celestials/a1_Crusader.cfg:32
@@ -1329,7 +1330,7 @@ msgstr "Teufelchen sind mit Flügeln noch gefährlicher als ohne."
 #. [unit_type]: id=EOM_Attackers, race=devling
 #: Era_of_Myths/units/devlings/a3_Attackers.cfg:5
 msgid "Attackers"
-msgstr "Angreifer"
+msgstr "Stürmer"
 
 #. [unit_type]: id=EOM_Attackers, race=devling
 #: Era_of_Myths/units/devlings/a3_Attackers.cfg:20
@@ -1411,7 +1412,7 @@ msgstr "Durchbohrt sie!"
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:5
 msgid "Overgrown Devling"
-msgstr "Übergroßes Teufelchen."
+msgstr "Brocken"
 
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:19
@@ -1433,7 +1434,7 @@ msgstr "Hieb"
 #. [unit_type]: id=EOM_Devling_Soldier, race=devling
 #: Era_of_Myths/units/devlings/c2_Soldier.cfg:5
 msgid "Soldier"
-msgstr "Soldat"
+msgstr "Reißer"
 
 #. [unit_type]: id=EOM_Devling_Soldier, race=devling
 #: Era_of_Myths/units/devlings/c2_Soldier.cfg:19
@@ -1454,7 +1455,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Devling_Warrior, race=devling
 #: Era_of_Myths/units/devlings/c2_Warrior.cfg:5
 msgid "Warrior"
-msgstr "Krieger"
+msgstr "Schläger"
 
 #. [unit_type]: id=EOM_Devling_Warrior, race=devling
 #: Era_of_Myths/units/devlings/c2_Warrior.cfg:19
@@ -1473,7 +1474,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Devling_Chief, race=devling
 #: Era_of_Myths/units/devlings/c3_Chief.cfg:5
 msgid "Chief"
-msgstr "Chef"
+msgstr "Schlitzer"
 
 #. [unit_type]: id=EOM_Devling_Chief, race=devling
 #: Era_of_Myths/units/devlings/c3_Chief.cfg:20
@@ -1483,16 +1484,16 @@ msgid ""
 "battles. However they still have not figured out that spears are supposed to "
 "be stabbing weapons, but more than make up for that with brute muscle."
 msgstr ""
-"Die Chefs der Teufelchen mögen gedrungen scheinen, wenn man sie mit ihren "
-"Artgenossen vergleicht, doch sie sind wilde Kämpfer.An ihren Körper hängen "
-"sie Trophäen aus ihren letzten Kämpfen. Trotzdem haben sie immer noch nicht "
-"kapiert, dass Speere Stoßwaffen sind, aber das machen sie mit schierer "
+"Die Schlitzer der Teufelchen mögen nicht viel hermachen, wenn man sie mit "
+"ihren Artgenossen vergleicht, doch sind sie  wilde Kämpfer.An ihren Körper "
+"hängen sie Trophäen aus ihren letzten Kämpfen. Trotzdem haben sie immer noch "
+"nicht kapiert, dass Speere Stoßwaffen sind, aber das machen sie mit schierer "
 "Gewalt mehr als wett."
 
 #. [unit_type]: id=EOM_Devling_Hero, race=devling
 #: Era_of_Myths/units/devlings/c3_Hero.cfg:5
 msgid "Hero"
-msgstr "Held"
+msgstr "Wüterich"
 
 #. [unit_type]: id=EOM_Devling_Hero, race=devling
 #: Era_of_Myths/units/devlings/c3_Hero.cfg:20
@@ -1657,7 +1658,7 @@ msgstr "Feuerkrallen"
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
 #: Era_of_Myths/units/elementals/a2_Fire_Wisp.cfg:5
 msgid "Fire Wisp"
-msgstr "Brandgeist"
+msgstr "Feuerwesen"
 
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
 #. [unit_type]: id=EOM_Fire_Wisp, race=elemental
@@ -1680,12 +1681,12 @@ msgstr "Feuerstoß"
 #. [unit_type]: id=EOM_Living_Furnace, race=elemental, description=
 #: Era_of_Myths/units/elementals/a2_Living_Furnace.cfg:5
 msgid "Living Furnace"
-msgstr "Lebende Glut"
+msgstr "Brodler"
 
 #. [unit_type]: id=EOM_Fire_Ghost, race=elemental
 #: Era_of_Myths/units/elementals/a3_Fire_Ghost.cfg:5
 msgid "Fire Ghost"
-msgstr "Brunstgeist"
+msgstr "Feuerteufel"
 
 #. [unit_type]: id=EOM_Lava_Beast, race=elemental
 #: Era_of_Myths/units/elementals/a3_Lava_Beast.cfg:5
@@ -2025,8 +2026,8 @@ msgid ""
 "The vine beasts grow in size as they live, and the larger forms are called "
 "tigers after a beast that they resemble."
 msgstr ""
-"Ihr Leben lang wachsen Rankenbiester, und die größeren werden Tiger genannt, "
-"dennsie gleichen diesen."
+"Ihr Leben lang wachsen Rankenbiester, und die größeren werden wegen ihrer "
+"Ähnlichkeit zu einem gewissen Raubtier Tiger genannt,"
 
 #. [race]: id=therian
 #. [race]: id=therian2
@@ -2139,7 +2140,7 @@ msgstr "Aurawoge"
 #. [unit_type]: id=EOM_Prairie_Falcon, race=therian
 #: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:5
 msgid "Falcon"
-msgstr "Falke"
+msgstr "Turmfalke"
 
 #. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:5
@@ -2480,7 +2481,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Therian_Master, race=therian2
 #: Era_of_Myths/units/therians/x3_Master.cfg:5
 msgid "Master"
-msgstr "Meister der Zauberei"
+msgstr "Hexer"
 
 #. [unit_type]: id=EOM_Therian_Master, race=therian2
 #: Era_of_Myths/units/therians/x3_Master.cfg:19
@@ -2573,7 +2574,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:5
 msgid "Blood Apprentice"
-msgstr "Verzehrer"
+msgstr "Zehrer"
 
 #. [unit_type]: id=EOM_Blood_Apprentice, race=vampire
 #: Era_of_Myths/units/vampires/a1_Blood_Apprentice.cfg:18
@@ -2612,8 +2613,8 @@ msgid ""
 "vomit, or burn through your brain. Horrifying as as that is what he can do "
 "to your spirit is worse."
 msgstr ""
-"Es ist erschreckend, was ein geübter Verzehrer einem antun kann. Er kann "
-"jede deiner Adern verbrennen. Er kann dich jeder Nahrung berauben, dich zum "
+"Es ist erschreckend, was ein geübter Zehrer einem antun kann. Er kann jede "
+"deiner Adern verbrennen. Er kann dich jeder Nahrung berauben, dich zum "
 "Erbrechen bringen,oder dein Gehirn durchschmorren, So erschreckend das alles "
 "ist, so ist das, was er deiner Seele antun kann, weit  schlimmer."
 
@@ -2697,10 +2698,9 @@ msgid ""
 "ones cannot rebel."
 msgstr ""
 "Manche sind schlicht zu schwach, das Blut zu bewältigen, und nichts als ein "
-"seelenloses Durcheinander verbleibt. Dadurch hat der Vampirherr freie Hand, "
-"mit dem, was von ihnen übrig ist. Dieser Kontrolle wegen sind Vampirherren "
-"oft gewillt, diesen Kreaturen vergiftete Dolche in die Hände zu drücken. "
-"Anders als ihre anderen Diener können diese nicht rebellieren."
+"seelenloses Durcheinander verbleibt. Der Vampirherr besitzt die volle "
+"Kontrolle über die willenloen Überreste, weshalb er sie gerne mit "
+"vergifteten Dolchen bewaffnet-denn nur sie können sich nicht auflehen,"
 
 #. [female]
 #: Era_of_Myths/units/vampires/b1_Malborn.cfg:75
@@ -2778,8 +2778,8 @@ msgstr ""
 "Laune halten, und unterwerfen alle niederen Kreaturen und machen sie zu den "
 "Leibeigenen ihrer Gesellschaft, damit sie im Notfall Blut oder Kanonenfutter "
 "bereit stellen können. Die Adligen ernähren sich nicht direkt von den "
-"Leibeigenen, weil das häufig zur Rebellion führt, sondern zwingen sie, Vieh "
-"für das wöchentliche Blutmahl bereitzustellen"
+"Leibeigenen, um Aufständen vorzubeugen, sondern zwingen sie, Vieh für das "
+"wöchentliche Blutmahl bereitzustellen"
 
 #. [unit_type]: id=EOM_Sire, race=vampire
 #: Era_of_Myths/units/vampires/c3_Sire.cfg:5
@@ -2822,10 +2822,9 @@ msgid ""
 "devastating and accurate form of fighting that cuts through defenses."
 msgstr ""
 "Vampire leben lange und haben die Zeit, viele gesellschaftliche Vergnügungen "
-"zu lernen, zum Beispiel den Tanz. Hassardeure, die viel Zeit mit Kampf und "
-"Tanz verbracht haben, sehen zwischen ihnen Ähnlichkeiten und vereinigen sie "
-"zu einer verheerenden und präzisen Kampfform, die Verteidigungen zu Fall "
-"bringt."
+"zu lernen, zum Beispiel den Tanz. Degen, die viel Zeit mit Kampf und Tanz "
+"verbracht haben, sehen zwischen ihnen Ähnlichkeiten und vereinigen sie zu "
+"einer verheerenden und präzisen Kampfform, die Verteidigungen zu Fall bringt."
 
 #. [unit_type]: id=EOM_Methusalem, race=vampire
 #: Era_of_Myths/units/vampires/c4_Methusalem.cfg:5
