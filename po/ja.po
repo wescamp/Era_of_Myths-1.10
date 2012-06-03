@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2010-06-13 17:48+0200\n"
-"PO-Revision-Date: 2011-09-30 23:33+0900\n"
+"PO-Revision-Date: 2011-11-20 17:48+0900\n"
 "Last-Translator: mishan <mishanhideaki88@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -160,7 +160,7 @@ msgstr ""
 msgid ""
 "Self-med:\n"
 "The unit will slow the effects of poison on itself."
-msgstr ""
+msgstr "このユニットは自身の毒の影響を和らげます。"
 
 #. [regenerate]: id=selfmedplus
 #: Era_of_Myths/macros/abilities.cfg:71
@@ -172,7 +172,7 @@ msgstr ""
 msgid ""
 "Self-med+:\n"
 "The unit will cure the effects of poison on itself."
-msgstr ""
+msgstr "このユニットは自身の毒を治療します。"
 
 #. [resistance]: id=dauntless
 #: Era_of_Myths/macros/abilities.cfg:83
@@ -313,7 +313,7 @@ msgstr "このユニットはターンのはじめに友軍ユニットのHPを3
 
 #: Era_of_Myths/macros/special-notes.cfg:13
 msgid "The ability of this unit to inspire its allies enables adjacent units of the same side to deal more damage in combat, though this only applies to units of lower level."
-msgstr ""
+msgstr "このユニットの能力により近接する友軍ユニットが戦闘においてより強力な攻撃を行うよう鼓舞することができます。しかし、レベルの低いユニットにしか効果がありません。"
 
 #: Era_of_Myths/macros/special-notes.cfg:16
 msgid " Whenever this unit is in a forested area, it will regenerate 3 HP per turn."
@@ -337,7 +337,7 @@ msgstr "このユニットの攻撃は常に60%以上の確率で命中します
 
 #: Era_of_Myths/macros/special-notes.cfg:31
 msgid " The steadiness of this unit reduces damage from some attacks, but only while attacking."
-msgstr ""
+msgstr "このユニットは堅実さにより、攻撃時に受けるダメージを減らします。"
 
 #. [chance_to_hit]: id=massivestrike
 #: Era_of_Myths/macros/specials.cfg:9
@@ -370,9 +370,9 @@ msgid ""
 "vampire = 120%"
 msgstr ""
 "浄化:\n"
-"この攻撃は嫌悪と邪悪なものの結びつきを絶ちます。対象により、さらなるダメージを与えます。:\n"
+"この攻撃は嫌悪と邪悪なものの活発さとの結びつきを絶ちます。対象により、さらなるダメージを与えます。:\n"
 "\n"
-"aberration = 150%\n"
+"異形 = 150%\n"
 "アンデッド = 140%\n"
 "ヴァンパイア = 120%"
 
@@ -588,7 +588,7 @@ msgstr "聖戦士は厳しい軍隊の訓練を受けているうえ、負傷し
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:32
 #: Era_of_Myths/units/celestials/a2_Quester.cfg:39
 msgid "blessed sword"
-msgstr "祝福されし剣"
+msgstr "聖剣"
 
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:5
@@ -598,7 +598,7 @@ msgstr "聖騎士"
 #. [unit_type]: id=EOM_Divine_Knight, race=celestial
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:18
 msgid "A crusader who survives many fierce battles is granted the honor of knighthood. At this time the knight receives a ceremonial mace he must carry at all times."
-msgstr "激戦を生き抜いた聖戦士は騎士の名誉を受けることになります。聖騎士は常に儀式用のメイスを持っていなければなりません。"
+msgstr "幾たびもの激戦を生き抜いた聖戦士は騎士の名誉を受けることになります。聖騎士は常に儀式用のメイスを持っていなければなりません。"
 
 #. [attack]: type=impact
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:50
@@ -614,7 +614,7 @@ msgstr "プロテクター"
 #. [unit_type]: id=EOM_Protector, race=celestial
 #: Era_of_Myths/units/celestials/a2_Protector.cfg:18
 msgid "Protector's swords have been magically enchanted with the power of Fire by Celestial Wizards. Protectors also carry a large shield which they use to bash and Slow their opponents."
-msgstr "プロテクターの剣は翼人の魔術師が出した炎の力によって強化されています。また、大きな盾を持っており、敵を強打し、遅化させます。"
+msgstr "プロテクターの剣は翼人の魔術師が出した炎の力によって強化されています。また、大きな盾で敵を強打し、遅化させます。"
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:33
@@ -631,22 +631,23 @@ msgstr "盾"
 #. [unit_type]: id=EOM_Quester, race=celestial
 #: Era_of_Myths/units/celestials/a2_Quester.cfg:5
 msgid "Quester"
-msgstr "探求者"
+msgstr "冒険者"
 
 #. [unit_type]: id=EOM_Quester, race=celestial
 #: Era_of_Myths/units/celestials/a2_Quester.cfg:21
 msgid "Most Celestials don't ride horses, or wander alone, but some crusaders feel the call to work abroad on their own. These celestials follow the 'quest' to bring light to the world individually through works of valor. Knowing they must travel great distances, they learn to ride horses, and adapt a lance for devastating charge attacks. Although the quest is supposed to be an individual thing, Questers have no problems grouping up with other people if it helps them accomplish their task."
-msgstr "多くの翼人は馬には乗らず、一人で歩きまわることもありません。しかし、聖戦士の中には他の地域を回ってこいという託宣を受け取る者もいます。勇敢さを以て、世界中に光をもたらすという「クエスト」にしたがっています。長距離を旅しなくてはならないことを知っているので、乗馬を学び、槍の扱いに慣れ、痛烈な突撃を行います。探求が個人のものであるとはいえ、使命を達成する助けになるのであれば、団体で行動することも厭いません。"
+msgstr "多くの翼人は馬には乗らず、一人で歩きまわることもありません。しかし、聖戦士の中には他の地域を回ってこいという託宣を受け取る者もいます。勇敢さを以て、世界中に光をもたらすという「クエスト」にしたがっています。長距離を旅しなくてはならないことを知っているので、乗馬を学び、槍の扱いに慣れ、痛烈な突撃を行います。冒険の目的が個人のものであるとはいえ、使命を達成する助けになるのであれば、団体で行動することも厭いません。"
 
 #. [unit_type]: id=EOM_Divine_Champion, race=celestial
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:5
+#, fuzzy
 msgid "Divine Champion"
-msgstr ""
+msgstr "聖チャンピオン"
 
 #. [unit_type]: id=EOM_Divine_Champion, race=celestial
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:19
 msgid "For a Knight to be recognized as a Champion he must first commit at least two Great Deeds and have shown his form to be exceptional to other Knights on the battle field. Champions are reguarded as highly as Messengers, if not perhaps even higher."
-msgstr ""
+msgstr "チャンピオンとして認められるためには少なくとも二つの偉業に関わり、戦場において他の騎士よりも特別すぐれた能力を示さなければなりません。チャンピオンはメッセンジャーと同様、もしくはそれ以上に尊敬されています。"
 
 #. [attack]: type=impact
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:51
@@ -655,14 +656,14 @@ msgstr "フレイル"
 
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:5
+#, fuzzy
 msgid "Holy Sentinel"
-msgstr ""
+msgstr "聖衛兵"
 
 #. [unit_type]: id=EOM_Holy_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/a3_Holy_Sentinel.cfg:19
-#, fuzzy
 msgid "These crusaders hold the line with flaming sword, and great sheild. They are famous for their ability to bash their way forward and then hold the ground they just earned."
-msgstr "この戦士たちは炎の剣と大盾で戦線を維持する役割があります。彼らは前進し、土地を守り、讃えられていることで有名です。"
+msgstr "この衛兵たちは炎の剣と大盾で戦線を維持する役割があります。彼らは行く手を遮る者を打ち払い、陣地を守ることで讃えられています。"
 
 #. [unit_type]: id=EOM_Legionnaire, race=celestial
 #: Era_of_Myths/units/celestials/b1_Legionnaire.cfg:5
@@ -683,7 +684,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Keeper, race=celestial
 #: Era_of_Myths/units/celestials/b2_Keeper.cfg:18
 msgid "Keepers are staunch defenders of the Celestial homelands. With stout hearts, and hardened skin they will hold till death or relief comes."
-msgstr "Keeper は翼人の故郷の信頼に足る警固兵です。勇敢さと固い皮膚は死ぬまで変わることはありません。"
+msgstr "Keeper は翼人の故郷の信頼に足る警固兵です。勇敢さと固い皮膚は死ぬか戦いが終わるまで変わることはありません。"
 
 #. [unit_type]: id=EOM_Sentinel, race=celestial
 #: Era_of_Myths/units/celestials/b3_Sentinel.cfg:5
@@ -722,7 +723,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Lantern_Archon, race=celestial
 #: Era_of_Myths/units/celestials/c2_Lantern_Archon.cfg:23
 msgid "Lantern Archons are a breed of faeries who possess an aura of arcane energy that infuses their entire body with a radiant light. Lantern Archons defend themselves with powerful shocks of arcane energy at a distance; up close they are quite defenseless."
-msgstr "Lantern Archon は神秘的なオーラをまとっている妖精であり、きらきらと輝く光が全身を満たしています。Lantern Archon は遠距離で神秘的なエネルギーの衝撃で自らを守りますが、近距離では全く守ることができません。"
+msgstr "Lantern Archon は神秘的なオーラをまとっている妖精であり、きらきらと輝く光が全身を満たしています。Lantern Archon は遠距離においては神秘的なエネルギーによる衝撃で自らを守りますが、近距離では全く守ることができません。"
 
 #. [unit_type]: id=EOM_Master_of_Light, race=celestial
 #: Era_of_Myths/units/celestials/c3_Master_of_Light.cfg:5
@@ -738,7 +739,7 @@ msgstr "光の匠は神秘的なエネルギーを武器として使うのが大
 #. [unit_type]: id=EOM_Messenger, race=celestial
 #: Era_of_Myths/units/celestials/d1_Messenger.cfg:5
 msgid "Messenger"
-msgstr ""
+msgstr "メッセンジャー"
 
 #. [unit_type]: id=EOM_Messenger, race=celestial
 #: Era_of_Myths/units/celestials/d1_Messenger.cfg:18
@@ -753,27 +754,29 @@ msgstr ""
 #. [unit_type]: id=EOM_Claimant, race=celestial
 #: Era_of_Myths/units/celestials/d2_Claimant.cfg:18
 msgid "All winged Celestials were once named Claimants. They were called this by their bretheren in the beginning days of Celestial society as they claimed to be the natural leaders of the Celestial people. Claimants now exclusively write Celestial law, which Messengers then spread to the people."
-msgstr ""
+msgstr "かつて、羽のある翼人は Claimant と呼ばれていました。それは翼人の社会の初期に、仲間から翼人のリーダーになるよう求められたためです。今や Claimant は翼人の立法権を独占しており、それをメッセンジャーが人々に広める役割を担っています。"
 
 #. [unit_type]: id=EOM_Herald, race=celestial
 #: Era_of_Myths/units/celestials/d3_Herald.cfg:5
 msgid "Herald"
-msgstr ""
+msgstr "ヘラルド"
 
 #. [unit_type]: id=EOM_Herald, race=celestial
 #: Era_of_Myths/units/celestials/d3_Herald.cfg:18
 msgid "Heralds are the highest ranking officers, skilled with sword, and words they inspire their troops to victory. They proclaim a message of hope to their fellows, and a message of death to their foes."
-msgstr ""
+msgstr "ヘラルドは士官の中で最高の地位にあります。熟練した剣の使い手であり、福音によって軍隊を勝利に導きます。味方には希望のメッセージを、敵には死のメッセージを与えます。"
 
 #. [unit_type]: id=EOM_Seraph, race=celestial
 #: Era_of_Myths/units/celestials/d4_Seraphin.cfg:5
+#, fuzzy
 msgid "Seraph"
-msgstr ""
+msgstr "セラフィム"
 
 #. [unit_type]: id=EOM_Seraph, race=celestial
 #: Era_of_Myths/units/celestials/d4_Seraphin.cfg:19
+#, fuzzy
 msgid "Seraphin is the title given to the mightiest of winged celestials. They are honored to the point where they are no longer considered officers in the army, but rather the manifestation of glory. Few  exist that fight with greater strength, or with greater ability to inspire and lead."
-msgstr ""
+msgstr "セラフィムは羽のある翼人の中で最高の力を持っているものに与えられる肩書きです。軍の士官であるという理由ではなく、栄光の現れであるという理由から崇められています。大いなる力で戦うか、優れた能力で鼓舞、指揮します。"
 
 #. [unit_type]: id=EOM_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e1_Wizard.cfg:5
@@ -783,7 +786,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e1_Wizard.cfg:18
 msgid "Celestials who lose their vestigial wings in adolescence are not allowed to fight in the military. As a result, they must undertake other endeavors. The practice of magic is one of such endeavors. Originally used to create the everglowing lights in Celestial towns using Holy energy, some Wizards have harnessed magical powers for more militaristic purposes in order to join their bretheren in battle. The Celestial Heralds have allowed them this honor."
-msgstr ""
+msgstr "翼人で青春期に羽を失った者は軍隊で戦うことが許されていません。そのため、他のことに従事しなければなりません。魔法の修行はそのひとつです。元々は果てしない光を町にもたらすために使われていた聖なるエネルギーですが、ウィザードの中には戦闘に加わるために、この魔力を軍事的な目的に利用するものもいます。 Herald はこのことを許可しています。"
 
 #. [attack]: type=fire
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:39
@@ -792,7 +795,7 @@ msgstr ""
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:38
 #: Era_of_Myths/units/celestials/e2_Mystic.cfg:38
 msgid "shock"
-msgstr ""
+msgstr "衝撃"
 
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:5
@@ -801,18 +804,20 @@ msgstr ""
 
 #. [unit_type]: id=EOM_Great_Wizard, race=celestial
 #: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:18
+#, fuzzy
 msgid "The wizards of the celestials have always harnessed the suns power for their magic. Those who fight with the military for a while become adept at pulling the suns power into rapid magical blasts."
-msgstr ""
+msgstr "翼人の大ウィザードは魔法のために太陽の力を利用しています。軍隊において戦いを経験した者は太陽の力で爆風を生み出すことに熟練しています。"
 
 #. [unit_type]: id=EOM_Mystic, race=celestial
 #: Era_of_Myths/units/celestials/e2_Mystic.cfg:5
 msgid "Mystic"
-msgstr ""
+msgstr "霊媒師"
 
 #. [unit_type]: id=EOM_Mystic, race=celestial
 #: Era_of_Myths/units/celestials/e2_Mystic.cfg:18
+#, fuzzy
 msgid "Many celestial wizards focus on the study of spirits rather than raw sun magic. These are known as mystics. Their skills in this area allow them to aid the army in new ways."
-msgstr ""
+msgstr "翼人のウィザードの中には太陽の力よりも精霊の研究に力を注ぐ者もいます。彼らは霊媒師として知られ、軍隊が新たな方面に進む手助けをします。"
 
 #. [attack]: type=arcane
 #: Era_of_Myths/units/celestials/e3_Prophet.cfg:51
@@ -823,12 +828,13 @@ msgstr ""
 #. [unit_type]: id=EOM_Prophet, race=celestial
 #: Era_of_Myths/units/celestials/e3_Prophet.cfg:5
 msgid "Prophet"
-msgstr ""
+msgstr "預言者"
 
 #. [unit_type]: id=EOM_Prophet, race=celestial
 #: Era_of_Myths/units/celestials/e3_Prophet.cfg:19
+#, fuzzy
 msgid "Mystics who become skilled enough in their arts develop the strange ability to foretell events. No one is certain how they do this or when any of the things they say will happen, records have shone prophecies thousands of years old coming true. These wizards are also deadly warriors in combat."
-msgstr ""
+msgstr "術に精通した霊媒師は預言する能力を発達させます。彼らがどのようなことを行っているのか、預言したことがいつ起きるのか分かっている者はいません。記録では、何千年前もの預言が現実になることがあると記されています。預言者は戦闘において必死に戦います。"
 
 #. [unit_type]: id=EOM_Sage, race=celestial
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:5
@@ -838,7 +844,7 @@ msgstr "賢者"
 #. [unit_type]: id=EOM_Sage, race=celestial
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:19
 msgid "The celestials believe the power of a wizard is not measured by his skill with magic, but by his wisdom of it's use. A wizard who has achieved both power and wisdom is known as a sage."
-msgstr ""
+msgstr "翼人はウィザードが魔法への精通だけではなく、知恵の使い方も評価される考えています。力と知恵の両方を習熟したものは賢者と呼ばれます。"
 
 #. [unit_type]: id=EOM_Zealot, race=celestial
 #: Era_of_Myths/units/celestials/f1_Zealot.cfg:5
@@ -847,8 +853,9 @@ msgstr "狂信者"
 
 #. [unit_type]: id=EOM_Zealot, race=celestial
 #: Era_of_Myths/units/celestials/f1_Zealot.cfg:18
+#, fuzzy
 msgid "The celestial society tends to breed people who would fearlessly battle with no regard for their own life or family. More in fact than they can support in their standing army. However if the armies go marching off, a crowd of zealots will almost always follow, and the armies although not accepting these into their ranks, do not deny them the chance to fight."
-msgstr "翼人の社会では"
+msgstr "翼人の社会では己の生命や家族を顧みることなく、恐れずに戦う人々を育てます。実際、多くのものが常備軍を支えています。しかし、軍隊が行進すると、狂信者の一群がいつもあとからついてきます。軍隊には入れることはないものの、戦う機会を与えます。"
 
 #. [attack]: type=blade
 #: Era_of_Myths/units/celestials/f1_Zealot.cfg:29
@@ -867,22 +874,24 @@ msgstr "チャクラム"
 #. [unit_type]: id=EOM_Militant, race=celestial
 #: Era_of_Myths/units/celestials/f2_Militant.cfg:5
 msgid "Militant"
-msgstr ""
+msgstr "闘志"
 
 #. [unit_type]: id=EOM_Militant, race=celestial
 #: Era_of_Myths/units/celestials/f2_Militant.cfg:18
+#, fuzzy
 msgid "The celestials have always had a very militant, and totalitarian mindset. They believe that the battle with evil should be fought until it is over. As a result there is no shortage of civilians who are willing to join and fight for the army at a minutes notice. Some of them even practice in case such a chance comes up."
-msgstr ""
+msgstr "翼人は大変好戦的で、全体主義的な考え方をします。邪悪なものとの戦いが終わるまで戦いは続くと信じています。そのため、わずかな告知をするだけで、軍隊に入り、一緒に戦いたいという市民が大勢集まります。中には機会があれば実践している者もいます。"
 
 #. [unit_type]: id=EOM_Sicarius, race=celestial
 #: Era_of_Myths/units/celestials/f3_Sicarius.cfg:7
+#, fuzzy
 msgid "Sicarius"
 msgstr ""
 
 #. [unit_type]: id=EOM_Sicarius, race=celestial
 #: Era_of_Myths/units/celestials/f3_Sicarius.cfg:21
 msgid "Civilian warriors who have proven their worth time and time again, are granted an honorary rank known as Sicarius. It is quite an quite an honor in Celestial society."
-msgstr ""
+msgstr "何度も己の価値を証明した民兵は Sicarius と呼ばれる栄誉ある地位にあるとみなされます。翼人の社会ではきわめて恐れられています。"
 
 #. [race]: id=devling
 #: Era_of_Myths/units/devlings.cfg:7
@@ -1003,7 +1012,7 @@ msgstr ""
 #. [unit_type]: id=EOM_Overgrown_Devling, race=devling
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:20
 msgid "Some devlings grow to be almost as tall as a dwarf. These devlings are solid fighters, and provide a bit of toughness to the devling arsenal."
-msgstr "悪鬼のなかにはドワーフと同じぐらいに成長する者もいます。このような悪鬼は強い戦士となり、悪鬼の軍団を一層頑強にします。"
+msgstr "悪鬼のなかにはドワーフと同じぐらいの大きさに成長する者もいます。このような悪鬼は強い戦士となり、悪鬼の軍団を一層頑強にします。"
 
 #. [attack]: type=impact
 #: Era_of_Myths/units/devlings/c1_Overgrown.cfg:26
