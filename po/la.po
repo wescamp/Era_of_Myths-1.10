@@ -3,7 +3,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
+"Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-05-29 10:31-0400\n"
 "PO-Revision-Date: 2012-05-29 14:25+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
