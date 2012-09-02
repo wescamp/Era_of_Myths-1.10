@@ -124,6 +124,7 @@ $(DOMAIN).pot-update: $(POTFILES) $(srcdir)/POTFILES.in remove-potcdate.sed
 	  else \
 	    mv $(DOMAIN).po $(srcdir)/$(DOMAIN).pot; \
 	  fi; \
+	  sed -i 's/http:\/\/bugs.wesnoth.org\//$(MSGID_BUGS_ADDRESS)/g' $(srcdir)/$(DOMAIN).pot; \
 	}
 
 # This rule has no dependencies: we don't need to update $(DOMAIN).pot at

@@ -76,9 +76,7 @@ top_builddir = ..
 # package.  (Note that the msgstr strings, extracted from the package's
 # sources, belong to the copyright holder of the package.)  Translators are
 # expected to transfer the copyright for their translations to this person
-# or entity, or to disclaim their copyright.  The empty string stands for
-# the public domain; in this case the translators are expected to disclaim
-# their copyright.
+# or entity, or to disclaim their copyright.
 COPYRIGHT_HOLDER =
 
 # This is the email address or URL to which the translators shall report
@@ -95,7 +93,7 @@ COPYRIGHT_HOLDER =
 # It can be your email address, or a mailing list address where translators
 # can write to without being subscribed, or the URL of a web page through
 # which the translators can contact you.
-MSGID_BUGS_ADDRESS=
+MSGID_BUGS_ADDRESS =
 
 .SUFFIXES:
 .SUFFIXES: .po .gmo .mo .sed .sin .nop .po-create .po-update
@@ -159,6 +157,7 @@ $(DOMAIN).pot-update: $(POTFILES) $(srcdir)/POTFILES.in remove-potcdate.sed
 	  else \
 	    mv $(DOMAIN).po $(srcdir)/$(DOMAIN).pot; \
 	  fi; \
+	  sed -i 's/http:\/\/bugs.wesnoth.org\//$(MSGID_BUGS_ADDRESS)/g' $(srcdir)/$(DOMAIN).pot; \
 	}
 
 # This rule has no dependencies: we don't need to update $(DOMAIN).pot at
