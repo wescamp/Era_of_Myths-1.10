@@ -79,7 +79,7 @@ top_builddir = ..
 # or entity, or to disclaim their copyright.  The empty string stands for
 # the public domain; in this case the translators are expected to disclaim
 # their copyright.
-COPYRIGHT_HOLDER = Wesnoth development team
+COPYRIGHT_HOLDER =
 
 # This is the email address or URL to which the translators shall report
 # bugs in the untranslated strings:
@@ -95,7 +95,7 @@ COPYRIGHT_HOLDER = Wesnoth development team
 # It can be your email address, or a mailing list address where translators
 # can write to without being subscribed, or the URL of a web page through
 # which the translators can contact you.
-MSGID_BUGS_ADDRESS =http://bugs.wesnoth.org/
+MSGID_BUGS_ADDRESS=
 
 .SUFFIXES:
 .SUFFIXES: .po .gmo .mo .sed .sin .nop .po-create .po-update
