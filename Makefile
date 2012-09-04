@@ -35,14 +35,9 @@ setup:
 	test -f po/LINGUAS || :> po/LINGUAS
 	touch config.status
 	sed < po/Makefile.in.in > po/Makefile \
-		-e "s/@USE_NLS@/yes/g" \
-		-e "s/@POMAKEFILEDEPS@/POTFILES.in LINGUAS/" \
-		-e "s/@SET_MAKE@//" \
 		-e "s/@PACKAGE@/${DOMAIN}/" \
 		-e "s/@srcdir@/./" \
 		-e "s/@top_srcdir@/../" \
-		-e "s,@INSTALL_DATA@,/usr/bin/install -m644," \
-		-e "s,@XGETTEXT@,true," \
 		-e "s,@MSGFMT@,msgfmt," \
 		-e "s,@GMSGFMT@,msgfmt," \
 		-e "s,@MSGMERGE@,msgmerge," \
@@ -64,4 +59,4 @@ realclean: clean
 	rm -rf ${CAMPAIGN}/translations
 
 tarball:
-	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/POTFILES.in po/remove-potcdate.sin
+	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/remove-potcdate.sin
