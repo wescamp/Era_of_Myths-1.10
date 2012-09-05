@@ -78,7 +78,7 @@ COPYRIGHT_HOLDER =
 MSGID_BUGS_ADDRESS =
 
 .SUFFIXES:
-.SUFFIXES: .po .gmo .mo .sed .sin .nop .po-create .po-update
+.SUFFIXES: .po .gmo .mo .sed .nop .po-create .po-update
 
 all:
 	@echo "Run make in the directory below instead"
@@ -149,7 +149,6 @@ $(POFILES): $(srcdir)/$(DOMAIN).pot
 info dvi ps pdf html tags TAGS ctags CTAGS ID:
 
 mostlyclean:
-	rm -f remove-potcdate.sed
 	rm -f core core.* $(DOMAIN).po $(DOMAIN).1po $(DOMAIN).2po *.new.po
 	rm -f *.gmo
 	rm -f *.po~

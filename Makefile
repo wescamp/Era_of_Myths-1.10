@@ -59,4 +59,4 @@ realclean: clean
 	rm -rf ${CAMPAIGN}/translations
 
 tarball:
-	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/remove-potcdate.sin
+	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/remove-potcdate.sed
