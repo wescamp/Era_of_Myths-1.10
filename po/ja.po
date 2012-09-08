@@ -1,7 +1,7 @@
 # mishan <mishanhideaki88@gmail.com>, 2011.
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-04 21:00-0400\n"
 "PO-Revision-Date: 2011-11-20 17:48+0900\n"
