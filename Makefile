@@ -31,15 +31,18 @@ all: setup
 	done
 	cd po && make clean
 
+# The comment-remove command is seperate from the Makevars insertion line.
+# This arrangement allows for comments from Makevars to be stripped too.
 setup:
 	test -f po/LINGUAS || :> po/LINGUAS
 	touch config.status
 	sed < po/Makefile.in.in > po/Makefile \
+		-e "s/@CAMPAIGN@/${CAMPAIGN}/" \
 		-e "s/@PACKAGE@/${DOMAIN}/" \
+		-e "s/@BRANCH@/${BRANCH}/" \
 		-e "s/@srcdir@/./" \
 		-e "s/@top_srcdir@/../" \
 		-e "s,@MSGFMT@,msgfmt," \
-		-e "s,@GMSGFMT@,msgfmt," \
 		-e "s,@MSGMERGE@,msgmerge," \
 		-e "s/@POFILES@/${POFILES}/" \
 		-e "s/@DUMMYPOFILES@/${DUMMYPOFILES}/" \
@@ -47,6 +50,7 @@ setup:
 		-e "s/@GMOFILES@/${GMOFILES}/" \
 		-e "s/@CATALOGS@/${CATALOGS}/" \
 		-e "/Makevars gets inserted here/ r po/Makevars"
+	sed -i po/Makefile -e "/^[ \t]*#/d"
 
 mostlyclean:
 	-cd po && make mostlyclean
@@ -59,4 +63,4 @@ realclean: clean
 	rm -rf ${CAMPAIGN}/translations
 
 tarball:
-	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/remove-potcdate.sed
+	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/remove-potcdate.sin

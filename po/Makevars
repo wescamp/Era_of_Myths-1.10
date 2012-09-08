@@ -4,9 +4,8 @@
 DOMAIN = $(PACKAGE)
 WMLXGETTEXT := wmlxgettext
 
-# These two variables depend on the location of this directory.
+# This variable depends on the location of this directory.
 subdir = po
-top_builddir = ..
 
 # This is the copyright holder that gets inserted into the header of the
 # $(DOMAIN).pot file.  Set this to the copyright holder of the surrounding

@@ -14,38 +14,30 @@
 # - proper behaviour when msgfmt is missing
 # - support for relative localedir
 
+CAMPAIGN = @CAMPAIGN@
 PACKAGE = @PACKAGE@
-VERSION = @VERSION@
+BRANCH = @BRANCH@
 
 SHELL = /bin/sh
 
 srcdir = @srcdir@
 top_srcdir = @top_srcdir@
 
-GMSGFMT = @GMSGFMT@
 MSGFMT = @MSGFMT@
 WMLXGETTEXT := $(top_srcdir)/utils/wmlxgettext
 MSGMERGE = msgmerge
 MSGMERGE_UPDATE = @MSGMERGE@ --update
-MSGINIT = msginit
-MSGCONV = msgconv
-MSGFILTER = msgfilter
 
 POFILES = @POFILES@
 GMOFILES = @GMOFILES@
 UPDATEPOFILES = @UPDATEPOFILES@
 DUMMYPOFILES = @DUMMYPOFILES@
-DISTFILES.common = Makefile.in.in remove-potcdate.sin \
-$(DISTFILES.common.extra1) $(DISTFILES.common.extra2) $(DISTFILES.common.extra3)
-DISTFILES = $(DISTFILES.common) Makevars $(DOMAIN).pot \
-	$(POFILES) $(DISTFILES.extra1) $(DISTFILES.extra2) $(DISTFILES.extra3)
 
 CATALOGS = @CATALOGS@
 
 # Makevars gets inserted here. (Don't remove this line!)
 
-.SUFFIXES:
-.SUFFIXES: .po .gmo .mo .sed .nop .po-create .po-update
+.SUFFIXES: .po .gmo .mo .sed .sin .nop .po-update
 
 all:
 	@echo "Run make in the directory below instead"
@@ -57,20 +49,21 @@ all:
 .po.gmo:
 	@lang=`echo $* | sed -e 's,.*/,,'`; \
 	test "$(srcdir)" = . && cdcmd="" || cdcmd="cd $(srcdir) && "; \
-	echo "$${cdcmd}rm -f $${lang}.gmo && $(GMSGFMT) -c --statistics -o $${lang}.gmo $${lang}.po"; \
-	cd $(srcdir) && rm -f $${lang}.gmo && $(GMSGFMT) -c --statistics -o t-$${lang}.gmo $${lang}.po 2>&1 | tee $${lang}.stats && if test -e t-$${lang}.gmo; then mv t-$${lang}.gmo $${lang}.gmo; fi; \
+	echo "$${cdcmd}rm -f $${lang}.gmo && $(MSGFMT) -c --statistics -o $${lang}.gmo $${lang}.po"; \
+	cd $(srcdir) && rm -f $${lang}.gmo && $(MSGFMT) -c --statistics -o t-$${lang}.gmo $${lang}.po 2>&1 | tee $${lang}.stats && if test -e t-$${lang}.gmo; then mv t-$${lang}.gmo $${lang}.gmo; fi; \
 	if grep '^0 translated' $${lang}.stats; then \
 		rm $${lang}.gmo; \
 	fi; \
 	rm -f $${lang}.stats
 
+# Strips comments from .sin and generates .sed
 .sin.sed:
 	sed -e '/^#/d' $< > t-$@
 	mv t-$@ $@
 
 # This target rebuilds $(DOMAIN).pot; it is an expensive operation.
 # Note that $(DOMAIN).pot is not touched if it doesn't need to be changed.
-$(DOMAIN).pot-update:
+$(DOMAIN).pot-update: $(srcdir)/remove-potcdate.sed
 	if test -r $(srcdir)/FINDCFG ;\
 	then ${WMLXGETTEXT} --directory=$(top_srcdir) --domain=$(DOMAIN) \
 	  `cd $(top_srcdir) && sh $(subdir)/FINDCFG` > $(DOMAIN).wml.po ;\
@@ -79,6 +72,12 @@ $(DOMAIN).pot-update:
 	  mv $(DOMAIN).wml.po $(DOMAIN).po ;\
 	fi
 	rm -f $(DOMAIN).wml.po
+	# Fill in Project-Id-Version
+	sed -i 's/PACKAGE VERSION/$(CAMPAIGN)-$(BRANCH)/g' $(DOMAIN).po;
+	# Remove Report-To target
+	sed -i 's/http:\/\/bugs.wesnoth.org\//$(MSGID_BUGS_ADDRESS)/g' $(DOMAIN).po;
+	# Strip the timestamp and see if the result differs from the old file.
+	# If it does, replace the old file.
 	test ! -f $(DOMAIN).po || { \
 	  if test -f $(srcdir)/$(DOMAIN).pot; then \
 	    sed -f remove-potcdate.sed < $(srcdir)/$(DOMAIN).pot > $(DOMAIN).1po && \
@@ -92,7 +91,6 @@ $(DOMAIN).pot-update:
 	  else \
 	    mv $(DOMAIN).po $(srcdir)/$(DOMAIN).pot; \
 	  fi; \
-	  sed -i 's/http:\/\/bugs.wesnoth.org\//$(MSGID_BUGS_ADDRESS)/g' $(srcdir)/$(DOMAIN).pot; \
 	}
 
 # This rule has no dependencies: we don't need to update $(DOMAIN).pot at
@@ -110,12 +108,13 @@ $(POFILES): $(srcdir)/$(DOMAIN).pot
 	  echo "$${cdcmd}$(MSGMERGE_UPDATE) $${lang}.po $(DOMAIN).pot"; \
 	  cd $(srcdir) && $(MSGMERGE_UPDATE) $${lang}.po $(DOMAIN).pot; \
 	else \
-	  $(MAKE) $${lang}.po-create; \
+	  echo "$${lang}.po is missing. You should probably update the build system"; \
 	fi
 
 info dvi ps pdf html tags TAGS ctags CTAGS ID:
 
 mostlyclean:
+	rm -f remove-potcdate.sed
 	rm -f core core.* $(DOMAIN).po $(DOMAIN).1po $(DOMAIN).2po *.new.po
 	rm -f *.gmo
 	rm -f *.po~
@@ -124,18 +123,12 @@ mostlyclean:
 clean: mostlyclean
 
 distclean: clean
-	rm -f Makefile Makefile.in *.mo
+	rm -f Makefile *.mo
 
 update-po:
 	$(MAKE) $(DOMAIN).pot-update
 	test -z "$(UPDATEPOFILES)" || $(MAKE) $(UPDATEPOFILES)
 	$(MAKE) update-gmo
-
-# General rule for creating PO files.
-
-.nop.po-create:
-	@lang=`echo $@ | sed -e 's/\.po-create$$//'`; \
-	$(MSGINIT) --no-translator -l $$lang -o $$lang.po
 
 # General rule for updating PO files.
 
