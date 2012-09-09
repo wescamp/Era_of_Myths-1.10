@@ -1,19 +1,11 @@
 include campaign.def
 
 LANGS=$(shell cat po/LINGUAS)
-ifeq (${LANGS},)
-POFILES=
-DUMMYPOFILES=
-UPDATEPOFILES=
-GMOFILES=
-CATALOGS=
-else
 POFILES=${LANGS:=.po}
 DUMMYPOFILES=${LANGS:=.nop}
 UPDATEPOFILES=${LANGS:=.po-update}
 GMOFILES=${LANGS:=.gmo}
 CATALOGS=${LANGS:=.gmo}
-endif
 
 all: setup
 	cd po && make update-po
@@ -34,8 +26,6 @@ all: setup
 # The comment-remove command is seperate from the Makevars insertion line.
 # This arrangement allows for comments from Makevars to be stripped too.
 setup:
-	test -f po/LINGUAS || :> po/LINGUAS
-	touch config.status
 	sed < po/Makefile.in.in > po/Makefile \
 		-e "s/@CAMPAIGN@/${CAMPAIGN}/" \
 		-e "s/@PACKAGE@/${DOMAIN}/" \
@@ -56,11 +46,10 @@ mostlyclean:
 	-cd po && make mostlyclean
 
 clean:
+	-cd po && make clean
+
+distclean:
 	-cd po && make distclean
-	rm -f config.status
 
-realclean: clean
+realclean: distclean
 	rm -rf ${CAMPAIGN}/translations
-
-tarball:
-	tar zcf ../pokit.tgz Makefile README.pokit po/FINDCFG po/Makefile.in.in po/Makevars po/remove-potcdate.sin
