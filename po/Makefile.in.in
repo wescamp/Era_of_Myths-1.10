@@ -88,6 +88,10 @@ $(DOMAIN).pot-update: $(srcdir)/remove-potcdate.sed
 	    mv $(DOMAIN).po $(srcdir)/$(DOMAIN).pot; \
 	  fi; \
 	}
+	if test 1 -qe `grep msgid $(srcdir)/$(DOMAIN).pot | wc -l`; then \
+	  echo "Translation catalog empty" >&2; \
+	  exit 1; \
+	fi;
 
 # This rule has no dependencies: we don't need to update $(DOMAIN).pot at
 # every "make" invocation, only create it when it is missing.
