@@ -88,7 +88,7 @@ $(DOMAIN).pot-update: $(srcdir)/remove-potcdate.sed
 	    mv $(DOMAIN).po $(srcdir)/$(DOMAIN).pot; \
 	  fi; \
 	}
-	if test 1 -qe `grep msgid $(srcdir)/$(DOMAIN).pot | wc -l`; then \
+	if test 1 -ge `grep msgid $(srcdir)/$(DOMAIN).pot | wc -l`; then \
 	  echo "Translation catalog empty" >&2; \
 	  exit 1; \
 	fi;
