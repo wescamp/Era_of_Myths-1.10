@@ -2,6 +2,13 @@
 		----- The Era of Myths -----
 		          changelog
 
+VERSION 5.12.0
+-Therians
+*finally clearing up the race chaos
+*fixed hunter line animations
+
+--translations:
+*updated translations: German, Latin
 
 VERSION 5.11.0
 ---general changes
@@ -16,7 +23,7 @@ VERSION 5.11.0
 *fixed the female Fledgeling's defense animation
 
 -Therians
-*cleaned up the racetype chaos
+*cleaned up the racetype
 
 -Celestials
 *replaced Great Wizard sprite

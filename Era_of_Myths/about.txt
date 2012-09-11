@@ -13,6 +13,7 @@ ERA MAINTAINER:
 CO-MAINTAINER:
 --Espreon
 --Velensk
+--Drakefriend
 
 SPECIAL THANKS:
 --Jester
@@ -59,6 +60,7 @@ Art:
 --Ryorin
 --Neoriceisgood
 --Guest_1219
+--Eleazar
 --others
 
 DEVLINGS:
