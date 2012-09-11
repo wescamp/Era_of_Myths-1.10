@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-04 21:00-0400\n"
+"POT-Creation-Date: 2012-09-11 08:32-0400\n"
 "PO-Revision-Date: 2011-07-16 06:08-0400\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -358,9 +358,9 @@ msgstr ""
 
 #: Era_of_Myths/macros/special-notes.cfg:15
 msgid ""
-"The ability of this unit to inspire its allies enables adjacent units of the "
-"same side to deal more damage in combat, though this only applies to units "
-"of lower level."
+" The ability of this unit to inspire its allies enables adjacent units of "
+"the same side to deal more damage in combat, though this does not apply to "
+"other Messengers or units of higher level."
 msgstr ""
 
 #: Era_of_Myths/macros/special-notes.cfg:19
@@ -1699,42 +1699,29 @@ msgid ""
 msgstr ""
 
 #. [race]: id=therian
-#. [race]: id=therian2
-#: Era_of_Myths/units/therians.cfg:7 Era_of_Myths/units/therians.cfg:19
+#: Era_of_Myths/units/therians.cfg:7
 msgid "race^Therian Human"
 msgstr ""
 
 #. [race]: id=therian
-#. [race]: id=therian2
-#: Era_of_Myths/units/therians.cfg:8 Era_of_Myths/units/therians.cfg:20
+#: Era_of_Myths/units/therians.cfg:8
 msgid "race+female^Therian Human"
 msgstr ""
 
 #. [race]: id=therian
-#. [race]: id=therian2
-#: Era_of_Myths/units/therians.cfg:9 Era_of_Myths/units/therians.cfg:21
+#: Era_of_Myths/units/therians.cfg:9
 msgid "race^Therian Humans"
 msgstr ""
 
 #. [race]: id=therian
-#: Era_of_Myths/units/therians.cfg:14
-msgid ""
-"The Therians are a spiritual people, who are generally not very aggressive, "
-"but believe in self-sufficiency, and self-defense. They pride themselves in "
-"their development of many arts, most particularly that of shapeshifting, but "
-"also of the spiritual arts, and the magics of their jungle homes. Therians "
-"are one of the few human factions strong enough to resist the other races."
-msgstr ""
-
-#. [race]: id=therian2
-#: Era_of_Myths/units/therians.cfg:25
+#: Era_of_Myths/units/therians.cfg:13
 msgid ""
 "The Therians are a spiritual people, who are generally not very aggressive, "
 "but believe in self-sufficiency, and self-defense. They pride themselves in "
 "their development of many arts, most particularly that of shapeshifting, but "
 "also of the spiritual arts, and the magics of their jungle homes. Therians "
 "are one of the few human factions strong enough to resist the other races. "
-"They are commonly peaceful with the celestials, and share a strange "
+"They are commonly peaceful with the celestials and share a strange "
 "friendship with the warg."
 msgstr ""
 
@@ -1747,10 +1734,10 @@ msgstr ""
 #. [unit_type]: id=EOM_Gyrfalcon, race=therian
 #. [unit_type]: id=EOM_Peregrine_Falcon, race=therian
 #. [unit_type]: id=EOM_Prairie_Falcon, race=therian
-#: Era_of_Myths/units/therians/a1_Falcon.cfg:18
-#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:18
-#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:19
-#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:19
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:19
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:19
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:20
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:20
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -1764,20 +1751,20 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/therians/a1_Falcon.cfg:36
-#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:36
-#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:37
-#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:37
-#: Era_of_Myths/units/therians/b1_Cat.cfg:41
-#: Era_of_Myths/units/therians/b2_Wildcat.cfg:50
-#: Era_of_Myths/units/therians/b3_Panther.cfg:54
-#: Era_of_Myths/units/therians/b3_Tiger.cfg:56
-#: Era_of_Myths/units/therians/c1_Serpent.cfg:40
-#: Era_of_Myths/units/therians/c2_Cobra.cfg:53
-#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:58
-#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:42
-#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:55
-#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:67
+#: Era_of_Myths/units/therians/a1_Falcon.cfg:37
+#: Era_of_Myths/units/therians/a2_Prairie_Falcon.cfg:37
+#: Era_of_Myths/units/therians/a3_Gyrfalcon.cfg:38
+#: Era_of_Myths/units/therians/a3_Peregrine_Falcon.cfg:38
+#: Era_of_Myths/units/therians/b1_Cat.cfg:42
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:51
+#: Era_of_Myths/units/therians/b3_Panther.cfg:55
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:57
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:41
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:54
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:59
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:43
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:56
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:68
 #: Era_of_Myths/units/wargs/a1_Shapeshifter.cfg:44
 #: Era_of_Myths/units/wargs/a2_Changeling.cfg:44
 #: Era_of_Myths/units/wargs/a3_Wolfling.cfg:45
@@ -1808,10 +1795,10 @@ msgstr ""
 #. [unit_type]: id=EOM_Panther, race=therian
 #. [unit_type]: id=EOM_Tiger, race=therian
 #. [unit_type]: id=EOM_Wildcat, race=therian
-#: Era_of_Myths/units/therians/b1_Cat.cfg:18
-#: Era_of_Myths/units/therians/b2_Wildcat.cfg:18
-#: Era_of_Myths/units/therians/b3_Panther.cfg:19
-#: Era_of_Myths/units/therians/b3_Tiger.cfg:20
+#: Era_of_Myths/units/therians/b1_Cat.cfg:19
+#: Era_of_Myths/units/therians/b2_Wildcat.cfg:19
+#: Era_of_Myths/units/therians/b3_Panther.cfg:20
+#: Era_of_Myths/units/therians/b3_Tiger.cfg:21
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -1851,12 +1838,12 @@ msgstr ""
 #. [unit_type]: id=EOM_Sea_Snake, race=therian
 #. [unit_type]: id=EOM_Serpent, race=therian
 #. [unit_type]: id=EOM_Spitting_Cobra, race=therian
-#: Era_of_Myths/units/therians/c1_Serpent.cfg:18
-#: Era_of_Myths/units/therians/c2_Cobra.cfg:18
-#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:19
-#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:19
-#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:19
-#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:20
+#: Era_of_Myths/units/therians/c1_Serpent.cfg:19
+#: Era_of_Myths/units/therians/c2_Cobra.cfg:19
+#: Era_of_Myths/units/therians/c2_Sandskipper.cfg:20
+#: Era_of_Myths/units/therians/c2_Sea_Snake.cfg:20
+#: Era_of_Myths/units/therians/c3_King_Cobra.cfg:20
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:21
 msgid ""
 "The people of Theria are known for their pursuit of spirituality. The "
 "Therian have also learned to greatly respect nature from their neighbors the "
@@ -1895,16 +1882,16 @@ msgid "Spitting Cobra"
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:55
+#: Era_of_Myths/units/therians/c3_Spitting_Cobra.cfg:56
 msgid "spit"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Hunter, race=therian2
+#. [unit_type]: id=EOM_Therian_Hunter, race=therian
 #: Era_of_Myths/units/therians/d1_Hunter.cfg:5
 msgid "Hunter"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Hunter, race=therian2
+#. [unit_type]: id=EOM_Therian_Hunter, race=therian
 #: Era_of_Myths/units/therians/d1_Hunter.cfg:21
 msgid ""
 "The hunters of Theria travel with minimal armor, carrying only their bow, "
@@ -1921,12 +1908,12 @@ msgstr ""
 msgid "skinning knife"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Tracker, race=therian2
+#. [unit_type]: id=EOM_Therian_Tracker, race=therian
 #: Era_of_Myths/units/therians/d2_Tracker.cfg:5
 msgid "Tracker"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Tracker, race=therian2
+#. [unit_type]: id=EOM_Therian_Tracker, race=therian
 #: Era_of_Myths/units/therians/d2_Tracker.cfg:21
 msgid ""
 "The hunters of Theria travel with minimal armor, carrying only their bow, "
@@ -1937,12 +1924,12 @@ msgid ""
 "adept at hunting their prey."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Ranger, race=therian2
+#. [unit_type]: id=EOM_Therian_Ranger, race=therian
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:5
 msgid "Ranger"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Ranger, race=therian2
+#. [unit_type]: id=EOM_Therian_Ranger, race=therian
 #: Era_of_Myths/units/therians/d3_Ranger.cfg:22
 msgid ""
 "Therian Rangers have trained to hunt with only a knife in case of an "
@@ -1950,14 +1937,14 @@ msgid ""
 "point where they cannot be caught off guard."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Guard, race=therian2
+#. [unit_type]: id=EOM_Therian_Guard, race=therian
 #: Era_of_Myths/units/therians/e1_Guard.cfg:5
 msgid "Therian Guard"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Defender, race=therian2
-#. [unit_type]: id=EOM_Therian_Guard, race=therian2
-#: Era_of_Myths/units/therians/e1_Guard.cfg:23
+#. [unit_type]: id=EOM_Therian_Defender, race=therian
+#. [unit_type]: id=EOM_Therian_Guard, race=therian
+#: Era_of_Myths/units/therians/e1_Guard.cfg:18
 #: Era_of_Myths/units/therians/e2_Defender.cfg:19
 msgid ""
 "Therian are peaceful and spiritual by nature, but must protect themselves "
@@ -1969,24 +1956,24 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=pierce
-#: Era_of_Myths/units/therians/e1_Guard.cfg:39
+#: Era_of_Myths/units/therians/e1_Guard.cfg:34
 #: Era_of_Myths/units/therians/e2_Defender.cfg:35
 msgid "spear throw"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Defender, race=therian2
+#. [unit_type]: id=EOM_Therian_Defender, race=therian
 #: Era_of_Myths/units/therians/e2_Defender.cfg:5
 msgid "Therian Defender"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Monk, race=therian2
+#. [unit_type]: id=EOM_Therian_Monk, race=therian
 #: Era_of_Myths/units/therians/f1_Monk.cfg:5
 msgid "Monk"
 msgstr ""
 
-#. [unit_type]: id=EOM_Aura_Master, race=therian2
-#. [unit_type]: id=EOM_Aura_Monk, race=therian2
-#. [unit_type]: id=EOM_Therian_Monk, race=therian2
+#. [unit_type]: id=EOM_Aura_Master, race=therian
+#. [unit_type]: id=EOM_Aura_Monk, race=therian
+#. [unit_type]: id=EOM_Therian_Monk, race=therian
 #: Era_of_Myths/units/therians/f1_Monk.cfg:27
 #: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:25
 #: Era_of_Myths/units/therians/f3_Aura_Master.cfg:25
@@ -2013,22 +2000,22 @@ msgstr ""
 msgid "spiritual aura"
 msgstr ""
 
-#. [unit_type]: id=EOM_Aura_Monk, race=therian2
+#. [unit_type]: id=EOM_Aura_Monk, race=therian
 #: Era_of_Myths/units/therians/f2_Aura_Monk.cfg:5
 msgid "Aura Monk"
 msgstr ""
 
-#. [unit_type]: id=EOM_Aura_Master, race=therian2
+#. [unit_type]: id=EOM_Aura_Master, race=therian
 #: Era_of_Myths/units/therians/f3_Aura_Master.cfg:5
 msgid "Aura Master"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
+#. [unit_type]: id=EOM_Therian_Apprentice, race=therian
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:5
 msgid "Apprentice"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Apprentice, race=therian2
+#. [unit_type]: id=EOM_Therian_Apprentice, race=therian
 #: Era_of_Myths/units/therians/x1_Apprentice.cfg:18
 msgid ""
 "Therians are a peaceable people who enjoy quite study and contemplation. As "
@@ -2055,24 +2042,24 @@ msgstr ""
 msgid "freeze"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Mage, race=therian2
+#. [unit_type]: id=EOM_Therian_Mage, race=therian
 #: Era_of_Myths/units/therians/x2_Mage.cfg:5
 msgid "Mage"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Mage, race=therian2
+#. [unit_type]: id=EOM_Therian_Mage, race=therian
 #: Era_of_Myths/units/therians/x2_Mage.cfg:18
 msgid ""
 "Therians who decide to do battle magics tend to have a pretty even match of "
 "mastery between methods."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Shaman, race=therian2
+#. [unit_type]: id=EOM_Therian_Shaman, race=therian
 #: Era_of_Myths/units/therians/x2_Shaman.cfg:5
 msgid "Shaman"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Shaman, race=therian2
+#. [unit_type]: id=EOM_Therian_Shaman, race=therian
 #: Era_of_Myths/units/therians/x2_Shaman.cfg:18
 msgid ""
 "The more spirital apprentices become shamans and spend much time learning "
@@ -2080,22 +2067,22 @@ msgid ""
 "in diffrent ways."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Master, race=therian2
+#. [unit_type]: id=EOM_Therian_Master, race=therian
 #: Era_of_Myths/units/therians/x3_Master.cfg:5
 msgid "Master"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Master, race=therian2
+#. [unit_type]: id=EOM_Therian_Master, race=therian
 #: Era_of_Myths/units/therians/x3_Master.cfg:19
 msgid "A master magician is a force to be reckoned with."
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Priest, race=therian2
+#. [unit_type]: id=EOM_Therian_Priest, race=therian
 #: Era_of_Myths/units/therians/x3_Priest.cfg:5
 msgid "Priest"
 msgstr ""
 
-#. [unit_type]: id=EOM_Therian_Priest, race=therian2
+#. [unit_type]: id=EOM_Therian_Priest, race=therian
 #: Era_of_Myths/units/therians/x3_Priest.cfg:19
 msgid ""
 "Therian Priests are shamans who have become very skilled in the many skills "
