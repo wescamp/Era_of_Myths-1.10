@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2012-09-11 08:32-0400\n"
-"PO-Revision-Date: 2012-05-29 14:25+0200\n"
+"PO-Revision-Date: 2012-09-11 11:58+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
 "Language: la\n"
@@ -268,7 +268,7 @@ msgstr ""
 #. [advancement]: id=monster
 #: Era_of_Myths/macros/amla.cfg:9
 msgid "Max HP bonus +5, +1 damage to all attacks, max XP +25%"
-msgstr ""
+msgstr "PS optima +5, ictus +1, PU necesaria +25%"
 
 #. [chance_to_hit]: id=ferocious
 #. [trait]: id=ferocious2
@@ -572,7 +572,7 @@ msgstr "solida"
 msgid ""
 "These Devlings are bigger than other Devlings and can withstand more "
 "punishment."
-msgstr ""
+msgstr "Daemonia ista ceteris Daemoniis maiora robustioraque sunt."
 
 #. [trait]: id=brainy
 #: Era_of_Myths/macros/traits.cfg:133
@@ -587,7 +587,7 @@ msgstr "callida"
 #. [trait]: id=brainy
 #: Era_of_Myths/macros/traits.cfg:135
 msgid "Brainy Devlings level faster than their brethren."
-msgstr ""
+msgstr "Daemonia callida celerius discunt"
 
 #. [trait]: id=brawny
 #: Era_of_Myths/macros/traits.cfg:151
@@ -602,7 +602,7 @@ msgstr "valida"
 #. [trait]: id=brawny
 #: Era_of_Myths/macros/traits.cfg:153
 msgid "Brawny Devlings hit harder, but are dumber than other Devlings."
-msgstr ""
+msgstr "Daemoniis validis robor est maior, sed stultiores sunt."
 
 #. [trait]: id=elemental, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Myths/macros/traits.cfg:172
@@ -1408,7 +1408,7 @@ msgid ""
 msgstr ""
 "Elementaria custodes mundi sunt, genii elementis qui corpores creant "
 "pugnandi causa. Non aggressiva esse solent, sed feroces brutalisque esse "
-"possunt- nullum natura atrocior esse dicitur."
+"possunt - nullum natura atrocius esse dicitur."
 
 #. [unit_type]: id=EOM_Fire, race=elemental
 #: Era_of_Myths/units/elementals/a1_Fire_Elemental.cfg:5
@@ -2621,7 +2621,6 @@ msgstr "Nympha"
 
 #. [race]: id=dryad
 #: Era_of_Myths/units/warg.cfg:6
-#, fuzzy
 msgid "race^Dryads"
 msgstr "Nymphae"
 
@@ -3303,7 +3302,7 @@ msgstr ""
 #: Era_of_Myths/units/windsong/d3_Farstrider.cfg:40
 #: Era_of_Myths/units/windsong/d3_Stormbringer.cfg:36
 msgid "polearm"
-msgstr ""
+msgstr "hasta"
 
 #. [unit_type]: id=EOM_Pathfinder, race=windsong
 #: Era_of_Myths/units/windsong/d2_Pathfinder.cfg:5
