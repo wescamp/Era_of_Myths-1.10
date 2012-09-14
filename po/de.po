@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-11 08:32-0400\n"
+"POT-Creation-Date: 2012-09-14 18:05+0200\n"
 "PO-Revision-Date: 2012-09-06 17:11+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
@@ -115,10 +115,11 @@ msgstr "Entgiftung"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:12
+#, fuzzy
 msgid ""
 "Medic:\n"
 "Allows the unit to prevent poison from taking effect on adjacent units as "
-"long as they are nearby.  The poison is not cured."
+"long as they are nearby. The poison is not cured."
 msgstr ""
 "Entgiftung:\n"
 "Die Einheit kann benachbarte Einheiten vor Giftschäden bewahren, das Gift "
@@ -206,9 +207,10 @@ msgstr "Heilung +3"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:102
+#, fuzzy
 msgid ""
 "Heal+3:\n"
-"This unit will heal allies by 3 hp at the start of it's turn. Will slow "
+"This unit will heal allies by 3 HP at the start of it's turn. Will slow "
 "poison."
 msgstr ""
 "Heilung+3:\n"
@@ -222,9 +224,10 @@ msgstr "Waldgeist"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:122
+#, fuzzy
 msgid ""
 "Foresthome:\n"
-"This unit will regenerate 3 hp when in forest."
+"This unit will regenerate 3 HP when in forest."
 msgstr ""
 "Waldgeist:\n"
 "Diese Einheit regeneriert  in Wäldern 3 Lebenspunkte."
@@ -236,9 +239,10 @@ msgstr "Wassergeist"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:138
+#, fuzzy
 msgid ""
 "Waterhome:\n"
-"This unit will regenerate 3 hp when in deep or shallow water."
+"This unit will regenerate 3 HP when in deep or shallow water."
 msgstr ""
 "Wassergeist:\n"
 "Diese Einheit regeneriert im Wasser 3 Lebenspunkte."
@@ -250,9 +254,10 @@ msgstr "Wüstengeist"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:154
+#, fuzzy
 msgid ""
 "Deserthome:\n"
-"This unit will regenerate 3 hp when in desert or sand."
+"This unit will regenerate 3 HP when in desert or sand."
 msgstr ""
 "Wüstengeist:\n"
 "Diese Einheit regeneriert in auf Sand 3 Lebenspunkte"
@@ -264,9 +269,10 @@ msgstr "Berggeist"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:170
+#, fuzzy
 msgid ""
 "Mountainhome:\n"
-"This unit will regenerate 3 hp when on mountains."
+"This unit will regenerate 3 HP when on mountains."
 msgstr ""
 "Berggeist:\n"
 "Diese Einheit regeneriert auf Bergen 3 Lebenspunkte"
@@ -278,13 +284,14 @@ msgstr "Ermutigung"
 
 #. [leadership]: id=leadership
 #: Era_of_Myths/macros/abilities.cfg:182
+#, fuzzy
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
 "\n"
-"Adjacent friendly level 1 units will do 10% more damage in battle. Does not "
-"work on Celestial messengers."
+"Adjacent friendly level 1 units will do 10% more damage in battle. This "
+"ability does not work on Celestial Messengers."
 msgstr ""
 "Ermutigung:\n"
 "Benachbarte Verbündete der Stufe 1 verursachen 10% mehr Schaden. Dies gilt "
@@ -564,13 +571,8 @@ msgstr "Vampirin"
 #. [trait]: id=vampire
 #: Era_of_Myths/macros/traits.cfg:11
 msgid ""
-"Vampires cannot be victims of drain or plague, but are still susceptible to "
-"poison attacks. Unfortunately the code cannot separate these three "
-"functions, so currently all 3 specials effect them."
+"Vampires are immune to drain and plague but are still susceptible to poison."
 msgstr ""
-"Eigentlich sollen Vampire gegen Lebensenzug und Untote Plage, nicht jeoch "
-"gegen Gift immun sein. Da das leider unmöglich ist, wirken alle drei "
-"Föhigkeiten."
 
 #. [trait]: id=ruby
 #. [trait]: id=ruby2
@@ -727,6 +729,7 @@ msgstr "Himmlische"
 
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:13
+#, fuzzy
 msgid ""
 "The Celestials have vestigial wings that for most of them do not mature. "
 "Celestials believe that light and darkness each have power, and they choose "
@@ -734,7 +737,7 @@ msgid ""
 "They are a militaristic society with great law and order that gives them "
 "strength and unity which caries over into their style of fighting. The order "
 "and unified purpose of celestial society tends to make them form larger "
-"nations than the other factions giving the celestials great military "
+"nations than the other factions giving the Celestials great military "
 "strength."
 msgstr ""
 "Die Himmlischen Heerscharen sind eine Kultur, die an die Macht von Licht und "
@@ -2047,13 +2050,14 @@ msgstr "Therianer"
 
 #. [race]: id=therian
 #: Era_of_Myths/units/therians.cfg:13
+#, fuzzy
 msgid ""
 "The Therians are a spiritual people, who are generally not very aggressive, "
 "but believe in self-sufficiency, and self-defense. They pride themselves in "
 "their development of many arts, most particularly that of shapeshifting, but "
 "also of the spiritual arts, and the magics of their jungle homes. Therians "
 "are one of the few human factions strong enough to resist the other races. "
-"They are commonly peaceful with the celestials and share a strange "
+"They are commonly peaceful with the Celestials and share a strange "
 "friendship with the warg."
 msgstr ""
 "Die Therianer sind ein spirituelles Volk, das normalerweise nicht sehr "
@@ -4224,6 +4228,15 @@ msgstr "Tod"
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:5
 msgid "female^Librarian"
 msgstr "Bibliothekarin"
+
+#~ msgid ""
+#~ "Vampires cannot be victims of drain or plague, but are still susceptible "
+#~ "to poison attacks. Unfortunately the code cannot separate these three "
+#~ "functions, so currently all 3 specials effect them."
+#~ msgstr ""
+#~ "Eigentlich sollen Vampire gegen Lebensenzug und Untote Plage, nicht jeoch "
+#~ "gegen Gift immun sein. Da das leider unmöglich ist, wirken alle drei "
+#~ "Föhigkeiten."
 
 #~ msgid ""
 #~ "The ability of this unit to inspire its allies enables adjacent units of "

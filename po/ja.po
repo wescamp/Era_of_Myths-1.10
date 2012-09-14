@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-11 08:32-0400\n"
+"POT-Creation-Date: 2012-09-14 18:05+0200\n"
 "PO-Revision-Date: 2011-11-20 17:48+0900\n"
 "Last-Translator: mishan <mishanhideaki88@gmail.com>\n"
 "Language-Team: <wesnoth-ja-translate@lists.sourceforge.jp>\n"
@@ -113,10 +113,11 @@ msgstr "応急処置"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:12
+#, fuzzy
 msgid ""
 "Medic:\n"
 "Allows the unit to prevent poison from taking effect on adjacent units as "
-"long as they are nearby.  The poison is not cured."
+"long as they are nearby. The poison is not cured."
 msgstr ""
 "応急処置:\n"
 "隣接しているユニットが毒のダメージを受けないようにします。毒を治療することは"
@@ -200,9 +201,10 @@ msgstr "回復+3"
 
 #. [heals]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:102
+#, fuzzy
 msgid ""
 "Heal+3:\n"
-"This unit will heal allies by 3 hp at the start of it's turn. Will slow "
+"This unit will heal allies by 3 HP at the start of it's turn. Will slow "
 "poison."
 msgstr "このユニットはターンの初めに味方のユニットをHPを３回復させます。"
 
@@ -213,9 +215,10 @@ msgstr "森の恵み"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:122
+#, fuzzy
 msgid ""
 "Foresthome:\n"
-"This unit will regenerate 3 hp when in forest."
+"This unit will regenerate 3 HP when in forest."
 msgstr ""
 "森の恵み:\n"
 "このユニットは森林ではターンごとにHPが3回復します。"
@@ -227,9 +230,10 @@ msgstr "水の加護"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:138
+#, fuzzy
 msgid ""
 "Waterhome:\n"
-"This unit will regenerate 3 hp when in deep or shallow water."
+"This unit will regenerate 3 HP when in deep or shallow water."
 msgstr ""
 "水の加護:\n"
 "このユニットは深水か浅瀬ではターンごとにHPが３回復します。"
@@ -241,9 +245,10 @@ msgstr "砂漠の力"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:154
+#, fuzzy
 msgid ""
 "Deserthome:\n"
-"This unit will regenerate 3 hp when in desert or sand."
+"This unit will regenerate 3 HP when in desert or sand."
 msgstr ""
 "砂漠の力:\n"
 "このユニットは砂地ではターンごとにHPが３回復します。"
@@ -255,9 +260,10 @@ msgstr "山の活力"
 
 #. [regenerate]: id=healing
 #: Era_of_Myths/macros/abilities.cfg:170
+#, fuzzy
 msgid ""
 "Mountainhome:\n"
-"This unit will regenerate 3 hp when on mountains."
+"This unit will regenerate 3 HP when on mountains."
 msgstr ""
 "山の活力:\n"
 "このユニットは山ではターンごとにHPが3回復します。"
@@ -269,13 +275,14 @@ msgstr "鼓舞"
 
 #. [leadership]: id=leadership
 #: Era_of_Myths/macros/abilities.cfg:182
+#, fuzzy
 msgid ""
 "Inspire:\n"
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
 "\n"
-"Adjacent friendly level 1 units will do 10% more damage in battle. Does not "
-"work on Celestial messengers."
+"Adjacent friendly level 1 units will do 10% more damage in battle. This "
+"ability does not work on Celestial Messengers."
 msgstr ""
 "鼓舞:\n"
 "このユニットは近くの友軍ユニットを鼓舞し、戦闘能力を向上させます。\n"
@@ -494,15 +501,9 @@ msgstr "ヴァンパイア"
 
 #. [trait]: id=vampire
 #: Era_of_Myths/macros/traits.cfg:11
-#, fuzzy
 msgid ""
-"Vampires cannot be victims of drain or plague, but are still susceptible to "
-"poison attacks. Unfortunately the code cannot separate these three "
-"functions, so currently all 3 specials effect them."
+"Vampires are immune to drain and plague but are still susceptible to poison."
 msgstr ""
-"ヴァンパイアは生命吸収や疫病の効果を無効にしますが、毒のダメージを受けます。"
-"残念ながら、「コード」ではこれらの特徴を分けることができず、ヴァンパイアに３"
-"つの特徴を与えています。"
 
 #. [trait]: id=ruby
 #. [trait]: id=ruby2
@@ -658,6 +659,7 @@ msgstr "翼人"
 
 #. [race]: id=celestial
 #: Era_of_Myths/units/celestials.cfg:13
+#, fuzzy
 msgid ""
 "The Celestials have vestigial wings that for most of them do not mature. "
 "Celestials believe that light and darkness each have power, and they choose "
@@ -665,7 +667,7 @@ msgid ""
 "They are a militaristic society with great law and order that gives them "
 "strength and unity which caries over into their style of fighting. The order "
 "and unified purpose of celestial society tends to make them form larger "
-"nations than the other factions giving the celestials great military "
+"nations than the other factions giving the Celestials great military "
 "strength."
 msgstr ""
 "翼人には翼の痕跡がありますが、多くの者の翼は成長しきっていません。光と闇には"
@@ -1954,7 +1956,7 @@ msgid ""
 "their development of many arts, most particularly that of shapeshifting, but "
 "also of the spiritual arts, and the magics of their jungle homes. Therians "
 "are one of the few human factions strong enough to resist the other races. "
-"They are commonly peaceful with the celestials and share a strange "
+"They are commonly peaceful with the Celestials and share a strange "
 "friendship with the warg."
 msgstr ""
 "獣人は霊的な人々であり、普通はそれほど攻撃的ではありませんが、自給自足と自己"
@@ -3903,6 +3905,16 @@ msgstr ""
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:5
 msgid "female^Librarian"
 msgstr "ライブラリアン"
+
+#, fuzzy
+#~ msgid ""
+#~ "Vampires cannot be victims of drain or plague, but are still susceptible "
+#~ "to poison attacks. Unfortunately the code cannot separate these three "
+#~ "functions, so currently all 3 specials effect them."
+#~ msgstr ""
+#~ "ヴァンパイアは生命吸収や疫病の効果を無効にしますが、毒のダメージを受けま"
+#~ "す。残念ながら、「コード」ではこれらの特徴を分けることができず、ヴァンパイ"
+#~ "アに３つの特徴を与えています。"
 
 #~ msgid ""
 #~ "The Therians are a spiritual people, who are generally not very "

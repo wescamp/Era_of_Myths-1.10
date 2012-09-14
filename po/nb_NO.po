@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-11 08:32-0400\n"
+"POT-Creation-Date: 2012-09-14 18:05+0200\n"
 "PO-Revision-Date: 2012-02-26 17:20+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -115,7 +115,7 @@ msgstr ""
 msgid ""
 "Medic:\n"
 "Allows the unit to prevent poison from taking effect on adjacent units as "
-"long as they are nearby.  The poison is not cured."
+"long as they are nearby. The poison is not cured."
 msgstr ""
 
 #. [heals]: id=medicplus
@@ -191,7 +191,7 @@ msgstr ""
 #: Era_of_Myths/macros/abilities.cfg:102
 msgid ""
 "Heal+3:\n"
-"This unit will heal allies by 3 hp at the start of it's turn. Will slow "
+"This unit will heal allies by 3 HP at the start of it's turn. Will slow "
 "poison."
 msgstr ""
 
@@ -204,7 +204,7 @@ msgstr ""
 #: Era_of_Myths/macros/abilities.cfg:122
 msgid ""
 "Foresthome:\n"
-"This unit will regenerate 3 hp when in forest."
+"This unit will regenerate 3 HP when in forest."
 msgstr ""
 
 #. [regenerate]: id=healing
@@ -216,7 +216,7 @@ msgstr ""
 #: Era_of_Myths/macros/abilities.cfg:138
 msgid ""
 "Waterhome:\n"
-"This unit will regenerate 3 hp when in deep or shallow water."
+"This unit will regenerate 3 HP when in deep or shallow water."
 msgstr ""
 
 #. [regenerate]: id=healing
@@ -228,7 +228,7 @@ msgstr ""
 #: Era_of_Myths/macros/abilities.cfg:154
 msgid ""
 "Deserthome:\n"
-"This unit will regenerate 3 hp when in desert or sand."
+"This unit will regenerate 3 HP when in desert or sand."
 msgstr ""
 
 #. [regenerate]: id=healing
@@ -240,7 +240,7 @@ msgstr ""
 #: Era_of_Myths/macros/abilities.cfg:170
 msgid ""
 "Mountainhome:\n"
-"This unit will regenerate 3 hp when on mountains."
+"This unit will regenerate 3 HP when on mountains."
 msgstr ""
 
 #. [leadership]: id=leadership
@@ -255,8 +255,8 @@ msgid ""
 "This unit can inspire friendly units that are next to it, making them fight "
 "better.\n"
 "\n"
-"Adjacent friendly level 1 units will do 10% more damage in battle. Does not "
-"work on Celestial messengers."
+"Adjacent friendly level 1 units will do 10% more damage in battle. This "
+"ability does not work on Celestial Messengers."
 msgstr ""
 
 #. [advancement]: id=monster
@@ -451,9 +451,7 @@ msgstr ""
 #. [trait]: id=vampire
 #: Era_of_Myths/macros/traits.cfg:11
 msgid ""
-"Vampires cannot be victims of drain or plague, but are still susceptible to "
-"poison attacks. Unfortunately the code cannot separate these three "
-"functions, so currently all 3 specials effect them."
+"Vampires are immune to drain and plague but are still susceptible to poison."
 msgstr ""
 
 #. [trait]: id=ruby
@@ -616,7 +614,7 @@ msgid ""
 "They are a militaristic society with great law and order that gives them "
 "strength and unity which caries over into their style of fighting. The order "
 "and unified purpose of celestial society tends to make them form larger "
-"nations than the other factions giving the celestials great military "
+"nations than the other factions giving the Celestials great military "
 "strength."
 msgstr ""
 
@@ -1722,7 +1720,7 @@ msgid ""
 "their development of many arts, most particularly that of shapeshifting, but "
 "also of the spiritual arts, and the magics of their jungle homes. Therians "
 "are one of the few human factions strong enough to resist the other races. "
-"They are commonly peaceful with the celestials and share a strange "
+"They are commonly peaceful with the Celestials and share a strange "
 "friendship with the warg."
 msgstr ""
 
