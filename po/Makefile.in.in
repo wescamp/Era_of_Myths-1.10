@@ -106,9 +106,9 @@ $(POFILES): $(srcdir)/$(DOMAIN).pot
 	if test -f "$(srcdir)/$${lang}.po"; then \
 	  test "$(srcdir)" = . && cdcmd="" || cdcmd="cd $(srcdir) && "; \
 	  echo "$${cdcmd}$(MSGMERGE_UPDATE) $${lang}.po $(DOMAIN).pot"; \
-	  cd $(srcdir) && $(MSGMERGE_UPDATE) $${lang}.po $(DOMAIN).pot; \
+	  cd $(srcdir) && $(MSGMERGE_UPDATE) $${lang}.po $(DOMAIN).pot 2>&1; \
 	else \
-	  echo "$${lang}.po is missing. You should probably update the build system"; \
+	  echo "$${lang}.po is missing. You should probably update the build system" >&2; \
 	fi
 
 info dvi ps pdf html tags TAGS ctags CTAGS ID:
