@@ -60,9 +60,14 @@ all:
 # This target rebuilds $(DOMAIN).pot; it is an expensive operation.
 # Note that $(DOMAIN).pot is not touched if it doesn't need to be changed.
 $(DOMAIN).pot-update: $(srcdir)/remove-potcdate.sed
-	if test -r $(srcdir)/FINDCFG ;\
-	then ${WMLXGETTEXT} --directory=$(top_srcdir) --domain=$(DOMAIN) \
-	  `cd $(top_srcdir) && sh $(subdir)/FINDCFG` > $(DOMAIN).wml.po ;\
+	if ! test -r $(srcdir)/FINDCFG; then \
+	  echo "FINDCFG is missing" 1>&2; \
+	  exit 1; \
+	fi;
+	if ! ${WMLXGETTEXT} --directory=$(top_srcdir) --domain=$(DOMAIN) \
+	  `cd $(top_srcdir) && sh $(subdir)/FINDCFG` > $(DOMAIN).wml.po ; then \
+	  echo "${WMLXGETTEXT} failed" 1>&2; \
+	  exit 1; \
 	fi
 	if test -f $(DOMAIN).wml.po ; then \
 	  mv $(DOMAIN).wml.po $(DOMAIN).po ;\

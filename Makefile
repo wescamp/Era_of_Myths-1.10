@@ -8,7 +8,7 @@ GMOFILES=${LANGS:=.gmo}
 CATALOGS=${LANGS:=.gmo}
 
 all: setup
-	cd po && make update-po
+	cd po && (make update-po || (make clean && false))
 	for locale in `cat po/LINGUAS`; do \
 		if test -f po/$${locale}.gmo; then \
 			mkdir -p ${CAMPAIGN}/translations/$${locale}/LC_MESSAGES ;\
