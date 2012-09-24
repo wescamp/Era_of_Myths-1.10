@@ -1,2 +1,7 @@
+if test 0 -ne `find . -name '* *'|wc -l`; then
+    find . \( -name '* *.cfg' -or -name '* *.lua' \) -exec echo Filename with spaces found: '{}' \; >&2
+    echo filename-with-spaces-found
+    exit 1
+fi
 find . -name '*.cfg' -print
 find . -name '*.lua' -print
