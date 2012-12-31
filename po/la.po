@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Era_of_Myths-1.10\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-09-14 18:05+0200\n"
+"POT-Creation-Date: 2012-12-31 09:41-0500\n"
 "PO-Revision-Date: 2012-09-11 11:58+0200\n"
 "Last-Translator: Torben Undiwill <>\n"
 "Language-Team: none\n"
@@ -19,10 +19,10 @@ msgstr ""
 msgid "Era of Myths"
 msgstr "Aetas Mythica"
 
-#. [era]: id=era_EOM_core_{ERA_OF_MYTHS_VERSION}
+#. [era]: id=era_EOM_balanced_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:20
-msgid "Core Era of Myths"
-msgstr "Aetas Mythica Basica"
+msgid "Balanced Myths"
+msgstr ""
 
 #. [era]: id=era_EOM_power_{ERA_OF_MYTHS_VERSION}
 #: Era_of_Myths/EOM_eras.cfg:32
@@ -504,26 +504,35 @@ msgid ""
 msgstr ""
 
 #. [trait]: id=ruby
-#. [trait]: id=ruby2
-#: Era_of_Myths/macros/traits.cfg:19 Era_of_Myths/macros/traits.cfg:35
+#: Era_of_Myths/macros/traits.cfg:19
 msgid "ruby"
 msgstr "rubinus"
 
 #. [trait]: id=ruby
-#. [trait]: id=ruby2
-#: Era_of_Myths/macros/traits.cfg:20 Era_of_Myths/macros/traits.cfg:36
+#: Era_of_Myths/macros/traits.cfg:20
 msgid "female^ruby"
 msgstr "rubina"
 
-#. [trait]: id=diamond
-#: Era_of_Myths/macros/traits.cfg:52
-msgid "diamond"
-msgstr "adamas"
+#. [trait]: id=amethyst
+#: Era_of_Myths/macros/traits.cfg:35
+msgid "amethyst"
+msgstr ""
 
-#. [trait]: id=diamond
+#. [trait]: id=amethyst
+#: Era_of_Myths/macros/traits.cfg:36
+#, fuzzy
+msgid "female^amethyst"
+msgstr "harmonica"
+
+#. [trait]: id=emerald
+#: Era_of_Myths/macros/traits.cfg:52
+msgid "emerald"
+msgstr "smaragdus"
+
+#. [trait]: id=emerald
 #: Era_of_Myths/macros/traits.cfg:53
-msgid "female^diamond"
-msgstr "adamas"
+msgid "female^emerald"
+msgstr "smaragda"
 
 #. [trait]: id=sapphire
 #: Era_of_Myths/macros/traits.cfg:68
@@ -535,15 +544,15 @@ msgstr "sapphirus"
 msgid "female^sapphire"
 msgstr "sapphirus"
 
-#. [trait]: id=emerald
+#. [trait]: id=diamond
 #: Era_of_Myths/macros/traits.cfg:80
-msgid "emerald"
-msgstr "smaragdus"
+msgid "diamond"
+msgstr "adamas"
 
-#. [trait]: id=emerald
+#. [trait]: id=diamond
 #: Era_of_Myths/macros/traits.cfg:81
-msgid "female^emerald"
-msgstr "smaragda"
+msgid "female^diamond"
+msgstr "adamas"
 
 #. [trait]: id=incorporeal, description={STR_NONLIVING_DESCRIPTION}
 #: Era_of_Myths/macros/traits.cfg:98
@@ -688,7 +697,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=arcane
-#: Era_of_Myths/units/celestials/a1_Crusader.cfg:32
+#: Era_of_Myths/units/celestials/a1_Crusader.cfg:33
 #: Era_of_Myths/units/celestials/a2_Divine_Knight.cfg:32
 #: Era_of_Myths/units/celestials/a2_Quester.cfg:38
 #: Era_of_Myths/units/celestials/a3_Divine_Champion.cfg:33
@@ -977,14 +986,6 @@ msgid ""
 "the suns power into rapid magical blasts."
 msgstr ""
 
-#. [attack]: type=fire
-#: Era_of_Myths/units/celestials/e2_Great_Wizard.cfg:38
-#: Era_of_Myths/units/celestials/e2_Mystic.cfg:38
-#: Era_of_Myths/units/celestials/e3_Prophet.cfg:39
-#: Era_of_Myths/units/celestials/e3_Sage.cfg:39
-msgid "shock"
-msgstr "flamma empyrica"
-
 #. [unit_type]: id=EOM_Mystic, race=celestial
 #: Era_of_Myths/units/celestials/e2_Mystic.cfg:5
 msgid "Mystic"
@@ -997,12 +998,6 @@ msgid ""
 "magic. These are known as mystics. Their skills in this area allow them to "
 "aid the army in new ways."
 msgstr ""
-
-#. [attack]: type=arcane
-#: Era_of_Myths/units/celestials/e2_Mystic.cfg:50
-#: Era_of_Myths/units/celestials/e3_Prophet.cfg:51
-msgid "celestial glaive"
-msgstr "falx superna"
 
 #. [unit_type]: id=EOM_Prophet, race=celestial
 #: Era_of_Myths/units/celestials/e3_Prophet.cfg:5
@@ -1017,6 +1012,12 @@ msgid ""
 "things they say will happen, records have shone prophecies thousands of "
 "years old coming true. These wizards are also deadly warriors in combat."
 msgstr ""
+
+#. [attack]: type=arcane
+#: Era_of_Myths/units/celestials/e3_Prophet.cfg:51
+#, fuzzy
+msgid "divine lightning"
+msgstr "Oppugnator Diei"
 
 #. [unit_type]: id=EOM_Sage, race=celestial
 #: Era_of_Myths/units/celestials/e3_Sage.cfg:5
@@ -1476,7 +1477,7 @@ msgid "Air Elemental"
 msgstr "Aereum"
 
 #. [unit_type]: id=EOM_Air, race=elemental
-#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:26
+#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:25
 msgid ""
 "Wind spirits take the form of a purple cloud. It fights with the ice winds "
 "of the north that can draw the living heat from your skin, and gales of wind "
@@ -1485,7 +1486,7 @@ msgid ""
 msgstr ""
 
 #. [attack]: type=impact
-#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:45
+#: Era_of_Myths/units/elementals/b0_Air_Elemental.cfg:44
 msgid "Galeforce"
 msgstr "procella"
 
@@ -1509,11 +1510,11 @@ msgstr ""
 msgid "beak"
 msgstr "rostrum"
 
-#. [attack]: type=fire
+#. [attack]: type=blade
 #: Era_of_Myths/units/elementals/b1_Razorbird.cfg:49
 #: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:48
-msgid "thunderbolt"
-msgstr "fulmen"
+msgid "blade shower"
+msgstr ""
 
 #. [unit_type]: id=EOM_Wind_Spirit, race=elemental
 #: Era_of_Myths/units/elementals/b1_Wind_Spirit.cfg:5
@@ -1543,6 +1544,11 @@ msgstr "Avis Fulminis"
 #: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:27
 msgid "The Thunderbird has matured it's lightning bolt into a powerful force."
 msgstr ""
+
+#. [attack]: type=fire
+#: Era_of_Myths/units/elementals/b2_Thunderbird.cfg:57
+msgid "thunderbolt"
+msgstr "fulmen"
 
 # anemus is just a general term for wind in Greek, I think using Zephyr's namesake is doable
 #. [unit_type]: id=EOM_Zephyr, race=elemental
@@ -2324,7 +2330,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:78
+#: Era_of_Myths/units/vampires/b0_Bloodborn.cfg:81
 msgid "female^Bloodborn"
 msgstr "Sanguine Nata"
 
@@ -2344,7 +2350,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/b1_Malborn.cfg:75
+#: Era_of_Myths/units/vampires/b1_Malborn.cfg:78
 msgid "female^Malborn"
 msgstr "Malenata"
 
@@ -2365,7 +2371,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:86
+#: Era_of_Myths/units/vampires/c1_Fledgeling.cfg:113
 msgid "female^Fledgeling"
 msgstr "Tiro"
 
@@ -2387,7 +2393,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c2_Duelist.cfg:88
+#: Era_of_Myths/units/vampires/c2_Duelist.cfg:115
 msgid "female^Duelist"
 msgstr "Ensifer"
 
@@ -2410,7 +2416,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c2_Noble.cfg:90
+#: Era_of_Myths/units/vampires/c2_Noble.cfg:117
 msgid "female^Noble"
 msgstr "Nobilis"
 
@@ -2435,7 +2441,7 @@ msgid "dementia gaze"
 msgstr "fascinum"
 
 #. [female]
-#: Era_of_Myths/units/vampires/c3_Sire.cfg:101
+#: Era_of_Myths/units/vampires/c3_Sire.cfg:146
 msgid "female^Mistress"
 msgstr "Princeps"
 
@@ -2454,7 +2460,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:94
+#: Era_of_Myths/units/vampires/c3_Sword_Dancer.cfg:122
 msgid "female^Sword Dancer"
 msgstr "Sallatrix Gladii"
 
@@ -2475,7 +2481,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:100
+#: Era_of_Myths/units/vampires/c4_Methusalem.cfg:145
 msgid "female^Duchess"
 msgstr "Aeterna"
 
@@ -2497,7 +2503,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:102
+#: Era_of_Myths/units/vampires/d1_Thin_Blood.cfg:118
 msgid "female^Thin Blood"
 msgstr "Hybrida"
 
@@ -2515,7 +2521,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:99
+#: Era_of_Myths/units/vampires/d2_Half_Blood.cfg:117
 msgid "female^Half Blood"
 msgstr "Hybrida Aequata"
 
@@ -2535,7 +2541,7 @@ msgid ""
 msgstr ""
 
 #. [female]
-#: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:104
+#: Era_of_Myths/units/vampires/d3_Day_Hunter.cfg:121
 msgid "female^Day Hunter"
 msgstr "Venatrix Diurna"
 
@@ -2561,7 +2567,7 @@ msgid "poisoned dagger"
 msgstr "pugio venatus"
 
 #. [female]
-#: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:135
+#: Era_of_Myths/units/vampires/d3_Twilight_Walker.cfg:130
 msgid "female^Twilight Walker"
 msgstr "Hybrida Ancipis"
 
@@ -3486,8 +3492,8 @@ msgstr ""
 #. [attack]: type=arcane
 #: Era_of_Myths/units/windsong/f1_Scribe.cfg:36
 #: Era_of_Myths/units/windsong/f2_Savant.cfg:34
-#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:47
-#: Era_of_Myths/units/windsong/f4_Librarian.cfg:48
+#: Era_of_Myths/units/windsong/f3_Arbiter.cfg:37
+#: Era_of_Myths/units/windsong/f4_Librarian.cfg:38
 msgid "cipher"
 msgstr "signum"
 
@@ -3542,6 +3548,15 @@ msgstr "mors"
 #: Era_of_Myths/units/windsong/f4_Librarian.cfg:5
 msgid "female^Librarian"
 msgstr "Philosopha"
+
+#~ msgid "Core Era of Myths"
+#~ msgstr "Aetas Mythica Basica"
+
+#~ msgid "shock"
+#~ msgstr "flamma empyrica"
+
+#~ msgid "celestial glaive"
+#~ msgstr "falx superna"
 
 #~ msgid ""
 #~ "The Therians are a spiritual people, who are generally not very "
