@@ -14,6 +14,7 @@ CO-MAINTAINER:
 --Espreon
 --Velensk
 --Drakefriend
+--bumbadadabum
 
 SPECIAL THANKS:
 --Jester
@@ -61,6 +62,7 @@ Art:
 --Neoriceisgood
 --Guest_1219
 --Eleazar
+--Espreon
 --others
 
 DEVLINGS:
@@ -121,3 +123,5 @@ Original idea, art:
 --megane
 New descriptions:
 --henkutsu
+Additional Art:
+--Deciton_Reven

@@ -2,6 +2,39 @@
 		----- The Era of Myths -----
 		          changelog
 
+VERSION 5.14.0
+--general changes
+*removed the "Core Era of Myths" era
+*new era: "Balanced Myths", containing the Celestials, Elementals, Vampires and Windsong
+
+-Celestials
+*updated animations and sounds for all units
+*Crusader: both attacks +1 damage
+*better recruitment AI
+
+-Elementals
+*changed trait names to better suit their effects
+*changed the Razorbird's and Thunderbird's attacks
+*removed the Unicorn's lightbeam attack
+*updated animations and sounds for all units
+
+-Vampires
+*better recruitment AI
+
+-Windsong
+*updated animations and sounds for all units
+*changed the Heretic's and Harbinger's attack icons
+
+VERSION 5.13.0
+-Celestials
+*new sprite for the Divine Knight
+
+-Vampires
+*added attack sounds for all units
+
+-Windsong
+*new sprite for the Harbinger
+
 VERSION 5.12.0a
 *added a missing #enddef
 
